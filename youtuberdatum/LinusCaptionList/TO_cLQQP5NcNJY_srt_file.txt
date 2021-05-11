@@ -1,0 +1,190 @@
+whether AMD had always intended to
+debate Nvidia when releasing their rx
+5700 series is up for debate but in any
+event the minor price war of more of a
+priced skirmish really went a long way
+to making mid-range GPUs more affordable
+and accessible and that's a great thing
+for everyone looking to build a new PC
+or upgrade an existing PC which is why
+we're here today whether your gamer or a
+creator using birthday money or cue
+money we've got you covered and when
+you're ready to pick up your new GPU our
+sponsor privacy has you covered get a
+brand new virtual credit card number
+each time you use it when you shop with
+privacy click the link below to get $5
+off your first purchase and that's free
+money go get a coffee or something
+[Music]
+let's start with the budget segment
+let's say you saved up for a while and
+now you've got five hundred dollars to
+spend on building a new PC realistically
+the most you can or should spare on a
+GPU in this range would be about a
+hundred dollars with this in mind well
+your options are very limited unless you
+want to expand your budget by $50 or so
+at the expense of say the power supply
+at $100 though
+new card pricing gets kind of strange
+because the rx 500 series is old enough
+now that the prices for lower hand
+variants and higher-end variants are
+converging now this makes the rx 570 the
+definitive choice for a new budget card
+but who says you need to buy new you can
+get your hands on a faster used Radeon
+rx 580 for around the same price or a
+gtx 1066 gigabyte for a couple extra
+bucks if you need CUDA or one little
+more performance of course this does
+depend on the availability in your
+region of the world now let's say it's
+your birthday happy birthday by the way
+and you open up that shiny new Linus
+tech tips insulated water bottle your
+aunt got you from the LTTE store calm
+and you found some money inside great
+all of a sudden you've got a $750 budget
+so what now assuming you're building a
+rise in five thirty six hundred based
+system or something similar you've got
+about two hundred and forty dollars to
+play with here depending on your
+priorities so your options actually open
+up quite a lot now if you're looking at
+new and box cards your choices are going
+to boil down to the rx 590 and GTX 1616
+on TI you can get a 16 60 TI for an
+extra 20 bucks if you can spare a few
+coffees or you could go used and pick up
+a reference rx bigot 56 for around $200
+or so which will mop the floor with
+either of these cards not only in gaming
+but also in any compute scenario that
+can utilize OpenCL there's our answer
+then if you're ok with used grab a Vega
+56 regardless of what you do but if
+you're dead set on new then my
+recommendation is to spend the extra $20
+to get a gtx 1660 TI the wait what's
+that you found another hypothetical 250
+dollars to make it an even grand why
+didn't you say so I'd still recommend
+sticking with a rise in
+five 3,600 at this price point but you
+can spoil yourself a little with a
+biggish SSD and some fast RAM by the
+time all is said and done you're left
+with about three hundred and thirty
+dollars for the GPU more if you don't
+really care about those niceties it's
+here that the RX bagan 56 becomes
+available to you at retail and it's also
+around the price of an entry-level r-tx
+2016 non-super but neither of those
+options nor anything in the used market
+is as good as deal as the Radeon rx 5709
+xt starting at 349 and beating out the
+RT x 2060 by a considerable margin and
+our testing as you can see in this
+review that I hosted it's worth the
+extra little stretch to pick one up over
+the competition even from team red
+remember this performance level is
+similar to the gtx 1070 TI but I suppose
+if you need CUDA or you really want RDX
+and PLSS support or you just really hate
+Andes drivers not that I blame you tbh
+the RT X 2060 is there for the same
+price oh sweet that's a sizable tax
+return you've got there what's that like
+$1500 you can build a sick PC with that
+throw a risin 730 700 X in there 16 gigs
+of fast ddr4 3,600 memory nvme SSD
+tempered glass case and you've still got
+about $500 left in the bank for the GPU
+obviously the mind immediately settles
+on the NVIDIA GeForce r-tx 2070 super
+which starting at $500 is quite the
+spend but as a middle ground between the
+RT X 2070 and the RT X 2080 the RT X
+2070 super is enough for high-end 1440p
+gaming at the least to say nothing of
+its compute chops or RT X and DL SS
+support you could make an interesting
+compromise though you could save a
+hundred bucks by grabbing a non
+reference rx 5700 XT you know the ones
+that don't overheat and sound like a jet
+engine that way you not only get access
+to excellent OpenCL performance but you
+also gain a bit of versatility to
+shuffle your other components around
+want more RAM sure what a rise in 730
+800 X or Core i7 9700 K go
+for it this is a pretty comfortable
+place to be building a PC from so
+balance it to your needs and you're good
+to go you there in the top hat and
+monocle you've got two grand to spare
+right after you get a better hat how
+about building a PC I'm talking 12 cores
+royal memory tempered glass with RGB the
+whole shebang you've got about seven
+hundred seventy-five dollars left
+what GPU do you buy okay this one's real
+simple unless you want to run Mac OS or
+your war-club uses OpenCL you buy the
+r-tx 2080 super there just isn't a
+comparable product on the market right
+now and unfortunately for consumers
+nvidia knows this all too well hence why
+the super variant wasn't a major leap
+forward and performance for the price
+over the non super and why there isn't
+yet an RT x20 atti super anyway if you
+do want to run Mac OS or you do use
+OpenCL then this is the only real time
+that the Radeon seven makes sense it's
+really no wonder it was reported that
+AMD had stopped producing them beyond
+that price point the only real options
+are the RT X xx atti Titan RT X and
+workstation cards like the quad rose and
+Radeon Instinct series if you're
+prepared to drop that kind of cash down
+the choice should be pretty obvious by
+what you can afford or else by what's
+best for your workload for gamers AMD
+has nothing in this price point and
+crossfire is dead now so my condolences
+to team red at the high end for now
+but hopefully 2020 brings some more
+competition to shake up the market
+thankfully for your ears that's already
+happened to headphones thanks to the
+mass drop and Sennheiser collaboration
+on the venerable HD 6 xx headphones with
+over 70,000 units sold it's an all-time
+bestseller on mass drop thanks to its
+ballast mid-range and natural sounding
+bass taking community feedback into
+account they've included an eighth inch
+plug for everyday use and a quarter inch
+adapter for professionals all backed by
+Sennheiser themselves click the link
+below and get it today at drop com
+we're new users can get $20 off thanks
+for watching guys if this video suck you
+know what to do but it was
+get subscribed hit that like button or
+check out where to buy some of the stuff
+we featured in the video description
+also link down there is our merch store
+which you can get cool shirts like this
+one and our community forum which you
+should totally join

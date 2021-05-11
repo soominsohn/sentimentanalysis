@@ -1,0 +1,276 @@
+ninety-seven forerunner elite CRV 2011
+senado it's only a hundred thousand
+clicks on it oh sorry I didn't see you
+there I was just checking out what kind
+of vehicle I could purchase for myself
+for around fifty five hundred US dollars
+and then I thought vehicle
+who wants a vehicle for that kind of
+money meet the nvidia quadro r-tx eight
+thousand a fifty five hundred US dollar
+graphics card yes my friends this is the
+most powerful and most expensive single
+GPU in their lineup but what could
+possibly justify it I will tell you
+after this message from our sponsor
+glass wire glass wire lets you instantly
+see your current and past network
+activity detect malware and block badly
+behaving apps on your PC or Android
+device use offer code linus to get 25%
+off glass wire at the link below
+[Music]
+I wouldn't blame you for thinking that
+the dual Titan r-tx GPUs in our
+compensator 2020 build is the pinnacle
+of desktop GPU performance I mean watch
+this watch this guys okay so I've got a
+live blender viewport here I'm just
+gonna switch to the rendered view holy
+smokes that's free and incredible as a
+digital artist or animator being able to
+see what I'm working on in darn near
+real-time opens up just about unlimited
+creative possibilities I can change the
+color of my lighting and boom I can see
+what that looks like in the reflections
+off the armor or as glasses or whatever
+the case may be and I could change
+things like my lighting source I could
+go from an area light to the Sun let's
+see what else can I do here oh yes I can
+change the angle you know maybe we're
+more into like you know a sunset versus
+the Sun being you know directly over top
+of them to change our intensity oh man
+it's so bright out these glasses
+changing gears to the junkyard scene
+this is how long it takes
+without the AI acceleration that is
+built into the Titan and let's see it's
+actually still quite noisy we fire up
+our a I accelerated denoising head over
+to our camera options here and now we
+can play around with things like the
+focus distance so check this out I'm now
+focused on the cat helmet and you can
+actually see we've got a very filmic
+looking bokeh down behind it this is a
+technique that animators use to make
+their animated films look and feel more
+like live-action films where they can
+adjust the iris as well as the focus of
+the actual lens and what it helps do is
+draw your attention to the correct part
+of the scene that you're supposed to be
+looking at like maybe this guy with the
+dialogue here is what we're supposed to
+be focused on you can really see how it
+changes what I'm drawn to depending on
+what's in focus now we fire up this test
+scene in Autodesk Maya we're gonna
+switch over to the Arnold renderer now
+when you're rendering it this kind of
+detail level with this many light
+bounces like look at these great subtle
+reflections in the armor there's nothing
+that you can do to get game-like
+performance you know
+many many frames per second but being
+able to do it even this fast gives me a
+much better idea of what I'm working
+with when I make changes to my dude here
+or dudette we have no way of knowing
+what gender the armor wearer is finally
+we can look at our performance and a
+broader range of professional
+applications including things like 3d
+rendering but also things like energy
+exploration simulation all that kind of
+good stuff
+this is Specter you perf and it takes
+about 45 minutes to an hour to run which
+gives us plenty of time to talk about
+the actual subject of today's video this
+sucker has 4608 tutor course 576 tensor
+cores so those are four like AI and
+stuff it's coming out
+76 rage free sing course it can be
+configured with up to two of them using
+the env link fingers on the top and it's
+got a whopping 300 watt TDP so that is
+the amount of power we would expect it
+to consume in your system the weight all
+that is basically identical to the Titan
+r-tx
+for more than double the price what's
+going on here well there are a couple
+differences first up the power plugs are
+at the back rather than the top of the
+board this improves compatibility in
+certain low profile chassis and gives
+them room to put ah these connectors so
+right there is the stereo connector so
+you would use that if you were using
+your graphic solution for working in
+stereoscopic 3d and the sync connector
+which we've actually used in the past to
+sync up multiple Quadros so they can all
+output as one gigantic mosaicked display
+so if you actually needed this much GPU
+horsepower on a gigantic video wall this
+would be the only way to do that also
+the display connectors on the cards
+themselves are actually slightly
+different so instead of three display
+ports a USB type-c their VR link Fang
+and an HDMI we actually get four display
+ports along with VR link the cooler is
+completely different so instead of a
+tacky
+golden black dual fan affair we've got a
+tacky silver green and black single fan
+affair so this probably comes down more
+to the types of chassis they expect this
+card to be installed in or it'd be more
+important to draw in your cool air over
+here and exhaust it out the back rather
+than recirculating it inside the case
+finally the biggest probably most
+relevant difference instead of 24 gigs
+of GDD are six memory this sucker has a
+whopping 48 gigabytes of gddr5 it to
+flip in your memory all that often on
+this one when that happens it should
+account for it and correct it enough
+chitter-chatter though our before test
+is run so it's time to shut this puppy
+down and see just what
+$5500 graphics card is capable of oh I
+got to take both out because remember
+these are equivalent solutions in terms
+of their cost for the price of both of
+these and an SLI bridge all I can get is
+one of these so it better impress the
+pants off me that's right Brandon it's
+possible that I will have no pants by
+the time we are done shooting this video
+but only if it impresses the pants off
+me so don't pre-kill yep I mean it could
+also scare the pants off me or
+disappoint the pants off me
+okay there's a high possibility I will
+have no pants Brandon I think this might
+be the single most expensive component
+in the compensator it somehow looks even
+gaudier than the Titans okay I'm ready
+to oh wait no no shoot so it's not as
+big of a deal as it used to be now that
+they have their studio drivers for the
+g-force and Titan cards but if we want
+to give this thing the absolute fairest
+shake then I should really be installing
+the Quadro drivers which include all the
+certifications for professional
+applications and some performance tuning
+apparently
+curious I did expect the Quadro driver
+to be a slightly older version so in
+this case it's 430 6.30 instead of 440
+2.50 but what I wasn't expecting was for
+it to be so much smaller it's about a
+hundred and fifty mags smaller than the
+g-force driver it's less stuff included
+I guess so we're gonna do the same
+things that we did last time around
+except I want to see if it is any
+different well just like before without
+the AI denoising it does take quite a
+while to render a new view of blender
+man here that's fine you can turn that
+on that feels about the same okay GPU
+usage sitting in a comfy 20 to 25
+percent range now we can play around
+with our lighting color again get some
+blue light on there maybe do something
+similar to last time I mean all this
+kind of feels the same when we're
+manipulating blender man here except
+this is the gotcha so come on in here
+guys over the last few years the
+difference in features between g-force
+and quadrille cards has actually
+narrowed but we're Quadro still stands
+alone is in the total amount of GPU
+memory so this scene loading it all in
+only takes around 7.6 gigs of ram so
+what would happen is as soon as we load
+in a much much larger more complicated
+scene and we exceed our 48 gigs it would
+start to have to swap to system memory
+which is quite a bit slower where the
+Quadro stands out is with two of them
+using an env link bridge you can have up
+to 96 gigs of ram enabling you to load
+up gigantic scenes and there might be
+some places where we do find performance
+differences let's go on I didn't expect
+the difference here and I didn't get one
+so that's good yeah that feels very
+similar but once again this scene only
+takes 10 gigs of GPU memory so we're not
+constrained by it
+time to give spec view perfect crack at
+this okay here we go
+so whether we're talking computer
+assisted design where we see as much as
+a 20-25 percent performance improvement
+or
+the medical imaging benchmark where
+actually it's getting close to double
+it's about 70% faster the Quadro really
+sets itself apart from our Titan setup
+because a lot of these workloads don't
+really benefit from a second GPU much
+like well gaming with that said not once
+was our Quadro fully double the speed of
+our Titan setups so if you are looking
+for a bang for the buck I mean it you
+probably weren't then this is not really
+what you're after but if you're looking
+for the most validated thing that gives
+you the best performance and in certain
+edge cases like when you need 96 gigs of
+ram for a gigantic scene
+it's basically what you're stuck with
+speaking of stuck with you're stuck with
+this segue to our sponsor Vesey Footwear
+messy Footwear is 100% waterproof yes my
+friends you could actually dip it in
+water even though it uses a nice
+breathable knit material you can walk
+through rain snow mud and slush without
+worry and on hot days it'll keep you
+cool and on cool days it'll keep you
+warm they're flexible and stretchy kind
+of like wearing a second pair of socks
+and they actually don't weigh that much
+more than socks there's one of the
+lightest sneakers in the world at just
+175 grams
+they've got women's and men's styles and
+a wide variety of color so you can check
+them out at Vesey Footwear comm slash
+Linus tech tips you can get $25 off
+using code Linus tech tips if you guys
+enjoyed this video maybe check out the
+full video of the compensator you're
+looking for something else to watch this
+machines come on I don't have to tell
+you guys sick look at it thanks and now
+it's even more expensive I got into
+computers before shaving
+so it was like confusing to me that
+Nvidia had a card called book watch I
+was like not like the razor
+different razor I'm funny

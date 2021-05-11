@@ -1,0 +1,272 @@
+- Starting off as a livestreamer
+can seem really scary
+if you look at the expensive gear
+that your favorite
+personalities are using.
+But I'm gonna let you
+in on a little secret.
+No come here.
+As someone with over 12 years
+of experience in this industry
+it is not about how high
+resolution your camera is
+or how crystal clear your audio is.
+It's about the content and
+engaging your audience.
+You can deal with the rest
+of that stuff once you start
+generating some income.
+So today we're gonna show
+you guys how for really cheap
+or even free,
+if you're willing to
+get a little bit hackey.
+You can create a complete
+streaming slash video
+recording set up to kick start your hobby,
+or even a career in
+online content creation.
+Once you're streaming,
+you're gonna want some sick visuals
+to accompany your content,
+which brings us perfectly
+to today's sponsor,
+OWN TV.
+They provide overlays, alerts, panels,
+and more for streamers.
+Use code LINUS to save 50%
+and stay tuned for more
+later in this video.
+(electric music)
+For today we're gonna
+assume that you're looking
+to livestream and that you
+intend to use a face cam.
+If you're planning on filming VOD content,
+or if you wanna stream without a camera,
+you shouldn't have a problem
+adapting these tricks
+for your specific setup or
+just skipping over the portions
+you don't need.
+Most people's first thought
+when it comes to video
+is the ubiquitous Logitech C920S,
+but at nearly $70,
+it's not the kind of thing
+that I would consider
+to be an impulse purchase.
+Now you can go all the
+way down the product stack
+where Logitech C270 can be
+had for around 25 bucks.
+But with image quality
+reminiscent of a laptop webcam,
+it's kind of like throwing money away,
+because you will have to
+replace it eventually.
+Fortunately, there's probably
+a camera that's better
+than most web cams sitting
+in your pocket right now,
+your phone.
+Now I wouldn't necessarily
+recommend doing this forever
+due to wear and tear on both your battery,
+and your device from the heat.
+And it is a little annoying
+to set up every time,
+but using your phone is an awesome way
+to get really high quality visuals
+without spending any extra money.
+If your rock an Android phone,
+download the IP Webcam
+app from the Play Store,
+and once booted up,
+enter the listed IP for your
+device into your web browser,
+copy the URL, and paste it
+into OBS as a browser source
+while adding forward
+slash video to the end.
+Set it to refresh the source
+when the scene becomes active
+so you have a quick way to
+reset the feed if need be.
+And we'd also recommend
+setting the resolution
+to 720p under Advanced,
+along with turning down the stream quality
+to make sure you're not pushing
+your phone CPU too hard.
+That'll at least help
+keep heat under control.
+On iOS you can achieve
+practically the same thing
+with an app called DroidCam.
+You'll have to download
+their software and install it
+on your PC, enter the IP there,
+and then you can just add it as
+a video capture device in OBS.
+It should default to 480p,
+so run their HD Mode program
+as admin and select 720p
+if you so desire.
+Now comes the question of
+how to mount the phone?
+If you have a coat hanger kicking around,
+you can do some bending and
+make a simple desktop stand,
+or if you have a shelf or a
+desk ledge above your monitor,
+some tape or a clamp can
+work pretty well as well.
+If you're willing to spend
+a few dollars phone tripods
+can be had on AliExpress
+for just a few dollars
+and are a little bit more user friendly.
+And bam, there you go, video.
+Well mostly.
+Relying on just your
+monitor to light your face
+can be a little jarring for your audience,
+because dark scenes in
+your game will make it hard
+to see you and sudden bright
+lights can blow you out.
+A common fix for this is
+a set of cheap soft boxes
+like this Neewer kit on Amazon,
+but it's got a problem.
+It's almost $90,
+and it requires a fair
+bit of space to rig up.
+So once again, we've got a free
+or at least nearly free option.
+Try using an old lamp
+that you have kicking
+around the house paired with
+ideally a halogen lightbulb.
+These are better than fluorescent
+for getting consistent
+and true to life colors
+out of your camera.
+But beware,
+if you put them right next to you,
+the light will probably be too harsh,
+so try using wax paper
+or some other kind of translucent
+material as a diffuser,
+or alternately, you can
+just bounce them off a wall
+to soften the light.
+Just be careful when you're setting it up,
+because halogen bulbs can get pretty hot
+and you don't wanna start a fire.
+For that reason,
+this is actually one case
+where we'd recommend spending
+a few bucks.
+Clamp lights like these from
+our local hardware store,
+can make things a lot easier,
+because they can clamp
+right to your monitor stand
+or a nearby shelf and
+they're powerful enough
+to penetrate a diffusion
+layer or bounce off the wall.
+All right so video stream
+is looking great so far,
+but what about audio.
+Well if you have a gaming headset,
+that has a mic attached to it.
+That's a great starting option.
+If you don't and you aren't
+looking to spend any money,
+both of the apps that we mentioned earlier
+have audio streaming
+options through your phone.
+For the IP Camera app,
+copy the opus audio stream URL
+and paste into OBS as a media source.
+And if you're using DroidCam,
+it will register as a system audio device.
+So just set it up as a
+mic in the OBS settings.
+Finally, you'll need to
+implement a Render Delay filter
+on your video feed to get them synced up.
+Now that's decent.
+But because of the style
+of microphone built in
+to most phones,
+chances are that you're gonna
+pick up a lot of keyboard
+and background noise.
+It's probably fine for when
+you're just getting started,
+but one of your first
+investments should be something
+like the Fifine K669,
+which we actually featured a while back
+in our cheap mic roundup.
+For just $34, it's pretty hard to beat,
+and look it even comes with
+a cute little stand-e-stand.
+Put all that together then and bam.
+You've spent somewhere
+between zero and $50 dollars
+on what I think is a fairly
+competent streaming set up here.
+All that's left is to get your stream key,
+fire up your games, get some snacks,
+and put some liquids in your
+lttstore.com water bottle,
+and of course check out
+today's video sponsor.
+OWN3D.TV is a store catering
+specifically to streamers
+with products designed for
+people who are just starting
+out all the way to seasoned pros.
+They offer complete overlay
+and stream design packages
+as well as sub emotes,
+badges, logos, avatars,
+and more.
+Using their tools,
+you can cater designs for
+whatever platform you stream on
+and all of it can be used
+with your favorite software
+like Streamlabs and OBS.
+For a limited time, you
+can use offer code LINUS
+to get 50% off nearly
+everything in their store.
+So go check it out at the
+link below to learn more.
+Now if you'll excuse me,
+I've gotta get back to my gaming.
+Gamer like a gamer!
+That's pretty sweet.
+I mean you don't want anybody,
+you don't want anybody to
+see your lighting set up.
+You got your light pointed at the wall.
+You got your whatever this is.
+Hold on a second, what is this?
+Here's your lamp.
+Oh, oh, I might have durped it.
+- [Man] Did you stop the video?
+- [Linus] I stopped
+the, oh did I click it?
+- [Man] I don't know.
+- [Linus] I clicked it.
+- Okay.
+- I think I clicked it.
+- See you later.
+- See you later.

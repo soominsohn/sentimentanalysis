@@ -1,0 +1,951 @@
+(thudding)
+(rattling)
+(indistinct)
+- Okay.
+It's in.
+(laughing)
+- In our recent secret shopper series,
+Agent Sarah determined which PC builder
+delivered the best balance of cost, price
+and customer service.
+But one thing we didn't explore was
+what if she had just
+researched the parts herself
+and put it together,
+creating her own gaming rig?
+Could she have saved money?
+Could she have gotten more performance?
+Would she have had a good time?
+Today, we are going to answer
+all of those questions.
+We have sent Agent Sarah out to sea
+with only three lifelines to
+get her through the process
+of independently researching
+and building her dream gaming rig.
+Let's see if she still
+thinks DIY is a good deal
+at the end of that ordeal.
+And let's see if you guys think
+our sponsor GlassWire is a good deal.
+Glass wire allows you to
+instantly see your current
+and past network activity, detect malware
+and block badly behaving apps
+on your PC or Android device.
+Use offer code Linus is
+to get 25% off GlassWire
+at the link down below.
+(soft music)
+(upbeat music)
+- I know the CPU is quite important,
+I know the GPU is quite important,
+and if the motherboard is like
+the number one piece that I need,
+then I think that that
+would also be important,
+so, maybe those are my top three
+that I should spend the most money on.
+I know Ryzen is a good CPU brand,
+so I think that's where I'm going to go,
+but they might be more
+expensive than Intel.
+(sucking air through teeth)
+I don't know.
+(laughing)
+I don't know.
+- That goes to show you the
+kind of mix of information
+Sarah got from the PC builders.
+- [Sarah] This one looks
+cool, it has Wi-Fi and RGB.
+- Yeah, that's a really easy way
+to spend way too much on a motherboard.
+She's not way off, like
+CPU, GPU, motherboard,
+that's not a terrible list of, you know,
+your top three most important
+components of a computer.
+It's just that with the motherboard,
+because it doesn't affect performance,
+it basically comes down to,
+does it have the features you want?
+Like, is it the right form
+factor to fit in your case?
+Or does it have the IO that you need?
+- I don't know, let's just write down
+the number one motherboard for now.
+- Honestly, if I was buying
+something I'm not familiar with,
+like a paintball marker, for example,
+I might just Google, what's
+the best marker for woods ball?
+And who cares I guess if
+they know anything about me,
+or my play style, or my skill
+level, cause I don't know.
+- Apparently on Amazon it's 255.99
+but let's see how much it is on PC Picker.
+Oh, okay, yeah, it's 255.99,
+I guess I'll add that.
+Google, what's next?
+- CPU.
+Like I know we want
+something that's high speed.
+does to CPU even control speed?
+It's central processing unit,
+maybe it just controls some other stuff.
+(laughing)
+- I mean...
+Yeah, if I was a gamer
+and everyone told me,
+"Hey need a great graphics card,
+that's the most important
+thing for gaming"
+I might not even realize
+what a big deal that is.
+- Maybe the Ryzen 5 5,600X.
+It's, oh.
+It's already--
+(laughing)
+It's already going to be
+more than half, I think,
+of my budget, oh, maybe not, 341.49
+- She's going to blow this
+budget real fast at this rate.
+- It's supposed to work with
+my motherboard I think, so,
+(sucking air through teeth)
+I don't know.
+- The fact that PCPartPicker
+exists does make this process
+a lot easier if you know to use it
+because it'll actually
+flag you if you pick a CPU
+that's accidentally not compatible.
+It'll even tell you if the
+bios of the motherboard
+might not be compatible out of the box
+and might require a
+flash, I mean, usually.
+- What's the difference?
+What does 5,600 versus 3,600 versus 3,700?
+What does that mean?
+- That's a really fair question.
+It really was easier when
+we could shop at gigahertz.
+- I don't want to go Intel,
+but Intel is cheaper.
+- There's no shame in going
+Intel, you got to take advantage
+of that supply and demand boys and girls.
+- 5 3,600X?
+Okay, I'll add the 3,600 X then.
+- She is way over
+spending on a motherboard
+and underspending on CPU right now.
+- I'll look back into it later,
+I think we should just
+get everything first.
+- I actually support the idea
+of just getting everything
+thrown into a cart
+and then playing around
+with that after the fact,
+because that way at least
+you can post to r/buildapc,
+or to the Linus Tech Tips forum,
+and people can at least
+kind of help you tweak it
+as opposed to just going,
+"I don't feel like doing any work."
+And just dumping the work on someone else.
+- Corsair Vengeance?
+I really like the white ones,
+are they more expensive?
+- And we're shopping for RAM by color.
+I have a friend who shops
+for badminton rackets
+by whatever has the prettiest paint job,
+and I'm just like...
+- Best...
+SSD...
+For gaming.
+Top SSDs in 2021.
+ADATA, I've literally never
+heard of that company before.
+Oh no, the Samsung one is
+quite expensive as well.
+I trust Samsung, like, I've
+heard the company name before,
+and I feel like when
+you can trust a company
+you are more likely to
+go with their products.
+- You know, it's funny
+that she would say that
+because Samsung has a
+long and proud history
+of kind of coming in with
+a very mediocre product
+like their earlier optical
+drives, for example, terrible.
+And then just through sheer brute force
+making it better or
+competitive with everyone else
+and then pushing everyone
+else out of the space.
+So eventually, yes, I
+trust a Samsung product,
+I trust a mature one.
+- Samsung 970 Pro,
+but it's $250.
+- Wow, that is a really expensive SSD.
+- What are we at now?
+874, and we still need the
+graphics card, and the case,
+and the power supply.
+- She is in for a real rude awakening
+when she to fit a graphics
+card in her budget.
+You know, you work around
+here and you just like,
+see these cards being used in projects,
+and you're like, "Oh, it
+can't be that expensive."
+Yeah, 3080, pretty pricey.
+- 1660 Super, six gigabyte, that's $749.
+- That's why gamers are so mad right now,
+because a 1660 is costing
+what a freaking 3080 is supposed to.
+- But shipping is free.
+- Yeah.
+- What?
+(laughing)
+- [Man] Yeah.
+- I have no idea how I'm going to do this.
+Maybe the SSD?
+It's $250, maybe I could find
+a better SSD for that price.
+This one is $119.
+- I don't know if I would
+have gone with SATA?
+You can get some really good value
+on about drives these days,
+but I do agree with saving
+some money on the storage.
+- Maybe I could downgrade
+the motherboard here.
+What does it?
+Does the motherboard
+just connect the pieces?
+It's like the puzzle piece
+that holds everything together?
+$84.
+Or one 113.
+If it doesn't have Wi-Fi
+then I have to get a Wi-Fi connector.
+- Sarah, you can get a
+Wi-Fi dongle for like $7.
+This looks way more sensible
+given the other constraints on the build,
+like the GPU shortage.
+- $169, but at 750 Watts.
+- Power supplies are few and
+far between right now too,
+especially any that are high
+capacity enough for mining.
+- We are under budget right now,
+but my case has to be less than $50.
+- I mean, you can get
+cases for under 50 bucks,
+I might have balanced the
+budget a little differently.
+- There's small cases for small pieces,
+and big cases for big pieces,
+and I don't know the size of my pieces--
+- Pieces.
+- My components.
+Do I get like a really
+big case just in case?
+Or do I just YOLO and pick a
+case and hope everything fits?
+I feel like at LMG, we just YOLO.
+- We don't YOLO.
+What does that even mean?
+- That one's ugly, that
+one's ugly, actually,
+that one's not bad.
+- Cool case is just not a priority
+when you're this far over budget.
+- Part Picker doesn't have it,
+or do they just order from other people?
+I don't understand.
+- She thinks PCPartPicker
+is an actual store.
+- Does PCPartPicker not have cases?
+- Does PCPartPicker not have cases?
+They don't have anything.
+- What are we at here?
+Okay,
+I only need to go down $85 and 92 cents.
+- With the motherboard change
+and dropping to an 870 EVO SSD,
+This is looking reasonably well balanced
+with the only thing that's out of whack
+being of course the graphics card,
+but, what is Sarah supposed to do?
+- I'm on the LTT forum, I'm going to post
+the parts that I've picked for my new PC.
+Hopefully somebody can suggest
+how we can get my budget
+down to $1,500.
+No $1,500 PC should have a
+1660 Super and A520 board.
+- Okay, I agree, but
+like it's not helpful,
+What is she supposed to do about it?
+- Madison, oh, (mumbling), my
+best super friends over here.
+(laughing)
+- Is this seriously Madison?
+Doesn't she have work to do?
+Flush your money down the
+toilet and flex on the haters.
+- This person replied
+with quite a long post.
+They said, I understand the urge,
+but unless you look out
+at getting a card at MSRP,
+this is frankly a bad idea.
+- Now that is a pretty helpful response,
+unfortunately, we got to make a video, so.
+You would think, working in this office,
+you just pick up the thing
+about computers here or there,
+But the wing of the office she works in
+actually has very little
+computer conversation
+that takes place in it.
+- I'd strongly recommend
+getting a B50 board
+instead of an A520,
+the chip set is better,
+and you can get them for the same price.
+Okay, Is it B550F?
+- This video is proof that
+manufacturers could do a way,
+way better job of improving clarity
+for the average consumer.
+- I think it's more expensive,
+but this one for sure has Wi-Fi,
+and it doesn't have those
+ugly orange accents.
+- Why are you so obsessed
+with Wi-Fi, Sarah?
+- Okay, I guess I'm
+downgrading my case again.
+- Just buy a dongle.
+Now, the funny thing is
+she was so determined not to go Intel,
+but if she'd gone Intel,
+she could have used onboard graphics
+while she waited for a decent
+deal on a graphics card.
+I wish that AMD had their
+best APUs available here,
+like isn't that ridiculous?
+All the motherboards still
+have like video outputs.
+- So where do I start off
+from where we left off?
+I essentially need to figure
+out how to assemble it.
+I've heard a lot that building a computer
+is like adult Lego.
+- If all the pieces were made
+by different manufacturers
+and there were eight
+different sets of instructions
+that don't really match
+up, so yeah, sort of.
+We'll see how this goes.
+- Here we go.
+I don't know what parts
+I need to be gentle with
+and what parts I can be rough with,
+so I'm just going to be
+gentle with everything.
+- The A520 board is fine
+if you need to save a buck,
+but one thing you're really
+missing out on is of course,
+PCI express Gen 4 which
+might end up important
+for gaming in the future,
+but for now she's not really
+giving up any performance.
+- I think it's safe for me
+to grab it from the bottom.
+- Yeah, you should put
+your hand all over it.
+- Motherboard.
+(laughing)
+Okay, so with this, I know
+the CPU is the next step,
+just from watching our
+videos every once in a while,
+so I will grab that.
+- She found the CPU,
+that's better than some of the
+ROG Rig Reboot contestants.
+- This is the AMD Ryzen 5 3,600XT.
+I don't know what any of that means,
+other than this is the processing unit.
+- Like what it means is,
+we didn't have a 3,600X in the warehouse,
+so we grabbed an XT.
+- And I also know from
+illustrating the stealth CPU shirt
+that these little guys have triangles,
+and I know the triangles line
+up with the triangle on here,
+but I don't see one.
+Maybe that?
+- They really could make
+the triangles bigger, hey?
+- There's probably no
+good way of doing this
+other than just trying to
+line it up best as possible.
+- What do you mean no
+good way of doing it?
+No, no, there is a good way.
+- Oh, I did it.
+- Okay.
+- And then this must go down.
+That seems pretty secure,
+wait, let's check.
+- What?
+- It's all in there.
+(laughing)
+- [Man] Not bad.
+- Yes.
+I think next is the RAM,
+but I'm not sure what order
+they go in, in the slots.
+It does look like there's
+two slots here that are open.
+- Oh, that's so cheating
+because we built on this board before.
+- Press.
+Oh my gosh, I don't want to break it.
+I am so scared by this every time.
+Press.
+(clicking)
+Oh.
+Oh, I got one click, but not two.
+(clicking)
+Two, okay.
+- Wow, why does she
+check things like this?
+You don't have to like heave on the RAM
+and try and shake the CPU
+out of the socket, it's in.
+- I really hope I'm doing
+this in the right order.
+I'm kind of just going off of--
+- Wait, what is she doing now?
+What, what?
+- What I remember from
+watching our previous videos.
+- Even if it wasn't in right
+that wouldn't tell you.
+Oh, that's nice, we
+found one that still has
+the pre-applied thumb hold compound on it,
+that'll save her some trouble.
+- Oh my gosh.
+Should I put it face down maybe?
+- Yeah.
+- Okay, here, wait, let me put it here.
+It doesn't look like there's
+any thermal paste in here.
+- She's looking right at it.
+- There's no instructions.
+Is there supposed to be instructions?
+Is this?
+This can't be the thermal paste?
+- Hey, there we go.
+(Sarah gasping)
+- I touched it.
+- I think--
+- Why?
+- I'm going to look this up.
+(laughing)
+I'm just going to assume
+that this already has thermal paste,
+or is already thermal paste.
+- Should I touch it?
+- She keeps touching it.
+- Am I not supposed to touch it?
+- Stop touching it.
+It feels like it doesn't belong there.
+- Stop touch--
+- No.
+- Or maybe it does.
+- This little, little doingy here--
+- A doingy?
+- Will clip both of them in.
+- I got this.
+- I don't think she got this.
+- I believe it would have
+to go somewhere on here,
+so maybe I want it to be facing that way.
+(laughing)
+- It's just I can't even...
+I can't even breathe, I'm just
+like, I'm so tense right now.
+Oh man, I want to help so bad.
+(sobbing)
+Cause like it's not hard, but it's tricky.
+You know what I mean the distinction?
+Once you've done it it's like
+"swamp, swamp, here we go."
+She hasn't done it before,
+so it's not "swamp, swamp, here we go",
+it's this.
+- It's stuck.
+- Oh.
+- Okay, we...
+Oh, okay.
+- You got to watch out for
+that ladies and gentlemen,
+if your thermal paste is
+suctioned onto your CPU
+and you just pull your CPU cooler off,
+you can pull your CPU out of the socket
+and then it can fall and bend pins.
+- Now we got to figure
+out how to clip it in.
+- No.
+- Without breaking.
+- You got to click the
+other flip on first.
+- I'm going to break it,
+I'm so scared I'm going to break it.
+- I'm so scared you're
+going to break it too.
+- I've got tiny fingers.
+Should I use something
+to like pry it down?
+I feel like you're not
+supposed to be to do that.
+- What you need to use
+is a lifeline right now.
+- Oh wait, wait, wait, wait, wait,
+If you put the clippy thingy down...
+- You know this isn't
+the hardest part, right?
+(laughing)
+- If I push it.
+Oh, I did it, Oh my God, I did it.
+Wow, there was no point.
+- I'm like a good luck charm.
+(laughing)
+All right, well that's
+one of your three hints,
+that's really not what
+I would have used it on.
+(laughing)
+- I have my case and I'm
+going to lay it down flat.
+(screaming softly)
+(laughing)
+Hopefully that doesn't do anything bad.
+Wait--
+- She keeps (indistinct)
+- I'm being so aggressive.
+- Please, no.
+It's probably fine.
+- I think this is fine.
+Okay wait, let's do my test
+and see if this is in properly.
+(rattling)
+(indistinct)
+Okay.
+(laughing)
+It's in.
+(laughing)
+Do I need to take this out?
+- Is she about to start
+disassembling the drive?
+- How, how?
+- Oh, she thinks she bought an M.2.
+- Is this not going to work?
+Did I buy the wrong SSD?
+You don't force it in now.
+I don't want to break it.
+- Oh, no.
+- I just want to know what I need to do.
+One into your SSD and the
+other into your motherboard.
+- Why is she not watching Linus Tech Tips?
+Come on, we have a video
+on how to install an
+AMD cooler, for example.
+- I kind of hate this,
+doesn't this look tacky?
+- But it's not supposed
+to be there like that.
+- This spot right here looks like it fits
+a power supply unit.
+- Wait, did she just
+decide we're going to put
+the power supply in the five
+and a quarter inch space?
+What is even happening?
+- I'm wrong, it doesn't
+go here, it goes here.
+Because this needs to be facing outwards,
+and this doesn't allow that,
+which means it go this way.
+- Ah, yes.
+- Assuming that we want to blow this part,
+I would want it facing out.
+- Oh no, now she's overthinking it.
+- But then that would
+make this upside down.
+I'm going with my gut and saying
+the fan needs to be facing
+towards and not downwards
+because most of the air
+flow is going this way.
+- Either way is honestly fine.
+- Yeah, this is right.
+Is it bad to plug in
+things into the wrong--
+- Yes.
+- Places?
+- Yes it is.
+(sighing)
+- Am I going to destroy
+this computer by accident?
+- Maybe.
+- I think--
+- Oh shoot, no.
+- This matches that one.
+So...
+I'm going to try.
+- The scariest part of this,
+is that you can actually get it in there.
+I proved that when I did
+my blindfolded build.
+They should have just done a
+10 pin PCI Express connector
+just to not have this happen.
+- After examining, it's wrong,
+but this one, this one maybe.
+- Nice.
+- Let's try it.
+- So this one says power LED plus,
+and this one says power LED minus,
+and I can see here that this is plus PLED
+and minus PLED.
+So I'm going to assume from that
+that the plus one goes here,
+and the minus one goes here.
+- GG, Sarah.
+Damn.
+Hah.
+- Ooh, oh, stop wobbling wiggling things.
+- Hey, it didn't really
+click, but it's in.
+- Why don't you check and see if it's in
+by shaking the computer
+and seeing if it falls out?
+But no, don't
+- Oh, this cable, probably.
+I shouldn't move that.
+Yeah, I shouldn't be with that.
+- Oh.
+- The fact that it was
+that easy to pull out
+maybe doesn't mean it was in properly.
+- Oh, stop.
+- Oh gosh.
+- Okay, that was a good
+snap, not a bad snap.
+- You can never really tell.
+(sighing)
+- [Man] (indistinct)
+- It's in.
+It's in, I have successfully
+installed the GPU.
+I guess we don't know that until--
+- Success is not the right word.
+- But let's just guess.
+So, I have kind of realized
+this cable is in the way,
+and I could remove--
+The graphics card--
+- No.
+- To kind of, slide it down the back here.
+- No please don't.
+- But I'm trying to decide if
+it's worth the hassle for me,
+cause the last time I
+tried to remove a GPU,
+it really didn't turn out
+for literally anybody involved in that.
+(botch screaming softly)
+- Stop.
+- But I really want to.
+(laughing)
+- [Man] Please don't panic.
+- Should I like push it up?
+- Stop.
+- [Man] No, don't do that.
+(laughing)
+- I think if I just push this.
+- Okay, she found the clip.
+- Okay, it made a click, now pull.
+- Oh, that's, yes.
+- Wow, I did that so smoothly.
+- Yeah, wow, so smoothly.
+- Why wasn't that easy the first time?
+- So smoothly.
+- Okay, wait, we're going to go back now
+and do this like once more.
+And this is lined up.
+- Please just push it in straight.
+- Now push.
+- Oh.
+- There we go.
+- Stop.
+- It's in.
+- I'm going to see what I
+can do about this real quick.
+- Yeah, there's our SSD,
+still just hang in there.
+- I have no clue what to do with this.
+- Manual.
+- Duct tape.
+- Duct tape?
+- I'm grabbing duct tape,
+duct tape fixes everything.
+- Yeah, there we go.
+- Could you at least,
+- You just double-sided the tape.
+- I don't want that to be visible.
+- So I can't see it.
+- I realized I have
+this little plate thing
+that's supposed to go--
+- Oh, crap, I was so busy.
+- Here.
+- I'm going to try to get it in now.
+- Cringing out my face.
+- And see if that works.
+- That I didn't even, no,
+you can't put it in now.
+- Oh, no, I was supposed
+to put it in beforehand.
+- It's too late.
+- It's not going work at all.
+- Who cares about that stupid
+silver back plate anyways?
+I press the power button and it turned on.
+There's a light, which is good.
+- We got lights, we got fan spin.
+- My CPU cooler looks like Shrek.
+- Looks like Shrek?
+(laughing)
+- Wait, dat, dat, dat, dat, dat, dat, dat.
+- But that doesn't help me here.
+(Sarah grunting)
+(laughing)
+No, it says no DP detected.
+- See, this is what I
+was talking about, okay?
+AMD doesn't have proper top tier APU's,
+here in North America.
+All the motherboards have video outputs.
+This is the kind of
+confusion you end up with.
+- I have received a hint.
+(laughing)
+I don't think this goes
+into the motherboard,
+it goes into the graphics card.
+Oh no, that says DP.
+- Butt's like clenching
+just watching her like
+jam things into things.
+Like...
+(screaming softly)
+There's a lock on the
+cable, does she know?
+- This is the hardest part,
+it's figuring out what's wrong.
+- All she's got to do is just
+give it a quick power cycle,
+display port does not hot plug
+as well as some other interfaces.
+- So I have a computer.
+- If it doesn't compute, is it a computer?
+(laughing)
+- I mean, according to my last logic,
+it is not a computer right now
+because it's not computing.
+- Mm-hm.
+- At all.
+So you see, when I turn it on here.
+- Yes.
+- We've got RGB everywhere.
+- Mm-hm, good, that's the first step.
+- Wait.
+- But then...
+(gasping and screaming)
+- Am I magic or what?
+I didn't even have to touch it.
+I don't even got magic fingers today,
+this is just magic presence.
+All right, see you later.
+(laughing)
+- [Linus] You're welcome.
+- Thanks.
+- And select proper root
+device, how do I do that?
+- Whether you're installing
+with UEFI Windows
+or whether you need to enable
+CSN in the bios or whatever,
+it's really frustrating for
+even semi experienced builders.
+Her Google-Fu is quite strong.
+- Download tool now.
+Okay, it's been at 97%
+for like two minutes.
+But does that mean I did something wrong
+or does that just mean the computer is?
+Well, I guess that still
+means I did something wrong.
+Reboot.
+The computer restarters.
+You told me it would be fine.
+- [Man] This is an awesome video.
+- I feel as though I belong here.
+(laughing)
+(sobbing)
+- I'm coming, all right.
+Yes.
+- I think I did something wrong.
+(laughing nervously)
+So, this is actually not
+my fault, I blame new guy.
+- [Man] Thanks, dude.
+(Sarah laughing)
+- Right now what we're doing
+is we are reinstalling Windows.
+- Okay.
+- So I'm choosing boot device,
+- Which is your Corsair
+Voyager thumb drive,
+where the hell is your Corsair,
+Oh, there it is.
+And we're just going to
+take a fresh go at that.
+- Okay.
+- And it should be fine.
+- I have my good luck dinosaurs.
+- No, no, I'm the good luck.
+- We determined that these are lucky,
+but you're lucky, so
+you're also a dinosaur.
+(laughing)
+LTTstore.com.
+(laughing)
+- I did it.
+(laughing)
+I built a computer.
+- Now all of that remains to be seen
+is if she feels like it was
+worth the additional stress
+compared to having someone
+else build it for her.
+- It was a struggle.
+- You have no idea how
+much of a struggle it was.
+- I had way more fun trying
+to build my own computer
+than I did making phone calls,
+or trying to buy one online,
+which was easy, yes,
+but I really think that
+this is just something
+that you need to do in your lifetime.
+Build a computer, it's fun, I
+feel like I've learned a lot,
+next time I build a computer,
+I'll know what I'm doing, basically.
+Maybe now it's cheaper to buy a pre-build.
+If you can get a GPU at a regular price,
+or a price that you're not
+worried about paying for,
+then I a hundred percent would recommend
+building your own computer.
+Truly, it was worth it.
+- What a great conclusion.
+Did she nail it or what?
+Yes, it's stressful, and
+yes, it's way more difficult.
+It's a lot easier to just
+buy a pre-built computer,
+but, it's rewarding,
+you'll learn something.
+It can be fun in like a
+stressful anxious kind of way,
+but now is probably not
+the right time to do it
+unless you manage to
+get your hands on a GPU
+to add on your MSRP.
+Nailed it, Sarah.
+Just like I always nail
+our sponsor segues,
+FreshBooks is the easy to
+use accounting software
+designed specifically for
+you, the small business owner.
+FreshBooks has everything you
+need to manage your books,
+including invoicing, expensing,
+time-tracking and more.
+And it's designed to be easy to use
+with built-in automation,
+so you spend less time
+invoicing, expensing
+and tracking projects,
+and more time doing what matters most,
+which is growing your business.
+So whether you're a trades person,
+a creative agency or a YouTuber,
+you can choose a plan that
+is just right for you.
+They have an award-winning
+Toronto based customer support team
+who's always happy to
+help you if you need it
+and you can try it out
+for free for 30 days,
+by going to freshbooks.com/linus.
+There's no credit card required.
+That's freshbooks.com/linus.
+If you guys enjoyed this video,
+maybe check out our last
+it's round of secret shopper
+where Agent Sarah got
+absolutely bamboozled by Dell,
+though in her defense, that
+was entirely not her fault.

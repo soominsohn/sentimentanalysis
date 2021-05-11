@@ -1,0 +1,488 @@
+- [Cameraman] So what you
+do today at work honey?
+- I did something.
+It involved white goo in my mouth.
+What do you get when
+you combine a 3D printer
+with a mini fridge and some
+confectionary know-how?
+I'll tell you what you get.
+The Cocoa Press,
+a chocolate 3D printer
+that may just be the most delicious thing
+that we have ever reviewed.
+And also one of the most challenging
+because even under ideal conditions
+chocolate is not easy to work with
+and
+extruding it through a tiny nozzle
+without clogging or other issues?
+Not exactly ideal conditions.
+But the good news is we learned a lot
+and we had a ton of fun using
+it and eating our mistakes.
+Hmm.
+That's good.
+What's also good is our sponsor GlassWire.
+Are you lagging out while gaming?
+Use GlassWire to see what apps
+are wasting your bandwidth
+and causing your games to lag.
+Get 25% off today, using code
+'Linus' at the link below.
+(lively electronic music)
+Damn, that is good.
+Okay, all right.
+I'll put this down for now.
+3D printing,
+it's all ready no walk in the park
+and that's with plastics
+one wrong parameter,
+and
+you're left with a failed print
+and a bird's nest of goo,
+which is probably the biggest
+advantage of the Cocoa Press
+because with this success or failure
+they both taste equally sweet.
+But the road to getting our hands
+on our first chocolate
+printer, hasn't been easy.
+The first Cocoa Press that got sent to us
+got absolutely demolished in shipping.
+And while the replacement machine here
+came in much better shape,
+it did still get slightly
+borked in transport.
+So, I got to put that right out front,
+our experience isn't the complete picture
+but we'll give you a bit
+more detail on that later,
+first let's talk about the
+who, and maybe more importantly
+the why.
+(laughter)
+The creator of the Cocoa
+Press, Evan Weinstein
+started printing with
+edible materials in 2014
+by modifying a plastic 3D printer
+with a custom syringe extruder
+and a bunch of supporting mods
+to deal with the difficult
+thermal control problems
+that chocolate presents.
+Early versions of the
+printer used air pressure
+over a syringe of melted chocolate,
+which was then cooled by a
+subambient water cooling loop
+with a Peltier element.
+That is so cool,
+and not that different
+from the water-cooled chair
+video that we did a while ago
+V1 wasn't the end however,
+and the cocoa press eventually
+became this capstone
+project at Penn State U.
+With some help from the Pennovation center
+a startup incubator, that's
+attached to the school
+and a small team of material
+scientists and maker nerds,
+he eventually created what
+stands before us today.
+Version four-ish.
+Now Colin's been hands-on
+with the Cocoa Press
+for about a week now and as you can see,
+some of our results are good, but others,
+well, we have ones
+that look quite literally like (bleep)
+But we're still really
+bullish on the device.
+So, let's take a closer look at it.
+It comes with presets
+for the different kinds
+of chocolate that you might want to use
+and you dial them in up here
+with this touchscreen panel.
+You can load a full-size SD
+card into the right up here
+with your print files,
+and if we open up the
+double pane glass door,
+we,
+wait who this stuff in here?
+lttstore.com,
+right.
+Inside, we find a very
+unusual print chamber.
+For starters, notice the wall
+to wall, to ceiling to floor
+stainless steel
+and complete lack of exposed fasteners.
+This is to facilitate
+cleaning for food safety.
+Cool, right?
+Almost as cool, actually not even close
+as the star of the show, the extruder.
+Where this differs from the
+plastic filament fed machines
+that we use frequently is under the cover.
+Here, we've got a stepper
+motor hooked up to a syringe
+with this stainless steel
+chamber wrapped in heating pads.
+Inside that chamber, you
+place these pre-tempered
+and shaped chocolate slugs like so
+with the inner cylinder
+locking into the head
+on these two locking lugs.
+There are two heater zones,
+one for the body and one for the nozzle.
+One cool note here
+is that there's nothing
+proprietary about the refills.
+You could put in icing, cheese
+whiz, your own chocolate,
+whatever you want.
+But for the purposes of this video
+and limiting our variables,
+we'll be sticking to the
+included pre tempered chocolate
+which really is delicious by the way.
+Now that takes care of the
+CNC chocolate dispensing
+but
+as for moving it around,
+that's done with a CoreXY motion system.
+CoreXY is just a fancy way
+of laying out your motors and belts
+that gives a few performance improvements
+over traditional Cartesian machines.
+In traditional Cartesian machines,
+one motor is coupled directly
+to one axis of movement,
+but CoreXY is a fancier way
+of laying out your motors and belts
+that gives a few performance improvements.
+So in CoreXY,
+the two motors both work together
+to produce motion in just one axis.
+So if we were to pull on just one belt,
+which you can see it
+actually moves diagonally,
+but get this.
+If we pull on both belts,
+let's see if I can get in here.
+There you go.
+We can just move along the Y-axis.
+As for the Z-axis, it's more traditional.
+It rides on two rails
+with a screw that's hidden behind
+this stainless panel at the back
+or, well it's supposed to.
+Unfortunately, our best
+guess is that the parts kit
+that was stored inside the
+printer during shipping
+managed to crack one of the
+bearing mounts in transit.
+Replacing it would have required an almost
+complete disassembly and
+reassembly of the printer.
+So, instead we pried back the sheet metal
+and epoxied the ever-loving
+bejesus out of it.
+Since then it's held up fine
+thanks to the auto bed leveling grid
+but we do treat it gingerly
+anyway, just to be safe.
+Now, since the version
+that we showed you in our earlier footage,
+Cocoa Press has ditched
+the refrigerated airstream
+and instead uses a patent pending,
+vapor compression refrigeration system
+to keep the entire build chamber
+at just the right temperature.
+And when I say just the right temperature,
+I mean exactly.
+The difference between
+chocolate flowing too quickly,
+and it freezing inside
+the nozzle causing a jam
+is just a few tenths of a degree Celsius.
+And the thermal problem that is thus,
+if you overheat the chocolate
+or heat it up too fast.
+you ruin the temper
+or the crystal structure
+within the chocolate.
+And that's really important
+because maintaining that
+is what gives chocolate
+a nice surface finish and a crisp,
+snap when it's broken.
+Overheating can also cause
+the cocoa fats to separate
+and create bloom or pockets of fat
+on the surface of the chocolate.
+They're not harmful
+but they're not exactly appetizing.
+On the other hand,
+if it's too cold, well,
+it's not gonna flow, right?
+And the same goes for the atmosphere
+that it's being printed in.
+Too hot, the chocolate won't solidify.
+Too cold and it'll freeze
+as it's coming out the end of the nozzle.
+Now, after our first few test prints,
+it was pretty clear
+that something wasn't working as intended
+and after solving the aforementioned
+build platform issues,
+we hit an even bigger snag.
+The compressor for the
+chamber refrigeration system
+is not working as intended.
+It caused temperature
+spikes that turn our prints
+into gooey messes,
+like this one.
+Can still taste good, but it
+wasn't exactly the best way
+for us to show off the
+unit's capabilities.
+So they hackily addressed it
+with a custom firmware that
+your working unit won't need.
+And finally, we were off to the races,
+or so we thought.
+Chocolate printing is,
+I can't mince words here,
+really hard.
+So Colin spent days fudging
+the temperature up and down,
+a 10th of a degree,
+haha, pun intended by the way.
+Then waiting half an hour
+for those changes to propagate
+to the rest of the chocolate
+and then testing and retesting
+and then we'd get a good print
+and then everything would
+go out the window again.
+And the road was long and delicious,
+but
+very frustrating.
+Both our milk and dark chocolate
+proved to be unreliable
+due to the handicapped
+state of our Cocoa Press.
+White chocolate, however, can
+be printed at 18 to 20 degrees
+and
+actually turned out pretty well.
+But I'll let the results
+speak for themselves.
+This is pretty impressive.
+- [Cameraman] Yeah.
+- There's still some errors.
+- Little errors.
+So this was done in vase mode.
+So one of the problems we had
+was the stepper driver for the Z-axis
+was skipping or adding some steps
+and you could see things got elongated.
+So, by just having it
+rise slowly in a spiral,
+we kind of mitigated that
+and you can see where there's feed issues,
+where there's a pocket, the
+chocolate wasn't homogeneous.
+And we ended up with little failures,
+but the rest the print went pretty good.
+- Pretty good.
+Even in milk chocolate,
+as long as we didn't go too high.
+- Yeah, as long as you stayed low.
+- That's a very recognizable LTT logo.
+That's freaking cool.
+Although I do have to say Colin,
+some of these I'm not convinced
+that you ever 3D printed at all.
+It looks like all you ever
+did was turn a phallus
+into another phallus.
+- You're not wrong.
+- It's not very transformative.
+- Yeah, and so I have a
+couple of samples here we can,
+so these are texture samples.
+These are actually literally just infill
+from a 3D printing slicer.
+You just, to have zero top layers
+and you can generate infill for shapes.
+- Oh, that's interesting.
+And then you take one that's
+more completely filled.
+The taste is so much stronger
+on the one with less air pockets,
+even though to my monkey brain
+my mouth is just full of
+chocolate in both cases.
+- And that's something you
+can't get any other way, right?
+You can create these inner structures
+that have different feels
+and you're adding a new
+dimension to the chocolate,
+to the food.
+- The white chocolate in general, for me
+which isn't chocolate, by the way,
+white chocolate is a big scam.
+White chocolate is not my favorite,
+it's way too sweet for me.
+But what I found was with
+the really big air pockets
+it's actually palatable.
+- [Colin] It mellows out, yeah.
+- I mean, I am more of a dark
+chocolate boy these days.
+- Those dick butts are dark chocolate
+and they came out okay.
+It was just a little difficult to extrude.
+- Right, cause we can't get
+the temperature low enough.
+- Besides the frustration
+it was really fun.
+- It still did manage
+some overhangs and stuff,
+so this is just a matter of,
+it needs to be working properly.
+- Yeah, like look at the pillars,
+you're printing in chocolate.
+It's horrible.
+But for what it is--
+- [Cameraman] But we
+had an issue with the--
+- With that in mind,
+come on.
+It's a chocolate fricking boat.
+- And now for the question
+you've all been waiting for,
+who makes tastier chips, Intel or AMD?
+See that David?
+They're Intel and AMD chips.
+Mhmm.
+Team blue, not bad.
+Mhmm, team red.
+I do like the taste of the core.
+- [Cameraman] Hey, Linus.
+Eat a dick butt.
+It's surprisingly fast,
+obviously it's nothing
+like a filament printer.
+- [Cameraman] Well, I think
+the big thing to note is
+the nozzles 0.8 millimeters
+which is double the size of
+what we have on the (murmurs).
+So our layer height is
+like half a millimeter,
+so it prints really fast.
+It's like each of the chips
+I think is 11 minutes.
+- It just makes you
+salivate just watching it.
+Now, as far as we know,
+this is the first Coco Press
+to make it out into the wild
+and it's pretty clear that the team there
+does have some challenges to solve,
+particularly around shipping.
+But aside from that
+one, the build quality,
+ease of use and the design
+itself are freaking awesome.
+I mean, it's a 3D printer in a fridge.
+And while at the end of the day
+we weren't able to get reliable
+prints that were taller
+than say, a centimeter.
+The bones are all here
+and they're really good.
+The extruder, which is
+by far the hardest part
+is excellent and reliable.
+And the motion system is beautiful
+and works exactly as intended.
+Now, at 10,000 US dollars,
+it won't be making its way into
+the average maker's home lab
+anytime soon.
+But once the wrinkles are ironed out
+I could see cake makers
+or other confectioners
+making an absolutely killing.
+We have custom toppers,
+fancy chocolate bars
+and that sort of thing.
+Once the wrinkles are worked out
+and they arrive in one piece.
+Speaking of working out wrinkles
+work out the wrinkles in your privacy
+by adding a VPN that masks your IP
+and encrypts traffic to
+and from your device.
+Private Internet Access
+has reliable service
+and no bandwidth caps.
+And they offer configurable encryption
+and an internet kill switch
+to keep you in control of your connection.
+When combined with private
+browsing best practices
+a VPN like PIA, can
+even make websites think
+that you're in a different country.
+With PIA, you can connect
+up to 10 devices at once
+with clients for windows, Mac
+iOS, Android, iOS, and Linux.
+And they recently launched
+a dedicated IP option
+that has absolutely zero
+connection to your account
+or (murmurs)
+Not even PIA knows that the
+IP address belongs to you
+and you just get a smoother experience
+with the same privacy and
+security that you're used to.
+So try PIA risk-free.
+They've got servers in over 77 countries
+and there's a 30 day money back guarantee,
+if for whatever reason,
+you're not satisfied.
+We're going to have them linked below.
+Well, that's it.
+That's all we've got
+for you on this treat,
+haha (murmurs) printer.
+If you're into this sort
+of makery kind of stuff,
+get subscribed.
+We're in the process of building
+a tool changing 3D printer
+in order to build an entirely
+3D printed computer case
+and you will not want to miss that.
+And the meantime
+go watch our review of
+the cheapest 3D printer.

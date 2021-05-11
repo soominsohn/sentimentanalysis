@@ -1,0 +1,504 @@
+[Music]
+hey Vsauce Michael here do you want to
+see the most illegal thing I own it's a
+penny from 2027 that's right it is a
+piece of counterfeit US currency or is
+it there are no 2027 pennies today which
+means that this is a counterfeit of an
+original that doesn't exist yet
+I mean sure if you didn't look at the
+date this could pass is real but will it
+not truly be counterfeit until 2027 well
+what we do know is that it's novel team
+has a lifespan it's really cool to show
+people today it's a penny from the
+future but in 2027 it will become
+indistinguishable from a common penny
+and it will cease to be as interesting I
+cannot tell you where I got this but the
+point is I can break the law I am free
+perhaps not free from punishment but
+nonetheless here we are I cannot break
+the laws of physics
+nothing can why today I want to look at
+the lawful behavior of spinning let's
+start with a physics classic as a
+spinning ice skater pulls their body in
+closer they spin faster and faster it's
+really cool but what is accelerating
+their rotation what is pushing them
+around faster and faster you can try
+this at home with a chair that spins and
+some really heavy books in both hands
+now to get started spinning I'm gonna
+have Jake give me a push
+I don't need Jake no no watch this with
+him gone I can nonetheless speed myself
+up by just pulling the books in if I
+move the books out I slow down somehow
+pulling the books in speeds me up around
+now if you look up why this happens
+you'll probably be told that it is
+because of the conservation of angular
+momentum
+oh the conservation of angular momentum
+I love demonstrations of it and this is
+one of my favorites this is a Hoberman's
+sphere a toy that collapses and expands
+doesn't it sort of remind you of me with
+the books far from my body and in the
+books close to my body and it behaves in
+much the same way I need to give it some
+angular momentum to start but once I do
+if I bring all of that mass towards the
+axis of rotation it speeds up and then
+it slows down and then it speeds up and
+then it slows down speeds up slows down
+I love this thank you
+conservation of angular momentum but
+what are you well if you look it up this
+is what you will find for a particle in
+circular motion around some center of
+rotation see the angular momentum of the
+particle is defined as the product of
+the particles mass the particles
+instantaneous velocity B and the
+particles distance from the center of
+rotation are M V R this is angular
+momentum if you divided me and the chair
+and the books I'm holding into a bunch
+of tiny little particles and found the
+MV ours for every one of those particles
+and summed them all up you would have
+the angular momentum of the entire
+system of me the chair and the books but
+notice that this is just a mathematical
+expression combining three different
+measures it's not a physical substance
+you could pull out of a particle and
+hold in your hand or put in a jar and
+study it's kind of like oh I don't know
+taking like my weight and multiplying it
+by the number of countries on earth and
+then multiplying it by the time however
+unlike something like that
+this concept is really useful because we
+have found that in our universe over
+time it is conserved if the particle is
+pulled towards the center of rotation
+its our value will go down but angular
+momentum is conserved so one of these
+other variables must go up well at low
+speeds mass is essentially constant so
+the only option is for the velocity of
+the particle to increase for the
+particle to spin around faster than it
+was before if the R value gets smaller
+the velocity must get larger or else a
+law has been broken but how do atoms and
+molecules know to follow this law I mean
+is there some kind of physics police
+force in the universe
+bullying everything into compliance how
+do all the atoms I pull in know to speed
+up and why do they always obey our laws
+like embodied presences guiding matter
+around No I have with me right now three
+things a lamp a nail and a shadow
+gotcha I actually have four things with
+me
+the fourth is inks astonishing ruler
+designed by Vsauce if you're subscribed
+to the Curiosity box you already have
+one or it's on its way to you and if
+you're not subscribed to the Curiosity
+Box well you're missing out on the
+fruits of my mind
+I have always wanted a ruler like this
+so I made one and now I and you can have
+one it is exactly one light nanosecond
+long which means that this is the
+distance light travels in a vacuum
+during one billionth of a second if I
+hold my hand just that far away from my
+eye I am seeing my hand as it was a
+billionth of a second in the past pretty
+cool now this ruler allows you to
+measure lengths of things in light
+picoseconds sound microseconds Micro
+Everest s' that's one millionth of the
+height of Everest beard fortnight's
+decimal inches and of course good-old
+centimeters now if you asked me hey Mike
+why is the shadow of the nail four and a
+half centimeters long well I would say
+who's Mike but that I would be helpful
+and I would answer that the length of
+the shadow is caused by the height of
+the nail and the position of the light
+source and that's a pretty good
+explanation because if the nail were
+taller and or if the light source were
+lower the shadow would be longer or if
+the nail were shorter and or the light
+source was higher the shadow would be
+smaller now these three measures the
+nails height the lights position and the
+shadows length are all related
+mathematically such that if you gave me
+only two of them I could figure out the
+third always so I could declare this
+relationship to be a law but that does
+not mean that the law causes them to all
+have the measure that they do for
+example if you ask me hey um why is the
+nail six centimeters tall what causes
+the nail to have that height well if I
+said well the nails height is caused by
+the shadows lengthen the lights position
+you'd be like
+as if alright I mean sure we can figure
+out the nails height by knowing about
+the shadow and the light but that does
+not mean that they are causing the nail
+to have the height that it does to know
+why the nail is six centimeters tall
+we'd have to ask whoever manufactured it
+or whoever sets nail standards or
+whatever the point here is that we
+should not confuse relationships laws
+with causes explanations that involve
+the causal reasons for things are often
+better but what is an explanation well
+that's easy to answer explanations help
+us understand things but what does it
+mean to understand does it mean to not
+stand up fully or does it mean to stand
+underneath and to look at from below if
+I can understand something can I also
+over stand something well as it turns
+out the under in understand does not
+mean beneath or below instead it means
+inside to stand surrounded by to be a
+part of
+now this sense of under is quite common
+for example when you say ah well under
+those circumstances you don't mean well
+when those circumstances are overhead
+and I'm under them instead you mean if I
+find myself in those circumstances and
+that is how under is used in understand
+to understand something is to stand in
+the midst of it to be part of it and to
+be within it and that is helpful to keep
+in mind I cannot walk into something
+that's crumpled up and closed off to
+truly understand something it needs to
+be opened up for me
+unfolded and that is what an explanation
+should do the word explain literally
+means to flatten plain out X
+explain to make flat now if you'll
+excuse the analogy if this is a story I
+want to read and it's all crumpled up a
+physical law basically just tells me a
+summary of the story it'll tell me how
+the story ends what language and
+grammatical rules were used to write it
+but an explanation will flatten the page
+out and allow me to see the details an
+actual word and the word that follows it
+and so on all the way through so let's
+unfold the phenomenon of me speeding up
+my rotation when I pull the books in and
+find a physical mechanical cause for
+that increased rotation I have here two
+different circular motion paths around
+the center of rotation which we'll call
+C now when a particle is traveling in
+this outer ring and is suddenly pulled
+in
+it doesn't stop moving around and
+suddenly just go right in instead it
+takes a bit of a curved path like this
+now this is really interesting because
+in order for a particle to be in
+circular motion it must have two things
+it must have put the particle there it
+must have a velocity that is tangential
+to the path but it must also have a
+centripetal force a center seeking force
+that always points towards the center of
+rotation now notice that these two
+arrows are at a right angle to each
+other so the centripetal force is not
+speeding up or slowing down the particle
+it's just changing its direction
+constantly tada circular motion however
+when the particle is pulled in and it
+follows this curved path to this inner
+orbit its instantaneous velocity is no
+longer perpendicular to the centripetal
+force its tangential velocity tangent to
+that curve is going to look something
+like this but notice that now the
+centripetal force is no longer at a
+right angle the force that is changing
+that particles Direction is no longer at
+a right angle to its velocity instead if
+this is the normal to its velocity the
+centripetal
+is pulling the particle forward ahead in
+its rotation speeding up its rotational
+velocity so as you can see I speed up
+when I pull the books in because when I
+accelerate the books towards myself I'm
+not just accelerating them towards
+myself I'm also accelerating them around
+now likewise if a particle were to be
+pushed out from an orbit like this into
+a larger orbit it's gonna not you know
+it's not gonna do this it's not gonna go
+up time to go here one straight line no
+it's gonna go like this okay I'll go to
+the larger orbit but look now on this
+line the particles instantaneous
+velocity is something like this and the
+centripetal force is not perpendicular
+to that line this is let me give that a
+little V oh yeah nice labeling all right
+so oh wait now you can see it whoops all
+right so this is the one we're talking
+about though this is the one that
+matters all right so the the the normal
+to that velocity might be like this so
+now notice that the centripetal force is
+actually working against the velocity of
+the particle decelerating it so of
+course it slows down when I move the
+books further out my rotation slows down
+because moving them out is also
+decelerating them now this is why it is
+harder to pull your arms in when you're
+spinning than when you're not because
+you're not just moving your arms into
+yourself you're also accelerating them
+in the direction of their rotation not
+only is the magnitude of angular
+momentum conserved so is the direction
+but what is the direction of something
+spin what seems easy enough right look
+at this what's the direction of its spin
+clockwise or is it someone standing on
+the other side would say that it was
+traveling counterclockwise Oh
+interestingly this means that if you
+were to ask the face of a clock which
+way its hands spun it would say
+counterclockwise of course in order to
+unambiguously differentiate the
+direction of rotation we need a tool
+that has no axis of symmetry in any of
+the three spatial dimensions of our
+universe and luckily I've got a tool
+just like that
+in here I've been keeping it fresh and
+OH
+because a sworn I oh there it is it's my
+right hand a human hand is asymmetrical
+in the X Y & Z directions
+we've got thumb no thumb wrist
+fingertips palm knuckles now because of
+this property if we orient two pairs of
+opposite sides in a particular way the
+one remaining pair will be locked now my
+fingers can only really curl in the palm
+direction on the palm side so if I have
+my fingertips in the direction of a
+wheelspin curled such that an object on
+that spinning object travels from my
+wrist around to my fingertips well then
+my thumb will only point in one
+direction no matter which side I'm on
+from behind this is now going clockwise
+but the right hand rule still puts my
+thumb backwards
+that's very cool we call the direction
+that the right-hand thumb is pointing
+the direction of the wheels angular
+momentum but we could also use the left
+hand we'd get opposite directions than
+the right hand gives us but so long as
+we all agree to use the same hand we
+will always be on the same page but as
+it turns out of course the right hand
+was chosen and so determining the
+direction of angular momentum and
+velocity is called the use of the right
+hand rule okay so now that we know how
+to find the direction of angular
+momentum we could explore how that part
+of it is also conserved I have here a
+very special wheel oh yeah it's pretty
+crazy looking that's because I wanted it
+to be really massive so I wrap
+I'm not sure it's really that safe but
+oh man is the effect good all right now
+let's say that I gotta you have my right
+hand free let's say that I start
+spinning the wheel like this the
+direction of its angular momentum can be
+found using the right-hand rule I curl
+my fingers in the direction of rotation
+so that's something on the wheel is
+going from my wrist to my fingertips and
+I look at which way my thumb is point it
+was pointing up let's call up the
+positive direction I don't know the
+magnitude of the angular momentum of the
+wheel right now it's some number but
+let's just call it L and since it's up
+we'll call it positive I could call it
+negative all that matters is that I can
+differentiate one direction from the
+opposite all right wonderful so notice
+that if I spun the wheel this way I'd
+have to turn my right hand over to curl
+my fingers properly now my thumb is
+pointing down so this would be negative
+let's call the magnitude of this wheels
+angular momentum L positive L well if I
+got the wheel spinning so that it had an
+angular momentum of positive L if I then
+turn it upside down its angular momentum
+will have changed direction it would
+have swapped from being positive L to
+negative L however if nothing else is
+interfering that can't happen without
+angular momentum being conserved so what
+plus negative L is positive L our
+original well positive 2l and that is
+what we will see happen if I spin this
+wheel like this such that it has an
+angular momentum of positive L and then
+I turn it upside down something else
+will have to have an angular momentum of
+positive 2 L so like imagine my thumb
+being twice as long what is that
+something else
+well it'll be me in the chair is this
+very cool so let's make sure we know
+what's about to happen I'm gonna spin
+the wheel this way then I'm going to
+turn it upside down and so I'm going to
+see myself in the chair wind up rotating
+this way I'll rotate that way all right
+so what I'm gonna do is have Scott step
+in and give this wheel a nice healthy
+spin in that direction so it has an
+angular momentum of positive L I'll take
+my foot off the ground when he's done so
+I'm in
+more or less isolated system and I'll
+turn the wheel upside down and I should
+go that way whoa
+angular momentum is conserved
+that's pretty cool but the conservation
+of angular momentum either its magnitude
+or or its direction is not Y turning the
+wheel upside down spun me this way
+website kicked my empty to cup a
+container anyway what caused me to move
+well if you do this yourself you will
+feel the handles of the wheel literally
+pushing you put in a torque on your body
+and it has everything to do with that
+concept I have covered in my spinning
+video and my video ending about Euler's
+disk if the wheel isn't spinning and I
+push it down right here
+it'll tilt like that right not very
+surprising that's the kind of tilt we
+would expect but when the wheel is
+spinning all the piece of matter out
+here well they all have some velocity
+before I hit them for example when a
+piece of matter on the wheel is out here
+it's moving backwards and when I push it
+down it doesn't suddenly stop moving
+backwards the wheel doesn't stop instead
+the pieces I'm pushing are now going to
+go backwards as they already were and
+down so they go backwards and down and
+then they come back up and the entire
+wheel is found to tilt this way look
+towards me 90 degrees ahead from where I
+actually pushed it down a push down here
+causes the wheel to move like this a
+push down here would cause the wheel to
+tilt like this a push up here would
+cause the wheel to tilt like let's see
+90 degrees ahead in the rotation like
+this and this and this is exactly what
+I'm doing when I turn the wheel upside
+down so when I put a torque on the wheel
+to turn it while it's spinning like this
+the wheel actually turns this way but I
+have two hands holding it my left hand
+lines up getting pushed backwards and my
+right hand pulled forwards that puts a
+torque on my body which causes me being
+pushed back here and pulled forward here
+it causes me to be turned and so I turn
+this way the way that we saw in the demo
+in the
+and that is the physical origin of the
+phenomenon we just witnessed the key
+point here is that nothing you have seen
+happen today happened because of the
+conservation of angular momentum
+physical laws don't cause anything to
+happen but plenty of things are
+demonstrations of their truth now don't
+get me wrong I love physical laws they
+truly do represent a conquering of
+mystery when we find a way to project
+definite numbers onto reality and make
+predictions that's amazing but not
+coupled with causal mechanical physical
+explanations their generality can come
+across like magic
+now magic is fun for sure but
+congruences between mathematics and
+reality oh that's a sweet nectar in
+mathematics we get to make the rules
+pick the axioms we can even decide what
+kinds of reasoning are allowed or not
+and after doing so we get to play around
+and see what happens mathematics is the
+plane of games science is finding out
+what game you're playing and we still
+don't know what game we have found
+ourselves in but we should keep
+wondering and never be happy until we
+get answers that satisfy us stay curious
+and as always thanks for watching
+[Music]
+I have some pretty exciting news to
+share with you as of today for the rest
+of the year every single episode of mind
+field all three seasons all 24 episodes
+will be free to view all around the
+world I am thrilled so go and check
+those out there's a very special well
+actually two very special things coming
+on this channel this month can't wait
+for you to see them in the meantime if
+you need more of me and I always need
+more of me check out ding I've done
+about 15 videos this year over there
+it's a blast we learn a lot over there
+and things often get a little bit weird
+you know what I guess maybe I don't know
+check it out and find out and as always
+thanks for watching

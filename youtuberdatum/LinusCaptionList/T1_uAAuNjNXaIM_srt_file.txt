@@ -1,0 +1,422 @@
+- My server rack at home always
+starts out neat and tidy,
+and then all it takes is a
+project where I've gotta attach
+a DVD drive to my system
+here and a failed router
+that I just throw a
+replacement in for there,
+and ugh, some contractors who
+come and clear the fiberglass
+in my attic, leaving fiberglass fibers
+all over the front of my servers.
+Now all of a sudden it's a
+complete and utter mess again,
+but not this time.
+This time, sponsored by Pulseway,
+makers of the software
+that allows you to monitor
+not just your servers,
+but really any Mac,
+Windows, or Linux machine.
+I am going to be completely
+properly cable managing this
+one cent for all accounting
+for the next few projects
+that I have coming.
+I will even be, yes, making
+my own ethernet patch cables.
+Look at this.
+Isn't this adorable?
+Watch, see?
+Out goes this, in goes that.
+(electronic music)
+Step one is to give everything
+the old safe shutdown.
+I always do this, I turned
+off the desktops already
+so now I've gotta issue
+the shutdown command
+to by Unraid server here from my phone.
+But we're good.
+System is powered off.
+Just as I released that
+screw I realized something.
+This server is not mounted on rails.
+It's just sitting on top of the UPSs.
+I better pull that out first.
+I do have rails for it, I
+just never installed them.
+Oh wow, you can see I was using
+the top panel of this case
+as a filming plan at some point,
+that would've been a while ago.
+Looks like because it's fiberglass,
+so the strands are quite long
+compared to regular dust,
+we actually ended up with almost nothing
+inside the system itself.
+So the specs of this
+server are kind of unusual.
+I've got a 9900K processor in here
+and the reason for that is
+a ran into this weird issue
+where Plex, if you want
+to transcode a 4K Blu-ray
+and also have subtitles baked into it,
+it's like a single threaded
+task that's super inefficient.
+My 32 gigs of RAM, I've
+got a graphics card in here
+for GPU decoding.
+Couple of HPAs so power the drives here.
+I think it's around a 150
+terabytes total storage.
+Couple cache drives and finally,
+a 10 gigabit nic from Aquantia.
+And,
+a redundant power supply.
+Just in case one of these modules fails,
+all I need to do then is is just
+clean off these drive caddies
+and oh, that's interesting.
+So it's only the ones that
+don't have drives in them
+that have a bunch of buildup.
+That makes sense since those are the ones
+that are gonna be getting the
+most air flowing through them.
+Something I do have an
+extra of in case of failure
+is a hard drive.
+So this a cold spare,
+and key note among you might've noticed
+that I'm using Seagate Archive drives
+which use shingles magnetic recording.
+Now it's cheaper and more
+efficient use of the platter,
+but it has a right speed penalty,
+and as you might've noticed
+in WB's recent scandal
+where they were shifting WE Red
+shingled magnetic recording
+drives without telling anybody,
+they are not ideal for Raid.
+But don't worry, for my use case it's fine
+because I'm not using
+Raid, I'm using Unraid,
+which has Parity and data redundancy,
+but it does not use stripes
+across the various discs.
+So that means that I'm
+all good with these.
+I get around 220 megabytes a
+second writing to the Unraid,
+then a little faster reading off it.
+Ooh.
+Ah.
+I'm sorry.
+Ow, shoot.
+Well, it's good for finding
+your keys when they're missing.
+Lttstore.com
+I used tennis balls to hold
+up the UPSs at the back.
+I had to find the right
+number of tennis balls
+to support them.
+The answer is five.
+It's not stupid if it works.
+Flat ethernet cables, these
+have a terrible reputation.
+But that said, all I was
+using it for was like my
+Sonos hub thing, so.
+New rule, any cable that I
+don't know where it goes,
+I'm not gonna plug it in anymore.
+At least two of these I have
+not idea what they're for.
+Also, gross.
+Dead bee, bleh.
+I'm actually gonna be adding some stuff
+to the server cabinet.
+Some new switching gear from
+Ubiquity and that kind of stuff
+so I wanna move it up so I can
+salvage two more Us of space.
+This really really is awesome,
+see you can adjust the length.
+So here's the first connection
+that I can make here.
+So we're going into one of
+the non-power ethernet ports
+because it doesn't have to deliver power
+to my other switch obviously.
+Just the two Ubiquity units,
+so a router and a switch, and
+then we've got these three Us
+that we could theoretically
+move these up into.
+I'm gonna leave mine on top
+'cause I quite frequently end up
+plugging optimal drives into it and stuff.
+So that's just gonna stay.
+Are these cat footprints?
+For those who are wondering,
+I'm rocking a 3900X 12-Core processor.
+I've got a Titan RTX over there.
+And then I've got this weirdo gigabyte,
+I think it's a one terabyte MVMe SSD
+in the PCI express lot down here.
+I'm running some super old
+64 gigs DVR-420 6606 RAM.
+Not a great pairing for
+that processor, I know.
+And them I'm still using the AX 1500i,
+this thing is going strong
+form the original build
+as well as this super cool
+custom reservoir D5 pump,
+and then of course X570 Aqua from ASRock.
+It's one of the few
+motherboards on the AMD side
+that supports Thunderbolt,
+which is really nice to have
+if you can run a Thunderbolt
+cable through the wall,
+use a Thunderbolt dock, you've
+got 30 gigabit per second
+of OI for all your capture
+cards and all the kind of stuff
+that I use over there.
+Yvonne's rig doesn't
+really need to be touched.
+It's a 60--
+- [Yvonne] Why?
+It looks terrible.
+- What?
+- [Yvonne] Compared to yours?
+- [Sebastian] Well it doesn't have
+water cooling.
+- It looks terrible!
+- [Sebastian] It doesn't
+need water cooling.
+- [Yvonne] It's messy.
+- There.
+Tuck that there, you know?
+We can, well we'll clean the filter.
+All right?
+- [Yvonne] You weren't
+even gonna clean my filter?
+- Well yeah, I was
+gonna clean your filter.
+Clearly doesn't get cleaned as often.
+It's fine as it is anyway.
+6700K, I think it's got 16 gigs of RAM.
+You know, you got my old Titan X Pascal.
+Lots of people would give their left nut
+for a system like this.
+So I expect a left nut
+from you in the mail.
+Don't tell me where you got it.
+I gotta put both systems
+forward in order to put your
+mounting hardware in and that
+means basically all the weight
+is hanging off the front
+of this thing right now
+'cause it's empty.
+Hey that's not the, hey
+the printer saved the day.
+After a recent experience
+losing a UPS at the office,
+I just though, you know,
+like why cheap out on this?
+So I splurged a picked up two of these APC
+1500 Volt Amp units here.
+When I was mapping out all of my circuits
+at my house recently,
+what I realized is that this
+room and everything in it
+is on a shared circuit with
+a whole bunch of other lights
+and outlets in my house.
+So what I'm planning to do
+is have Brian the electrician
+come up here and we're gonna
+put a dedicated circuit
+in there for that gear,
+meaning that it would be nice
+to have a little bit more capacity
+because when that happens,
+I'd also like to go back
+to my plan of having the VR gaming rig
+that's down in the living room
+actually relocated up here
+so we can do like a super
+clean setup down there.
+That is terrific.
+No more tennis balls for me.
+Thanks APC.
+Help, I'm stuck under a server!
+(grunting)
+Okay.
+Now I get to attach these systems properly
+for the first time ever, how fun--
+(drill buzzing)
+Is that.
+I always like to get
+power cable management
+out of the way first.
+They're just kinda bulky
+and it's nice to not have
+to deal with them when you're
+trying to do the finer stuff.
+Brought both of gaming
+desktops to the top UPS
+and the server to the bottom one.
+That means that the gaming
+desktops won't last as long
+in the event of a power
+outage, but they're just
+quite frankly not as important.
+This gives me a lot more time to react
+and get the server shut down correctly.
+I know I said I was gonna do
+everything really properly
+but if you think about
+it, hot gluing a power bar
+to the inside of your server
+rack isn't really not properly,
+like it's, I'm pretty sure
+that's generally accepted
+desk practice material right there.
+One aspect of the cable
+management that I can't fix
+by tidying up the rack here
+is the Fiber connection
+that comes in from my
+garage and the display port
+and optimal USB connections that go out
+to the room over there.
+So I made a new hole but
+I'm gonna have to run those
+again, because right now
+ever since Collin set it up,
+they've just been coming
+in through this opening
+and I haven't been able to close it.
+The cat keeps going out there,
+it's a real pain in the butt.
+Here's the other side of that hole.
+I totally nailed lining it up.
+Now we make a new, more bigger hole.
+Well it's hardly perfect but
+it is literally in the attic
+so I'm not gonna stress about it too much.
+The good news, is it's a
+lot cleaner on this side.
+So I'm just gonna install
+one of those little
+like brush things here and
+then we gonna be good to go.
+That it a lot better.
+Small update,
+I am not bothering with the
+custom cables for everything.
+It is
+3:00 in the morning.
+One thing I'm not gonna
+cable manage properly
+is this ASUS router.
+Just 'cause it's gonna get replaced,
+so I'm just gonna plunk it right there.
+But I mean it's all
+still looking pretty good
+from the front here.
+I think we are ready for the big test.
+(mumbles)
+I am on wifi.
+See if the computers work.
+Oh, well that's simple.
+Mine's up.
+Mine is (mumbles) yes!
+Okay.
+And then yours, we're good.
+Keyboard working?
+Yes!
+Man I am just so stoked
+with how this turned out.
+Check this out.
+Magnet mounted dust filter.
+Oh yeah.
+It's gonna stay tidy this
+time, ladies and gentlemen.
+Of course managing your
+hardware is just half the battle
+and that's where today's
+sponsor Pulseway comes in.
+Pulseway is a real time remote monitoring
+and management software that
+allows you to manage systems
+and support users from anywhere.
+So I signed up for their free account
+which allows you up to two
+systems from my home closet here
+and it means that I can
+just login from anywhere
+on my phone or from a
+computer and see things like
+available memory,
+processes that are running,
+I can open up a terminal
+and execute commands,
+and I can even run automation scripts.
+It's pretty freaking sick.
+And if you get into their
+more advanced tiers,
+man you can do some amazing stuff.
+We're talking full remote desktop access
+and this really cool new
+feature called auto-remediation
+where you can bascially set up workflows
+that will fix problems
+for you on their own.
+So you can have something like,
+actually we had an issue that
+this would've been perfect for
+a couple of years ago
+where the Dropbox service
+kept randomly stopping
+on one of our servers
+that we needed to synchronize
+all of the scripts
+that we put on our teleprompter.
+So with Pulseway's auto-remediation,
+you can just say hey,
+if this service stops,
+restart the service, and hey,
+fire off an email over to us
+so that we can keep an eye on how often
+this bloody thing is failing.
+It's super cool.
+Don't take my word for it though,
+try it out today for free at the link
+in the video description.
+We've also teamed up
+with Pulseway and Corsair
+to give away a pretty
+sick working from home
+slash gaming rig.
+It's a Corsair i140 with a Core i7 9700K
+and Nvidia RTX 2080, we'll
+have those full details
+down below as well.
+Thanks for watching guys.
+If you enjoyed this video,
+you might enjoy a recent one
+where Anthony and I made some
+upgrades to our server room
+at the office.
+It's definitely worth a watch.

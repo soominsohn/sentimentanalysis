@@ -1,0 +1,241 @@
+inside this box is the main gear element
+it's a laptop that is thin it's light
+and oh my god thing it's powerful it
+also really easy to unbox wow they
+really simplify things for you don't
+they talk about your no frills thanks to
+meeting you for sponsoring this video
+let's take a look at it shall we yeah
+[Music]
+starting on the outside the element has
+a surprisingly understated look given
+the performance that it's got on the
+inside so you've just got a silk screen
+main gear logo here a little bit of i/o
+at the back got your HDMI got your
+Gigabit Ethernet got your Thunderbolt a
+handful of USB 3 type aids and an SD
+card reader and then I'll whack a
+ventilation on the bottom along with all
+those stickers that used to be on the
+palm rests but now thankfully they're
+hiding away where we don't have to see
+them the hinge is a one finger lift
+design which is really nice it stays
+exactly where you say and there's a
+little bit of flex on the display up
+here but given how thin it is I don't
+know what else they would have done
+because overall for an RT X 27 T max Q
+based machine this thing is pretty darn
+svelte and actually surprisingly light
+we asked them what the material was made
+out of was because we couldn't really
+put our finger on it and it turns out
+it's not actually plastic it's a
+magnesium alloy that's part of what
+keeps the weight of the Machine down on
+the inside still understated but if
+you're into that RGB you have the option
+of lighting up the keyboard even though
+the rest of the machine just looks like
+perfectly at home in a boardroom oh
+actually there's the light bar here as
+well but like the keyboard you can turn
+that off with it fired up some of the
+other features are immediately obvious
+so the bezels are nice and slim and this
+is cool they've managed to keep the top
+bezel from getting super thick while
+still including a top-mounted webcam and
+windows hello facial recognition with
+the IR camera that is a really really
+nice inclusion and something that
+honestly I think should be on basically
+every laptop over a thousand dollars
+it's so cool just opening up pay it to
+and off you go
+the display is 15.6 inch and runs at 144
+Hertz which as we showed in our recent
+video has a competitive advantage over
+60 Hertz it's actually surprising how
+much of a difference it makes and
+actually the viewing angles well you
+guys can see them for yourselves man I
+am so glad that we are done with trashed
+here TN displays on these gaming
+monitors now we get to have the best of
+both worlds
+as for the RGB backlighting on the
+keyboard is all controlled using this
+app what's it called node Control Center
+so you can set up a bunch of different
+colors if you want you can set up
+effects and you can control the
+brightness if you're just on one of the
+more simple profiles just using the
+hotkeys so there's five brightness
+settings including off so I guess that's
+four brightness settings in one darkness
+surprisingly the node Control Center is
+the only quote-unquote bloatware that
+was pre-installed on this thing other
+than the keyboard it controls the RGB
+settings for the light bar some
+overclocking profiles quick settings for
+things like the display color profile
+mode and it's got a little system
+monitor in it it did not suck up a ton
+of resources which was really nice to
+see and even then if you don't feel like
+opening it for the performance profiles
+they've actually got a dedicated button
+right here next to the power button that
+will cycle those for you aside from the
+RGB lighting the keyboard has some other
+interesting features too it's actually
+got optical key switches which if you
+want to learn more about we've got a
+tech quickie here but basically it's a
+different way of actuated and you can
+actually probably hear them they've got
+a nice long stroke and a pretty clicky
+feel I do think that the key cap
+stabilization could be better but there
+is minimal to no deck flex on this thing
+which is absolutely not a given
+as for the trackpad thankfully it's a
+Windows precision model and it tracks as
+you would expect for one of those which
+is to say it
+feels nice and so even if it's not a
+Macbook this is about as good as it gets
+on Windows and as a bonus
+it's glass-topped well that's not bad
+we're getting well in excess of 100 FPS
+running at 1080p all high presets on
+Tomb Raider you turn the motion blur off
+right Nicholas right good good now you
+can hear the fans kicking in a little
+bit of course we are running in redline
+mode but like come on you were gonna put
+headphones on anyway right yeah I can
+still hear the fans over the speakers so
+yeah headphones no problem good stereo
+separation though it always surprises me
+how different the implementations tend
+to be sometimes you get speakers that
+are right up here forward-firing and the
+stereo separation sucks and other times
+you get side firing and downward firing
+ones that actually really sound like
+there's bird noises coming at you from
+over here yeah that's not bad actually
+where is he though well there he is
+that's actually pretty impressive did
+you try that there's that sound blaster
+logo on the bottom so they're using
+Sound Blaster cinema 5 at which I
+haven't really given any thought to
+because I've never tried it before but
+it's pretty cool actually
+now after running for a while it looks
+like we are up against some thermal
+constraints so we're down to closer to
+90 to 100 FPS but that is still
+extremely respectable in this game we're
+also getting a little bit toasty
+although it's mostly concentrated up
+near the top of the keyboard and doesn't
+make its way down past that maybe the
+top of the W Keith toasty like this
+wonderful
+ltte spider Oct story calm alright I got
+this I got this ladies and gentlemen ie
+oh yeah I hit a guy wait what happened I
+swear I hit him oh yes okay well that's
+what happened there Oh enemy UAVs those
+sound bad oh and we're dead oh wow look
+at that we both power bodies hit the
+ground at the same time once again the
+lesson is
+oh there's landmines cool well I'm just
+gonna go into here what do I care
+yeah take that loser
+well alright well I got two kills so
+yeah it's not gonna turn you into an
+epic gamer overnight but it felt real
+smooth actually felt really good and
+this is on all high details right I
+don't think I mentioned this already but
+it's got a core i7 97 58 so it's a 6
+core 12 thread processor and I fired up
+the blender benchmark to see how it's
+turbo responds now it boosts up to 4 4 +
+gigahertz when you're just hitting it
+with something really really short but
+you can see it's falling down a little
+bit so we're at about 3.8 gigahertz
+right now and I'm expecting after a
+minute or two it's gonna come even lower
+than that that's expected on mobile
+chips and actually so far it's doing
+very respectively and there it is our
+steady state is around 3.4 high
+gigahertz which I mean compared to like
+a super thick gaming laptop maybe not
+that impressive but for something that's
+been pretty darn respectable making this
+unit even more interesting is the fact
+that in video studio drivers now exist
+for the r TX 2070 max q that's inside
+making it actually feasible as a mobile
+workstation especially because thanks to
+Thunderbolt 3 which I know a lot of
+people don't feel as strongly about as I
+do means that you can actually expand it
+with external cards like if you needed
+10 gigabit networking for example now
+it's time to open it up check this up
+my new office swamp just like that o
+goolah 'du the patient is asleep wow
+they're like not even trying to get keep
+me out of this thing hey 10 screws and
+oh where is it hey there we go
+pit pit pop off the bottom comes no it's
+still a laptop so you're not gonna be
+doing a ton of upgrading but you've got
+access to your DIMM slots both of which
+are populated that takes care of the 32
+gigs of RAM that's pre-installed running
+in dual Channel and this is nice you've
+got an empty m2 if you wanted to add
+more storage down the line so the one
+they're using in here is an Intel 660 P
+series cool dominating the internals
+though is actually this massive battery
+so this is rated at 91 point 2 watt
+hours which main gear says will give you
+about
+10 hours of use now to be clear that is
+not while you are gaming that is well
+you are looking like a B's in this
+professional with your RGB keyboard
+turned off but it's still nice to have
+because I don't know turn back on whoops
+I don't know about you but I think it's
+good to be able to use a laptop for more
+than just games I love that we put it
+back together our render is going again
+it's a fast laptop it's thin it's light
+it's easily cleanable you can make a
+couple of choice upgrades and you can
+get your very own at the link below
+thank you to main gear for sponsoring
+this video thanks to you guys for
+watching it if you're looking for
+something else to watch right now we've
+actually got do we have ah we've got a
+gaming monitor buyer's guide that you
+guys are gonna want to check out we'll
+have that link to put down below

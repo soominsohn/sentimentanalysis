@@ -1,0 +1,350 @@
+- Everyone knows that at
+high levels of competition,
+the slightest advantage can
+be the difference between
+chicken dinner and a sloppy
+second place sandwich.
+So competitive gamers
+should be really excited
+by the Asus PG259Q.
+This is the first 360
+Hertz gaming monitor.
+But can this
+fast IPS panel even take advantage
+of that kind of high refresh rate
+without becoming a blurry mess?
+Can any PC games even run
+at 360 frames per second?
+And, if they can,
+will you,
+a common gamer,
+be able to properly appreciate
+the difference between this
+and an already insanely
+fast 240 Hertz monitor?
+I doubt it.
+But our sponsor believes in you.
+This is the new VENGEANCE
+a4100 Streamer PC from Corsair.
+It's powerful, it's beautiful,
+and you can pick it up today at the link
+in the video description.
+(upbeat music)
+You've probably heard,
+or even experienced,
+that upgrading from a gaming monitor
+that refreshes at 60 Hertz
+up to one that refreshes at 100+ Hertz
+is a much more noticeable jump
+than say going from 120 or 144 up to 240.
+That's because 60 Hertz displays
+are showing you a new frame
+about every 16 and a half milliseconds,
+whereas 120 to 144 Hertz,
+that's a new frame about
+every seven milliseconds.
+That means that
+whatever you're looking
+at in that comparison,
+is gonna be twice as up to date.
+Then, when we jump from 144 to 240,
+that only shaves three
+more milliseconds off.
+And finally,
+going from 240 to 360,
+that's an extra 120 refreshes per second
+above the existing
+fastest monitors around,
+for a whopping savings of just
+1.4 milliseconds, each frame.
+To find out if that's an improvement
+that can even be perceived
+by the average gamer,
+we set up a blind test with the PG259Q
+next to not one,
+but three competing 240 Hertz monitors
+to see if anyone,
+including me,
+could tell the difference.
+(screaming)
+- I'm excited.
+I really don't like this monitor.
+- This is good, this one feels good.
+- Yeah, I'm guessing just purely off of
+how many of like this
+block I can see at once
+when I go like this. I
+think I can see more of it.
+- 70% sure that this would be
+the highest refresh rate one.
+- Really having a hard time
+even picking out the difference
+'cause these games are running at about,
+yeah about 700 frames per second,
+or above.
+So I will say this is the 360
+and everything else is the 240.
+- I have no clue if I can do
+this. Like, you can see here
+like I'm basically just creating circles
+with this thing on all of them.
+So it doesn't really matter
+if you have more frames,
+if it's all just of a
+schmeary mess anyway.
+I think I might guess this one
+just because I feel like
+there's a bit more like,
+trails behind the objects when I move it.
+- I wanna say that the second
+one might be 360 Hertz,
+but that's kind of just a
+guess at this point, honestly.
+It's number three?
+Damn.
+It really,
+it really doesn't feel
+any different to me.
+- You think you're going
+to bamboozle me, eh?
+Not a chance, I'm a pro gamer.
+I need more wood.
+I'm gonna say it's that one, but I,
+I'm probably wrong.
+So.
+- [Guy] You're wrong.
+- Cool.
+- I'm going with my gut feeling.
+I don't even,
+I can't,
+like I can't tell,
+but not only did I kinda
+feel like it was this one,
+I scored the best on this one,
+I'm saying it's this one.
+- [Guy] That is right.
+- Wow, it's subtle.
+Like yes, I gave an answer.
+Yes, it was correct.
+Don't read too much into it.
+There were quite a few learnable here,
+starting with that none of our gamers,
+even the ones who guessed correctly,
+were confidently able to
+identify the 360 Hertz monitor
+from gameplay.
+But,
+is it just because the refresh
+rate jump is too small?
+Another factor could be
+the pixel response times.
+Remember guys, if the pixels
+can't change color fast enough,
+smeary motion blur could
+hurt the experience,
+no matter how many times you
+refresh the picture per second.
+By the way, you should try
+refreshing LTT store.com,
+where the pictures are always clear
+wow, we really shoehorned that one in.
+Anyway,
+early 240 Hertz monitors,
+like the Asus PG258Q,
+used TN panels,
+the LCD technology with the
+fastest pixel response times.
+By contrast,
+the PG259Q uses an IPS type panel,
+which is traditionally known
+more for color accuracy
+and wide viewing angles,
+rather than for speed.
+So to see how the pixel response
+times of this new monitor
+compared to its 240 Hertz TN predecessor,
+we put together a Blur
+Busters Pursuit Camera setup,
+which helps us capture
+the motion blur produced by the monitor
+without the blur introduced
+by persistence of vision.
+You can see here, the
+old TN has less ghosting,
+but is actually a bit less
+clear with thicker lines
+and a bit of image doubling.
+Compared to itself running it 240 Hertz,
+the PG259Q at 360 looks
+only slightly more clear,
+but with a similarly slight
+increase in inverse ghosting
+caused by pixel overdrive and
+a lot more smearing on
+the dark background,
+which suggests that the panels struggles
+with light to dark transitions.
+And for bonus points, by the way,
+here it is compared to
+the Samsung Odyssey G7,
+which uses a VA panel.
+Interestingly, the clearest
+image we got from the PG259Q,
+was when it had ULMB turned on,
+which is only available at
+144 Hertz and 240 Hertz.
+Nothing more,
+nothing less.
+You know, I'd actually love
+to see a pursuit camera setup
+of a high refresh rate OLED,
+since they supposedly
+have instantaneous pixel response times.
+Which actually we can do
+when LG's CX 120 Hertz OLED TV arrives.
+Make sure you guys sub
+so you don't miss that.
+Anyway,
+with all that in mind,
+is there any point in paying,
+that's more expensive,
+two to $300 more for the PG259Q
+compared to a last gen 240 Hertz monitor?
+Well, probably.
+In our video investigating
+how refresh rate affects the
+performance of pro gamers,
+we discovered that it depends
+on the in-game scenario.
+So, even if this monitor doesn't offer
+much more motion clarity
+than existing offerings,
+the higher refresh rate
+could still give you an
+advantage in situations,
+like our CS: GO double-door hallway test,
+where having the most
+up-to-date information
+can make a huge difference.
+And, there are actually
+other ways that this monitor
+is just plain better
+than its predecessors.
+Take a look at this color accuracy.
+Yeah, that's for real.
+You could legitimately use
+this thing for gaming by night,
+and creative color critical work by day.
+As long as you're working
+in the sRGB color space.
+That's because as an eight-bit panel,
+it's gamut coverage isn't the greatest.
+And, unfortunately that doesn't change,
+even if you use a graphics card
+that supports display stream compression.
+Rats!
+That also plays into its HDR performance.
+I mean hey,
+it's HDR 10 compatible.
+But, it's low peak brightness
+keeps it from really shining
+in this respect.
+And like most HD-aren't
+monitors as we call them,
+it can look sometimes worse
+in HDR mode than in SDR.
+It also has G-SYNC though,
+and that is standard real G-SYNC,
+not compatible or ultimate,
+which means that it's
+variable refresh rate range
+is completely unlimited,
+and it means it has variable overdrive,
+meaning less noticeable
+coronas at lower frame rates
+than you would get if it was
+over-volting the pixels the
+same across all frame rates.
+It does have limitations.
+As mentioned earlier,
+it's got ULMB,
+but, notice the use of
+NVIDIA's acronym here.
+Asus usually calls their
+low-motion blur ELMB
+and, mightn't you expect
+it to have ELMB Sync,
+that is backlight-strobing
+wild G-SYNC is on?
+Well, sorry, it doesn't.
+You'll have to turn
+variable refresh rate off
+if you want that motion blur reduction
+that gave it that amazing clarity.
+Back to the bottom line though.
+Should you buy this monitor?
+I, for one, think it's
+absolutely fantastic.
+But only for a very specific gamer.
+So if you're a competitive player
+and you play games that your PC
+can actually run at frame
+rates above 300 FPS,
+and you don't need more than 1080p,
+then this is one of,
+if not the best 240 Hertz
+monitor on the market.
+And,
+Oh, it can also run it 360 Hertz,
+if you're a sensitive
+and skilled enough to,
+well, if not benefit from it,
+at least even notice it.
+Backblaze is a cloud storage solution
+that's easy to use and affordable,
+starting at just $6 a month.
+With Backblaze you can
+back up your personal
+or business data and even use
+it as a B2 storage solution.
+Over 50 billion files have been restored
+and they've got over an
+exabyte of storage now.
+You can back up almost anything
+and restore your files from
+anywhere with their mobile app,
+allowing you to access
+your files on the go.
+If you need to restore,
+you can download your
+files directly from the web
+or restore by mail.
+So you just purchase a
+Restore Via Hard Drive,
+and they will overnight FedEx it to you.
+You copy the data to
+wherever you want it to go,
+and then you return the hard
+drive to them for a refund.
+Crazy, right?
+It's unlimited data
+backup at a fixed price,
+and you can get a fully
+featured 15-day free trial
+at backblaze.com/ltt.
+So try it out for yourself,
+and start protecting
+yourself from bad times
+at the link in the video description.
+If you're looking for
+another video to watch,
+an obvious one is checking
+out the big collab we did
+with Shroud, Mr. Grimmmz,
+Corey, and Paul's Hardware,
+where we determined once and for all,
+if higher FPS makes you a better gamer.
+Spoiler alert,
+it does,
+but with some caveats.
+You definitely have to watch the video.

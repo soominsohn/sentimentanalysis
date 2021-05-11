@@ -1,0 +1,537 @@
+- What do you think? Can you
+tell if RTX is on or off?
+Going through old posts
+from the launch of the RTX 2000 series
+is kinda like looking through a war zone.
+Many gamers and developers were excited
+about the new visual improvements
+and the ease of development
+that real-time ray tracing
+would bring to the table.
+Others, on the other hand,
+were outraged at the
+idea of paying a premium
+for a feature that they
+weren't asking for,
+especially if it seemingly
+came at the cost of performance
+in games that use rasterization,
+which at that time was all of them.
+But fast forward three years
+and there are about 50
+commercially-available games
+in NVIDIA's RTX support
+list, with more to come,
+leaving only one question then:
+can normal people even
+tell the difference anyway?
+Just, like, can they tell the difference?
+Our sponsor...
+GlassWire!
+Keep track of the weird stuff
+that's connected to your PC
+even when you aren't using it.
+If a strange device joins your Wi-Fi,
+you'll be notified (snaps
+fingers) instantly.
+Get 25% off using code LINUS
+at the link down below.
+(upbeat music)
+- All right.
+Uh...
+- Interesting.
+- This doesn't look ray
+traced to me, but I might...
+Oh, actually, that may be
+seeming harder than I thought.
+- Oh.
+Oh!
+I'm dead.
+- That's not the test, Andy!
+(Andy laughs)
+- Our test setup is
+pretty straightforward.
+Jessie from our writing team
+set up two identical
+gaming PCs ahead of time
+so that even I won't
+know which one has RTX on
+and which one has RTX off.
+Our subjects get up to five
+minutes to experience each game
+and will be encouraged to just
+game as a normal gamer would,
+so they can switch back and forth
+between the two systems instantly
+using this KVM from Level 1 Techs...
+By the way, those guys are awesome.
+And they can do whatever they want
+as long as they don't
+enable performance metrics
+and don't manually check
+the settings in the menu,
+because that's cheating.
+- Can I watch the benchmark?
+'Cause there's a scene
+there at the start of-
+- [Jessie] No, you
+can't, 'cause one is RTX!
+Yeah, right! One's gonna
+perform way better.
+- Oh yeah, it would.
+- (beep)
+- [Linus] Is he gonna run a benchmark?
+- [Jessie] Yeah, you can't do that.
+- You so can't do that.
+- You can't do that.
+I didn't want to look at
+the FPS. It's just in a-
+- [Linus] No benchmark!
+Once their time is up,
+they simply select which
+system they thought had RTX on
+and describe what they liked better
+about the RTX experience.
+- I've never actually
+seen RTX "Minecraft" before.
+Where was the lava?
+'Cause I know it's supposed
+to be extra pretty, right?
+- Yes, it's actually
+not that hard, usually,
+if you know what to look for.
+- [Jessie] Say that as a
+complete sentence. One second.
+Let me get this mic a bit closer to you.
+Oh, sure. Yeah.
+- You're so soft-spoken.
+- Sorry, man.
+- Such a pleasant voice!
+- I know, I'm so quiet and relaxed.
+- [Jessie] I like it.
+- Linus always scares me
+cause he wants more energy.
+Man, that bird's got a really long tail.
+- [Jessie] Say that again.
+- Man, that bird's got a-
+- No, not that.
+(crew laughs)
+- While ray tracing is getting
+a ton of attention from gamers now,
+it's not a new idea by any means.
+The basic concept actually
+predates rasterization,
+and in the 3D animation industry
+it's been in use commercially
+for well over a decade.
+But the thing is,
+in order to determine what
+a scene should look like
+using real, traced light rays
+you need to emit a massive amount of them
+from a point or ambient light source,
+which will then bounce and diffuse
+around the scene enough times
+that they eventually become
+sort of negligible bounces
+and are no longer needed.
+Now, that sounds fine and obvious
+until you realize that you might need
+hundreds of thousands or millions of rays
+to even get a somewhat
+decent picture out of them.
+Many people don't realize
+that the simple fact that
+an image is ray traced
+does not mean that it will look good.
+Look at this quick Blender render.
+See how noisy it looks,
+as though a bunch of
+the detail is missing?
+When non-real-time ray
+tracing is calculated,
+the work is divided up into
+overlapping chunks called passes
+and they are added on top of one another
+until a cleanly-lit image is produced.
+This can take minutes or even hours
+for a single 4K frame, though,
+and that's on modern hardware.
+So you can imagine why
+some new ideas were needed
+to make this technology viable for games
+where we need 60 frames
+per second or more.
+While there is a clear
+competitive disadvantage
+to using ray tracing
+in a fast-paced title,
+like "Fortnite" for example,
+where every frame matters,
+it's still impressive
+that NVIDIA's RT cores
+work as well as they do.
+In short, RT cores are designed
+to perform two tasks that
+are specific to path tracing,
+which is kind of a shortcut
+version of ray tracing.
+These are called bounding box tests
+and ray-triangle intersection tests,
+and they save thousands
+of instructions per ray
+that would otherwise have to be done
+by the GPU's stream processors.
+And in the 3000 series,
+their second-gen RT cores
+are more powerful than
+the first-generation ones,
+meaning that we should see them continue
+to improve over time.
+- Yeah, it seems like the shadows
+are just struggling more in this one.
+I don't know which one it is
+because last time I thought
+the one that looked better,
+in "Wolfenstein," I thought
+the one that looked better
+was the the rasterized one,
+or the reflection-mapped one.
+So maybe it's the same thing here,
+where the shadows that look better to me
+are actually the non-ray-traced
+ones, the ones that we fake.
+- So yeah, this is performing better,
+but you know, it doesn't really...
+It's not that big a deal, I guess.
+The problem is that it looks better too.
+So...
+I mean, "Minecraft" beta is beta, right?
+So-
+- Yeah.
+- [Anthony] It's not like
+they can't add things later.
+But, man, like...
+That water, though,
+just looks so much better.
+- Isn't is so gorgeous?
+- It looks like water!
+Whereas water in "Minecraft" RTX
+kinda looks like ocean water all the time.
+- Okay. Wait a minute.
+If ray tracing is so accurate
+and therefore better,
+(snorts) what was that?
+How could any test subjects
+fail to tell the difference,
+or worse, prefer the
+traditionally-rendered method?
+Think of ray tracing as a final boss
+that's impossible to beat,
+'cause that's what it was for years.
+What's a gamer to do, right? Cheat.
+Now, obviously we're talking
+game developers, so we're...
+I don't mean getting a subscription
+to GamePro magazine here,
+but rather I mean building
+techniques of clever tricks
+that allow you to fake
+realistic rendering.
+These altogether have come
+to be known as rasterization.
+Raster rendering means
+that a lot of the lighting,
+shadows, reflections,
+and other visual elements
+are baked into the level geometry
+and handled with packages
+of processing and effects
+on a per-pixel level.
+These are called shaders.
+Over the years these techniques
+have become more complex and refined,
+allowing things like
+dynamic shadows in real time
+by using clever projection mapping,
+as well as tricks like
+more advanced dynamic reflection mapping.
+But the core idea of tricking the player
+into thinking that the lighting
+is being handled in real time
+has remained the same throughout
+all of these innovations.
+- God, this is really hard
+to tell the difference.
+And that I don't really feel
+like there's like a huge performance drop.
+What GPU or we're using? 3080 or 3090?
+- [Jessie] 3080s.
+- So I'm right now creating
+a hard shadow, like harsh,
+like a pretty direct reflection of the sun
+here on the water.
+And let's switch back to
+the system number one.
+They look pretty similar.
+I don't really spot a
+difference right now.
+- As you can see, these cheats or tricks
+that game developers
+use have become so good
+that they're kind of an obstacle
+to real-time ray tracing catching on,
+even though that final
+boss is actually beatable.
+Reflection maps are an excellent example
+of this fake-it-till-you-make-it approach.
+They're essentially a 360-degree
+view of the current scene
+that's been remapped and projected
+onto an object or surface.
+Then, with the right amount of distortion
+and selective color removal,
+as well as dynamically swapping out
+or changing the map as you move around,
+you can get high-performance,
+visually appealing,
+and quite convincing reflections.
+Some really good examples of this
+are games like "Dirt 3" and
+"Need For Speed: Hot Pursuit."
+It's not perfect, of course,
+and in games like "CS:GO"
+it's actually very obvious
+that your scope reflections, for example,
+don't really match the environment.
+But in the heat of a clutch round,
+it's not something that
+you're likely to notice
+and certainly is a lot better
+than giving up so many FPS,
+leading us finally to the
+results we've been teasing.
+- Okay, so for "Shadow
+of the Tomb Raider,"
+I believe number two has RTX on.
+- [Jessie] What the (beep)?
+- [Anthony] What? (laughs)
+- [Jessie] What do you mean?
+I had a feeling I'm like...
+It's like I'm watching
+a scientist at work,
+like analyzing...
+Well, okay, what is it?
+- Okay, so the thing that
+tipped me off the most
+is that the shadows in the
+center of the screen here,
+for this tree, are
+shimmering as they're moving
+on the machine with no RTX.
+That indicates to me
+that that's a shadow map.
+Whereas the RTX machine, it's...
+Kinda, sorta shimmery,
+but it's not quite as bad.
+And also the shadows
+are a little bit softer
+and they tend to...
+They start sharp and then they go soft,
+Whereas the shadow map
+is consistently soft.
+- [Jessie] You are a 100% correct.
+- Okay, as expected then,
+our most technical staff
+had no trouble identifying
+both the benefits and drawbacks
+of real-time ray tracing.
+But mathematically speaking,
+most people aren't Anthony.
+So what about them?
+- Okay. This might be a pretty good spot.
+If I'm facing the sun,
+which is right there,
+I can see reflection on the water here
+and also on the rock here.
+And let's go back to system number two.
+Wow. They look pretty similar.
+Oh my god. Yeah.
+- I think, for number
+two, it looks better.
+It's, like, glowier.
+The lava specifically.
+There's this effect around it.
+Yeah, whereas for number four,
+I feel like everything's a bit flatter.
+There isn't as much detail
+to the the lights and stuff like that.
+It's just like a general...
+Like, this block has lava,
+so then the other ones should
+have it around too, right?
+I don't know. I could be totally wrong.
+- I think this one, number
+two is ray tracing on.
+- [Jessie] And what makes you think that?
+- The sharpness of the
+reflections in the water.
+It looks a little more
+reflective than in the other one.
+And also the shadows,
+because they're softer.
+I feel like that's how leaves
+would actually look in real life.
+It would be a softer shadow
+because they're all together.
+You wouldn't get these
+crisp, jagged edges.
+But now that I say that,
+I'm wondering if the light's
+shining so hard through it
+that it's creating those
+jagged edges with RTX on.
+- I don't really spot a huge difference,
+but my gut telling me system number one
+is the one with ray tracing.
+So this one is the one
+that has ray tracing.
+- Although we saw
+varying levels of success
+with the number of games
+each person got right
+and which games
+specifically they got right,
+the overall trend from
+our test is pretty simple.
+The people with any
+knowledge of 3D rendering,
+and especially with firsthand experience
+gaming on RTX at home,
+were way more likely to nail it.
+As for everyone else?
+Telling the difference
+actually isn't easy.
+The truth of the matter
+is that with current titles
+that support ray tracing,
+it's pretty difficult to
+tell whether it's on or off
+without pixel peeping.
+More on that in a moment.
+Even when we did prompt
+people to look closelier,
+it was extremely challenging
+and the results were quite similar.
+And for fun,
+we threw an extra scenario
+at some of our participants
+where we had the exact same game
+running without RTX in both cases,
+to see if they could find the difference.
+- Are they both off?
+Oh!
+Oh, yeah. Okay.
+I was like, yeah, I could not
+tell the difference, really.
+I guess I was trying to find a difference,
+but there was none.
+Okay.
+- They couldn't,
+but they also weren't 100% sure.
+So as it turns out,
+if a game already looks really
+good with rasterization,
+our brain will, in some cases,
+see things that are not necessarily there.
+And this happened to
+some of our participants
+in "Wolfenstein," for example.
+They would notice parts of
+the lighting that looked,
+you know, "Better in this one,"
+when the only difference in that game
+was actually in the reflections.
+Bottom line, then:
+is NVIDIA selling snake oil with RTX?
+Absolutely not. What
+kind of question is that?
+I mean, in games like
+"Minecraft" for Windows 10
+and the upcoming "Metro
+Exodus: Enhanced Edition,"
+it is clear how much of
+a difference it can make
+to the atmosphere of a game.
+And in the long term,
+ray tracing is a huge boon
+to game developers as well
+because it behaves more
+like how real light does.
+It can save a ton of time
+that would have otherwise been spent
+setting thousands of uber-hacky parameters
+to get a scene to look convincing.
+But the tech is still in
+a relatively early state.
+But it will be the future.
+I mean, just think about it.
+Add in your light sources;
+set your diffusion, refraction,
+and reflection parameters
+for every surface,
+and bam, you're done.
+Kind of. It's a bit more
+complicated than that.
+And if you want a more
+detailed explanation,
+we do have an episode over on Techquickie
+that goes into more detail.
+But with all of that said,
+it's clear from our experiment today
+that in the right hands,
+rasterization is still a potent tool
+and this industry transition
+is going to take many years to complete.
+So maybe it don't feel too bad
+if you still haven't
+managed to get your hands
+on a newfangled RTX GPU.
+You know what you should
+get your hands on, though?
+Your own website!
+Making a website doesn't have to be hard.
+Just use Squarespace
+and you'll be up and running
+in a matter of hours.
+Maybe even faster than that.
+They have award-winning templates
+that'll help make your websites stand out
+instead of looking like it's from the '90s
+And if you're interested in
+how your website's doing,
+they have built-in tools
+so you can find out
+what you're doing right
+and what you're doing wrong.
+Both our Linus Media Group
+and LTX Expo websites
+were built quickly using
+Squarespace, and I mean quickly.
+They're super-easy to maintain.
+And if you get stuck making your website,
+they have 24/7 support that
+is ready to help you out.
+So head to squarespace.com/LTT
+and get 10% off.
+If you guys enjoyed this video,
+maybe check out our
+$5,000 graphics card video
+on the Quadro RTX 8000, I mean...
+What could make a GPU worth
+three times more than this?
+Five times? This is a 3080, right?
+Well, at MSRP, anyway.
+- Well, it should be
+five times more at MSRP.
+(Linus croaks)

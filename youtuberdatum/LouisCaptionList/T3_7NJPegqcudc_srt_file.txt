@@ -1,0 +1,574 @@
+justin just called uh and spotted
+smoke coming out the back right tyre
+again so
+uh we've still got braking issues which
+is not good
+welcome back for another video guys i am
+here with my
+electric volkswagen van that you have
+hopefully been following along the whole
+build series
+it's actually been a few months since i
+left jehu's
+workshop and i've got lots of updates
+for you guys
+some good ones some bad ones some issues
+i've been going through
+also i'm uploading a video giving you
+guys all of the information on how much
+it cost me in total
+the range i'm getting out of it the top
+speed and any other questions you've got
+so make sure you subscribe if you
+haven't already throw some questions in
+the comments below
+so i've got those ready but today's
+video is going to be more
+of just giving you guys an update so the
+good news is
+first of all you can see i've had it
+polished so it's looking pretty nice
+it drives okay there's a few little
+issues still but it's
+it's fine it dries fine it's charging
+okay it's not quite the range i wanted
+to get out of it but overall it's great
+as a run around vehicle
+the issues i've had are mainly to do
+with running out of battery
+and the brakes the brakes have been a
+nightmare
+not long after leaving jehu's workshop i
+wanted to give the van a full
+test and ambitiously decided to drive me
+and my fiance
+all the way to santa barbara which is
+over 100 miles from la and
+this is what happened we are heading off
+on our first little road trip in the
+in the wonder bug the new and improved
+electric wonderbug
+we still need to come up with a name i
+might rename the van but
+i just can we just take a second for how
+quiet it is
+literally silent
+and where are we going we are going to
+santa barbara just for a quick little
+couple day um yeah get away
+hopefully we make it without running out
+battery
+okay let's get the directions up
+[Music]
+i feel like fully relaxed
+it's going pretty slow
+i think we would have run out of battery
+[Music]
+um
+[Music]
+it could be something to do
+so maybe it's just about like
+going so i spoke to jehu who helped me
+build the van
+and he's saying because we were driving
+so fast on the highway and it was up and
+down
+hills we'd definitely run the battery
+flat
+and because we don't have a fast
+charging station at the house i was just
+charging it from the 110 outlet which
+normally takes like 30 hours to charge
+from
+dead so he thinks we left the house
+with 75 battery to start with
+so my calculations of getting here on a
+charge
+weren't accurate but good news is we're
+only
+how long half a mile 0.3 miles 0.3 miles
+to the tesla
+station now so we're letting the battery
+just regenerate a little bit going for a
+bit and then i'm pushing and then we're
+switching it back and forth
+how are you feeling i'm feeling good
+yeah i'm just watching it
+like look we're so close
+i think sometimes with new
+projects and inventions you kind of have
+to have these experiences to be like
+okay i don't want that to happen again
+so i just need to be aware now the exact
+voltage where my
+van kind of runs dead so i can quickly
+find a tesla charging station or
+something
+oh all right let's go again yeah let's
+do it this is us that's the tesla
+charging station
+[Applause]
+okay we're moving
+oh this is a good one oh that's heavy
+that is heavy
+we got it it's all about getting a bit
+of momentum
+okay okay
+how you feeling exhausted
+just been pushing it
+i think we've got a bit more juice
+[Applause]
+so this is uphill here and then it goes
+down
+so we're just trying to make it to the
+top of this hill
+[Applause]
+okay break on i think that might be the
+last pitch
+yeah this is definitely downhill now
+oh my gosh so where that's look it's
+charging
+it's going higher because it's
+regenerative
+yeah so
+big question is coming across this road
+it looks like there's a major road we
+need to rush
+okay we don't really want to stop
+[Music]
+it says i mean it seems to be yeah like
+wherever it is
+i think in here and right oh it's in
+there it's in the hotel parking i think
+oh my god should we check before you go
+in somehow
+can you see it
+ah duck oh there we are yeah
+we found it
+[Applause]
+we made it because this isn't actually a
+tesla i bought this adapter
+so this button here i'm going to base my
+chargers onto this
+[Applause]
+i'm not even asking any anything from it
+it's doing that
+okay we've just found another charger so
+the van's over there but
+maybe this one will work
+this is all uh learning lessons about
+what works and doesn't work
+i thought i could just plug a tesla
+charger in but
+it's not okay that tesla charger didn't
+work
+we just plugged in this one and i think
+it's working okay let's see
+let's test it so these two charge
+support these two charges have just
+turned on
+so this indicates that it's charging
+full speed
+yes and then let's look at the voltage
+that's coming in
+oh yeah so we've just
+sat here for like an hour maybe
+and it looks like we've got a lot of
+juice we went from 100 volts
+which is super low to 141 but we should
+have enough to get to our hotel now and
+there's a tesla charging station right
+by a hotel so that's the plan there was
+a
+kind guy william here who recognized me
+from youtube and said we could stay here
+indefinitely
+um but we've got a hotel to go to so
+we're gonna head off
+are you ready to find our hotel please
+okay
+all right so during our drive to santa
+barbara and back i'd been noticing the
+brakes were scraping i know nothing
+about braking systems
+until the beginning of this project i
+have had no prior mechanical
+knowledge other than the basics and
+being able to do oil changes and
+tires and stuff but i knew there's
+something up with the brakes i decided
+now that i've done a lot of the build of
+this myself i was like i can probably
+change
+brake pads or whatever so got back
+researched which brake pads to get and i
+changed the brake pads in the front one
+of the calipers was stuck so i did all
+this research managed to fix
+these things and then i tried to bleed
+the brakes
+myself and did it too violently
+and unfortunately um blew the
+the back brake cylinders
+which have like a rubber seal and they
+push the brake shoes onto the drums in
+the back so a vehicle like this it has
+has two different types of brakes the
+front tyres are brake discs which have
+calipers and brake pads that push
+against the disc
+and then in the back they have brake
+shoes that push against drums
+anyway so the the front brakes are
+replaced i then had to
+fix the back brakes because i'd blown
+the cylinders and then the
+shoes were also worn so i replaced all
+that
+and my friend helped me like tighten it
+all up get the brakes really solid and
+working
+anyway i had replaced the master
+cylinder
+we had to take the brake booster off and
+this is something we didn't know at the
+time you can't
+run that master cylinder without that
+booster
+thankfully it'd been fine coming to
+santa barbara and back somehow
+but when i tried to drive with all the
+brand new brakes on for some reason
+the brakes jammed on and i was just
+driving down the road and i
+noticed the brakes were smoking i
+noticed smoke was coming up someone like
+beat the horn and
+and like waved out the window they're
+like your back wheels are smoking
+so i didn't get far before the brakes
+seized
+and i was in the middle of the road i
+was actually in the middle of lincoln
+which is like a big main road
+and i was trying to pull in and i'd
+pulled across three lanes and the brakes
+had completely seized
+i was trying to drive and it wasn't
+going so i put it in the lower gear i
+think i might even put it in first i was
+panicking
+those cars coming and i put my foot down
+on the pedal
+the motor fully revved up
+full power first gear and i heard a
+massive banging noise
+and something had broken and i was like
+oh no
+i was stuck the brakes were jammed on
+the motor wasn't turning anything
+i mean i was blocking traffic i was
+blocking like three lanes of traffic
+everyone's freaking out
+i wish i had this on video but i didn't
+you know i just wasn't thinking
+of filming i was just trying to resolve
+this issue anyway five guys ended up
+pushing the vehicle literally it was
+like skidding across the wheels weren't
+even really turning so we skidded across
+managed to get it to the side of the
+road and i was just devastated i was
+like oh man i thought i was convinced
+i'd either broken the clutch or the
+transmission and just gone
+which is a mission it would have been
+after all of that work i would have been
+gutted to have to
+like take all the motor off again and
+replace all that so at that stage
+my good friend travis came and picked me
+up
+and towed me down to long beach to get a
+mechanic
+to look at it did you want i was
+thinking i could stay around for a few
+hours and just help
+remove this because i think we have to
+see the clutch we have to check here
+um in here and then test whether
+the transmission oh wait
+is that snapped off
+[Music]
+oh wow so maybe maybe that's the only
+thing broken so what'd they say louie
+okay so i thought it was a broken clutch
+or transmission but it might just be
+what is that called what's that part
+that's not cv tv
+axle has snapped which
+is but it's turning when i drive so
+maybe that's the only problem hopefully
+yeah okay after weeks of playing around
+trying to get the brake system working
+properly we're still not there
+the massive problem i had the other day
+was it stopped working
+and i think the axle this is what broke
+we came down and had a look so that's
+been replaced now
+so hopefully it will drive okay let's
+try this out
+[Music]
+justin just called and spotted
+smoke coming out the back right tyre
+again so
+we've still got braking issues
+which is not good
+completely lost my brakes then
+terrifying oh
+my gosh i don't know whether the brake
+pads
+oh okay
+luckily i had a little forex sticker
+that is terrifying
+i think that oh man
+i think the uh the heat just burst the
+have you toilet even heard of that
+happening
+have you ever even heard of that
+happening that's so nice
+this just extinguishes the flame but it
+doesn't cool it down this is just powder
+so i feel like we need uh
+ah i feel like we need water
+to like cool down yeah
+that is unbelievably hot
+uh we need to wait for the wheel to cool
+down
+this guy brought our hose over okay
+rolling yeah yeah
+you need to come around this side it's
+like bubbling we need to take this spare
+tire to
+uh to get pumped up into the valve in
+place
+we're in a pretty bad spot too yeah
+we should probably put that warning
+triangle further down
+still hot
+it looks like
+oh
+[Music]
+it looks like there's a tire place
+literally five minutes drive
+okay first tire place didn't have
+any of these in stock so they suggested
+another place
+oh problem solving i should probably
+find out if travis is even around to
+tow me
+[Music]
+nice wheels back on
+travis the guy who towed me down to long
+beach in the first place said he's gonna
+come get me so we
+might be good yeah if you're free now
+that would be a lifesaver
+sweet all right thanks bro
+what's gonna say oh what a lifesaver
+okay i think we're good to go so we got
+back from long beach
+and uh the mechanic had thankfully
+found the problem was the cb axe sword
+snapped he did however say
+that him and any other mechanic would
+not touch the brakes because i'd
+modified them from
+how they were originally with the
+booster and he's like you know no one's
+gonna
+take on that liability so that's
+something i had to figure out myself
+which was a bummer because i was like
+really just wanting to get it all fixed
+by this point so on the way back because
+the brakes weren't fixed and he wouldn't
+touch them they locked up again
+the brake beds actually caught fire i
+lost all braking
+which was terrifying brakes caught fire
+wheel blew up
+so got back here the brake
+shoes and the cylinders are in the back
+wheels had completely disintegrated
+again
+so i had to replace the cylinders the
+brake shoes and did some research
+figured out that i had to install a
+older model
+master cylinder that master cylinder
+never needed a booster
+and was designed to work without it
+that was great i installed that re-bled
+the brakes carefully this time
+installed all the new brake pads and
+decided to take it for another test
+drive
+i again started having issues with the
+brakes all right we've come to save
+louie
+because uh his brakes gave out again
+louie louie louie it was so hot i
+couldn't
+i had to spend this long waiting to take
+the wheel off because it was like
+burning my hands
+so i'm gonna i'm gonna take the other
+wheel off and just double check
+i've loosened the brake pads all the way
+i don't know whether the emergency brake
+was jamming on or the footbed will break
+but the little only thing i haven't
+replaced is the thing i need that
+purple thanks so much for coming guys
+yeah of course
+i got justin to come over bring
+my tools and this little adapter i need
+to basically
+there's this thing on this van called a
+proportional valve
+and apparently when they get old they
+can jam the brakes on so i
+bypassed that use this little adapter
+and then i had to bleed the brakes again
+i don't think i've done a great job but
+it's drivable anyway i've been sitting
+out in this car park for like two hours
+under the van fiddling around getting
+dirty
+and i think i think i can drive
+i'll keep you updated i'll let you know
+how it goes but hopefully
+we are nearing the end of the breaking
+problems
+i feel like it's been over a month maybe
+two months of trying to get the break
+sorted
+it's honestly got to that stage where i
+don't really want to vlog
+these things happening but i feel like
+i'm going to want to look back at this
+time where i'm very frustrated
+struggling to get things working
+so yeah the brakes seem to be doing okay
+not overheating but
+suddenly the motor just stops running
+and i'm just rolling
+and there's no acceleration so i managed
+to pull off thankfully rolled into this
+side street off the highway but
+i have no idea what's going on i can't i
+cannot figure this out
+massive relief guys i diagnosed the
+problem
+literally couldn't see anything wrong
+with the bms or the controller and then
+i looked in and saw
+that this cable had come out of the lug
+that was in the top of the controller
+which is super dangerous i'm going to
+try my best to get it back on
+temporarily
+and just tape up with some electrical
+tape until i get back to crimp
+good news that cable that come loose was
+the only problem so we're driving again
+everything's fine also the brakes aren't
+jamming
+i've checked a couple of times that the
+drums aren't heating up which is where i
+noticed the smoke before and
+they're not hot at all which makes me
+think the brakes aren't jamming
+they're still not ideal like they're a
+little bit slow maybe there's a bit of
+air still in the brake lines but um
+you know it's working what an adventure
+what a freaking adventure
+and the brakes have been fine since then
+they still are just mechanical brakes at
+this point and the dream scenario is i
+get the engine braking working
+so next video i am going to be heading
+down to ev west where
+i went originally and bought the whole
+ev conversion kit
+and they're going to help me try and
+figure out and problem solve
+why can't we get this engine braking
+working why is there still some
+interference between the brake
+transducer
+and the throttle which is the original
+issue we had
+when i was working on it with jehu the
+brakes work fine for now
+long term i'd feel way more comfortable
+having the extra
+added engine braking that is the pallava
+the absolute mission and adventure i've
+been on over the last
+few months of trying to figure out the
+brake system it's been very
+infuriating very frustrating but i just
+wanted to share
+the reality of everything that's been
+going on thanks for following along guys
+i know there's a lot of new
+people that have been following this
+journey and yeah i appreciate all the
+support and
+encouragement and also advice because
+obviously i am an amateur
+and i haven't done everything in the
+best way so i appreciate all of the
+comments of concern but anyway the story
+continues
+and i am going to be updating you guys
+still with this whole project until i'm
+really happy i feel like it's going to
+be an ongoing project with with many
+iterations and tweaks and things
+something i'm very excited to announce
+that in the coming weeks i'm going to be
+launching a podcast from this van
+i've got the camera set up here so i'm
+gonna have the camera here
+guest sitting here obviously and we're
+gonna be driving
+going on adventures and actually going
+and meeting
+people with amazing stories and seeing
+what they're doing
+seeing the social projects so i'm really
+excited to
+film the first one of those this week so
+i'll keep you posted on when we're going
+to be
+dropping that it's going to be probably
+the long version of that is going on the
+social good club
+youtube channel which i'll link below
+and then i'm going to be doing
+shorter cut down versions on this
+channel of the van adventures
+the next few months there's going to be
+loads of great content coming
+other projects i'm doing other big
+adventures
+and also continuous updates on what's
+going on with this fan
+so yeah stay tuned subscribe i'll see
+you next week
+with some updates

@@ -1,0 +1,424 @@
+- Die.
+(upbeat music)
+Drop test.
+We're gonna do a, can it toe?
+Oh God.
+Good luck everybody.
+Normally reviewing a cable
+is a hard pass for me,
+but when I get an email that says,
+"Hey, you wanna check out an
+indestructible tactical cable?"
+Well, now you got my attention, don't you?
+I didn't think today was gonna
+include any of this stuff,
+and yet, it did.
+Meet the EliteCore Athena ethernet cable,
+a truly fascinating product.
+There's one thing I did know today though,
+that I would be telling our
+viewers about our sponsor,
+Raid Shadow Legends is a free to play
+dark fantasy collection RPG
+featuring lots to do and
+champions to collect.
+Check it out at the link below
+and stay tuned for more info
+coming later in this video.
+(upbeat music)
+This is your run of the mill
+cat five or cat six network cable,
+and this is EliteCore's
+super cat tactical cable.
+What in the world makes a cable tactical?
+Is it for jacking into the main
+frame during your covert ops
+or using it while taking enemy fire?
+I mean, is it even better than this?
+There's only one way for us to find out,
+my script just says vamp as you unbox.
+So let's go ahead and
+do this thing, shall we?
+Wow, the quality of this
+printing is terrible,
+lifetime guarantee though unconditional.
+You take great pride in your computer
+and for good reason,
+this is some A plus
+marketing rank right here.
+Every single inch of it
+oozes powerful perfection,
+yet we're willing to bet that
+if you peeked around the back
+it's still connected with
+a flimsy ethernet cable.
+Oh, for crying out loud,
+essentially a string and tin cans.
+That's what they,
+they said this is essentially
+a string and tin can.
+Enter the Athena Elite
+(man clears throat)
+dripping with excellence, they say.
+Built to not only handle
+modern signal needs
+but to last an eternity and
+look good along the way.
+Look at this lock-in connector.
+Like one of the first things
+to fail on any ethernet cable
+is obviously that little clip
+that keeps it into the socket.
+One wrong look at this
+thing and ping off at pops
+you'll never see it again,
+don't bother trying to
+superglue it back on by the way
+that doesn't work.
+So EliteCore, this is
+an interesting strategy.
+So first they've got
+this like cover around it
+so it can't accidentally pop off,
+and then they've got a built-in
+button so you can press it.
+Then they've got like a strain relief here
+and the sleeving on this
+thing is freaking ridiculous.
+Oh, wow, look at that,
+it's like gut memory, like sleeving.
+Oh, well that's pretty
+cool when you're doing
+like an ethernet wall or
+like a kind of trickier run.
+How's your (indistinct)
+(upbeat music)
+Okay, not bad.
+And it gets even more interesting,
+this is called the
+converter shell connector
+and it accepts this kind of
+like Baton looking thing.
+So you can see the
+whole ethernet connector
+is now like recessed in this thing.
+So in order to use this,
+you're actually gonna have
+to have special wall plates
+that EliteCore makes that it plugs into
+just like an XLR connector,
+on like professional audio.
+There you go.
+You have to push this thing to release it.
+So like, theoretically,
+it's real hard to get out by accident.
+Of course so far, we're just
+taking EliteCore's word for it
+that these things are
+tough, you can run over it,
+you can hang weights from
+it, blah, blah, blah.
+I wanna see for myself.
+So for the next few minutes,
+we are going to be
+beating the absolute crap
+out of this cable and
+seeing if it still works.
+And we get to look at
+doing it, lttstore.com.
+Oh, I mean, we could do a quick
+does it come out on its
+own by accident test.
+(man groans)
+Okay, well that didn't
+come out on its own.
+We're transferring, ladies and gentlemen.
+You know what?
+I'm gonna start with
+something a little less heavy
+(metal clanks)
+how about just like this?
+(chants in foreign language)
+Sorry, I just watched the
+"Lord of the Rings 4K".
+We actually flattened it a little bit.
+(metal clanks)
+Of course, what we don't know
+is if that would actually
+break a regular cable.
+(metal clanks)
+Still transferring,
+somehow I wouldn't really trust it though.
+11, 12.
+(metal clanks)
+Oh, it's dead.
+That's what a dead
+ethernet cable looks like.
+So let's give it another 20.
+(metal clanks)
+(upbeat music)
+Okay, EliteCore, okay.
+Can you tell how much
+flatter it is on camera?
+(man claps)
+Next test,
+regular ethernet cable
+versus accidental scissors.
+See you later.
+Oh, it's dead.
+Now, I'm hoping to actually
+be able to break it here.
+(classical music)
+Gotta choke up,
+make sure you get that
+full snipping power.
+Oh, did I get it?
+I did get it.
+All right, guess now we can
+find out what he's made of.
+First thing we've got is
+this is 23 AWG cat six
+so yes, rated for 10 gig,
+but not over full distance
+you need cat six eight for that.
+Each of the individual
+twisted pairs is shielded.
+Well, that explains the
+kind of like the memory.
+- [Colin] Do you think it's just a shield?
+- Yeah, it has to be because
+there's nothing else in here.
+Colin and I were discussing
+whether we thought it was gonna
+be stranded or solid core,
+I can't tell yet, what's your final bet?
+I'm gonna strip it back.
+- [Colin] It's gotta be stranded to-
+- For a patch cable?
+- Take industrial use.
+It's gonna be dragged and kinked
+and in and a truck 100 times.
+- I'm gonna say solid,
+just to be contrarian.
+I win, it's solid core-
+- [Colin] No way.
+- It's solid core.
+Okay, well that would
+explain some of the memory
+as well then,
+and probably what makes it
+so that it doesn't break
+is like I said, the fact that
+it has such thick shielding
+and then sheathing on it.
+Just because one of our cables is dead,
+doesn't mean our test is over.
+We pretested this blue cable
+and we've devised a
+series of torture tests
+we're gonna put it through
+before going back in and testing it again,
+starting with the classic,
+can you run over it with a pickup truck?
+My lovely assistant Colin, he'll assist.
+(classical music)
+Okay, you know what?
+That's probably enough for that.
+As expected, that did nothing at all.
+Another classic, we're
+gonna do a, can it tow?
+Oh God, oh God, oh God.
+I mean, it's doing it.
+I don't know how high my
+confidence level is right now.
+Okay, Colin brake, Mathias brake.
+Oh God.
+Colin, wait a second there.
+Hold on, I gotta play my favorite song.
+(guitar plays)
+Oh, this poor thing.
+I don't think it lived.
+The sleeving has suffered a little bit,
+let's go test it now.
+Wait, no, it still works.
+You gotta be kidding me.
+All right, let's go back and
+kill it for real this time.
+Soft wheels, that's easy,
+but these are hard wheels.
+This forklift weighs about 3000 pounds,
+good luck everybody.
+(vehicle beeps)
+(orchestral music)
+All right, thanks Mathias.
+Oh man, that didn't even do anything,
+it flattened it a little.
+Die.
+Drop test.
+(upbeat music)
+Test time, you ready?
+Try again, try again.
+Did we kill it?
+Oh my God, we didn't.
+We didn't, it works
+Thought we got it that time.
+Okay, then marketing about
+the shame of connecting
+your gaming rig with a flimsy cable
+you found in a drawer somewhere,
+clearly these are made
+for a different purpose
+than your run of the mill
+router to PC connection,
+when the result is like mission critical.
+Like if you're setting up an audio system
+for a touring musician,
+or rapidly deploying
+emergency infrastructure.
+This is the kind of cable
+that you spend the extra on
+when you need to be able
+to trust that it will work
+even when it's abused, and
+that is what tactical means.
+According to what we've
+seen in the real world,
+this will stand the test of time
+whether you're on a traveling show
+that moves production to production,
+or whether you just run
+over cables with your chair
+all the time or something like that.
+But what is the cost?
+I actually don't know
+so this is the reveal.
+(upbeat music)
+Oh really?
+$42 per cable.
+You know what?
+That's bad, but it's not that bad.
+Like after working with pro grade cameras
+and filming equipment and that
+kind of stuff for so long,
+it doesn't surprise me
+whether it's an XLR cable
+or like a weird proprietary
+USB adapter for the A7
+or this is a classic.
+This is the cable that
+goes between a red camera
+and the monitor that
+is proprietary to red.
+- [Andy] We beak a lot of those.
+- Excuse me.
+- [Andy] We beak a lot of those
+because the strain relief is not great.
+- These are $150 a pop.
+- [Andy] I know.
+- Which is a lot of money.
+Huh, actually I'm kind of
+still processing that one,
+but it's kind of the
+cost of doing business
+at a certain point.
+And it will pay for itself
+every time you have a completed production
+that doesn't require a reshoot
+or where the editor doesn't
+find a popper hiss in the audio.
+These wireless microphone
+packs, for example
+are $4,000 a pair.
+I mean, you can get a wireless
+lab kit for a 10th of that,
+but it's not mission critical grade.
+So that's why there's
+this whole world out there
+of connectors and industrial
+cables that are designed
+to far outperform what you would find
+kicking around your house.
+One of the big manufacturers
+in the connector space
+is Neutrik,
+and they actually make
+many of the connectors
+that EliteCore uses in their products.
+They're kind of the defacto standard
+when it comes to rigging gear like this.
+This is actually a Power
+Bar that EliteCore makes
+that is $167 for just four outlets.
+But it's got this locking
+connector and if you open it up,
+I mean the cable management man,
+it's like you could throw this
+thing around back of a truck,
+drive it across country
+and you would still expect
+it to freaking work.
+Now that's not to say that the
+performance of these cables
+is any better, whether
+it's the ethernet or power
+or whatever else,
+it's just basically tin cans and string
+at the end of the day.
+But when it comes to locking
+retention mechanisms,
+water tightness and durability,
+well, that's where this kind
+of stuff comes into play.
+Just like you should
+play Raid Shadow Legends,
+the sponsor of today's video.
+If you're looking for a
+free game to play any time
+with the phone in your pocket,
+or the other phone in your pocket,
+you can with Raid Shadow Legends.
+They've got 500 champions to collect
+each with their own skill tree
+and millions of artifacts
+to find and equip.
+The game offers a large variety
+of combinations and
+strategies to figure out,
+and so far we've been digging
+the Sharp Shooter champion.
+Wanna find the best weekly rewards?
+Join a clan and fight the clan boss,
+and the fastest way to
+level up your champions
+is through funding the campaign.
+So you grind XP, you get loads of silver,
+and a few artifacts at the same time.
+And last month Raid released
+their biggest ever update
+with the centerpiece of
+it being the doom tower,
+a giant tower with 120 floors,
+a bunch of secret challenge rooms
+and 12 bosses to take on.
+We know, Raid Shadow
+Legends, kind of a meme,
+sponsoring everyone and their dog,
+but seriously, give it a try.
+Raid is giving new players Bulwark,
+a free void champion,
+50 gems, an XP booster,
+some energy refills and
+even an ancient shard
+as soon as they get in game.
+So it's all for a limited time only,
+so check it out at the link below.
+(upbeat music) Well folks,
+it's been cool to show you
+just how high-end cables can go.
+If you're interested in
+checking out some more
+ultra top end gear, maybe
+consider our (beep) serious.
+We just did a video on a
+$15,000 network switch.
+(upbeat music)

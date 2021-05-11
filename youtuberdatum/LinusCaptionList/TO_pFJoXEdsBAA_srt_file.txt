@@ -1,0 +1,265 @@
+the very fact that this thing exists is
+like a slap in the face
+to Intel you see Intel has been trying
+to make processors for mobile devices
+for years yet almost every surface pro
+since the three has looked about the
+same with a thick body fan venting and
+sharp edges then 2019 rolls around and
+alongside the more traditional surface
+pro 7 Microsoft unveils the surface pro
+X an extremely thin fanless machine with
+beautiful curved edges super thin bezels
+and all-day battery life to boot I mean
+it looks like a surface pro machine from
+the far future a future where ARM
+processors like the one in this device
+rule the world and Intel scurrying
+around trying to survive under the
+rubble but that future may yet be
+averted just like you can avert disaster
+by using our sponsor if you're looking
+for more performance treat yourself to
+g-force this holiday season with an
+Origin PC powered by GeForce r-tx
+graphics check it out at the link below
+to learn more
+[Music]
+so why did Microsoft need to switch from
+an Intel processor to arm to make a slim
+and sleek surface pro instead of this
+thick boy
+well the ARM architecture has a smaller
+instruction set which makes it lighter
+and more power efficient than the x86
+architecture used by Intel and AMD that
+makes it great for mobile devices like
+phones and tablets but it also makes it
+less suitable for the kind of powerhouse
+computing that's expected of desktops
+and laptops Microsoft has started
+experimenting with non Intel chips and
+laptops there's an AMD version of the
+surface laptop 3 now and our review is
+coming soon so get subscribed if you
+want to catch it but as mobile devices
+get more powerful and laptops gets
+smaller and lighter we've seen ARM
+processors start to pop up in laptop 2
+and ones like the HP Envy x2
+Lenovo's yoga c6 30 and now in
+Microsoft's own surface pro X the Pro X
+runs on the Microsoft SQL operations
+with Qualcomm it's essentially a tweaked
+version of the octa-core Snapdragon 855
+but with a higher clock speed of 3
+gigahertz more cash and more i/o
+Microsoft says that it performs great
+for working and connecting without an
+office thanks to its built in LTE
+support and it's supposed 13 hour
+battery life we got more like 9 or 10
+but that's still impressive and that's
+really the most attractive feature of
+arm powered devices at the launch event
+Microsoft said the surface pro X has 3x
+more performance per watt than the
+surface pro 6 it's faster thinner
+lighter while still running the full
+power of Windows and they almost got it
+right there you see while ARM processors
+are super efficient they can't run x86
+apps natively Microsoft has gotten
+around that issue by creating Windows 10
+on arm which enables 32-bit x86 apps to
+run via emulation notice I didn't say
+run perfectly well while Chrome opens
+just fine and runs decently well most of
+the time hitching lag and waiting for a
+page to load properly where regular
+occurrences while writing this review
+and while you can technically install
+professional creative apps like
+Photoshop you
+using them was an exercise in masochism
+now Adobe and Microsoft said arm
+compatible versions of Creative Cloud
+apps are coming soon but they're not
+here yet
+there are arm 64 compatible versions of
+the new chromium edge and Firefox
+available in beta and they were a bit
+smoother to use than regular ole x86
+chrome that was born out by our browser
+tests which saw chrome perform
+significantly worse than the native arm
+versions as for 64-bit x86 apps well
+they won't run at all you'll simply get
+a message saying this app can't run on
+your PC when you try to run Cinebench
+for example so it was a bit difficult to
+quantitatively benchmark the surface pro
+X although the Geekbench CPU tests
+showed it losing pretty badly to our low
+respect and cheaper surface pro 7 with
+an Intel Core i5 10 35 G for love those
+10th gen processor names microsoft says
+they're working to bring emulation of
+64-bit x86 apps to windows on arm but we
+might not get it until 2021 and even
+then performance will likely be even
+worse than 32-bit emulated x86 apps so
+wait what apps are you supposed to run
+on this thing well everything else the
+Windows Store has a filter which only
+shows compatible apps there's no
+guarantee they'll run well but you can
+install them and we were able to install
+and use browsers messaging apps and
+office programs over all using the
+surface pro X was fine but the
+experience was surprisingly
+disappointing on a device that looks and
+feels as good as one of our merch items
+for male TT store com
+which reminds me we haven't even talked
+about the physical hardware here so
+let's the surface pro X is super thin at
+seven point three millimeters and weighs
+less than 2 pounds it's got the same
+great hinge we've seen in other parts of
+the surface lineup and it overall looks
+really sleek especially with the new
+curved edges the 13 inch 28 80 by 1920
+display fills out the front of the
+device nicely with the thin side bezels
+and yes that's a three by two aspect
+ratio the top bezel is a bit thicker but
+that's because of the windows hello
+sensor so I'll allow it for IO we've got
+an interesting situation in the back
+there's a removable SSD and I say it
+with air quotes because you're not
+supposed to remove it microsoft says to
+take it to a Microsoft Store for repairs
+and there's also a nano SIM card slot
+back there and other than the surface
+connect port the only other i/o we've
+got here are two USB C ports now I
+understand the lack of the USB a port
+the device is just too thin for that but
+it would be a lot easier to swallow if
+there was also a headphone jack which
+there isn't oh is connected sure just
+not to my headphones now inside our
+machine is the version with 16 gigs of
+RAM and 256 gigs of storage which is
+$14.99 us the lowest tier model comes
+with 8 gigs of RAM and 128 gig SSD for a
+thousand bucks which is pretty normal
+for a high-end windows thin and light
+but I'm not sure if that standard should
+apply to something that's like 80% of a
+full Windows Device moving on to the
+$139 keyboard it's fine the bottom of
+the key press is a bit mushy but there's
+a nice tactile bump the trackpad is very
+precise and responsive but why is it so
+small making it a bit taller would have
+done wonders for productivity not to
+mention the fact that it's squished a
+vertical shape doesn't match the taller
+3x2 display Microsoft has had this
+problem with their otherwise excellent
+keyboard folios for years it's time for
+an update guys
+now they did change one thing here
+though the addition of a magnetic
+charging cradle for the new slim pen
+this is great
+the smaller flattened design makes it
+feel like a carpenter's pencil and
+throwing it in its slot before packing
+up and going just feels natural
+however the keyboard now tends to
+obscure the windows taskbar a bit when
+using the Pro X on your lap perhaps due
+to the added bulk oh and the pen is also
+a hundred and forty five dollars so
+we're now at almost 1800 bucks for the
+whole setup that's gonna be a X from me
+chief
+now despite those minor annoyances using
+the surface pro X is mostly an enjoyable
+experience provided you've got dongles
+on hand and there's no question that
+this machine is far removed from
+Microsoft's first arm powered surface
+the surface RT which launched back in
+2013 it ran on an NVIDIA Tegra 3
+processor and everyone hated it there
+was no x86 emulation on it so you were
+stuck with the built-in apps and
+whatever fullscreen Windows 8 Metro apps
+you could find in the fledgling
+Microsoft Store it was a dark time so in
+that context the surface pro X is a
+triumph an extremely thin and light
+machine that wakes in an instant lasts
+all day and can run full Windows apps
+with a few exceptions whether those
+exceptions are addressed with native ARB
+64 versions of desktop apps will be the
+deciding factor in Intel's fate because
+this device seems to represent design
+changes that Microsoft has wanted to
+make with the main surface line for a
+while and we're finally able to make
+with an ARM chip I mean a surface pro X
+that runs all Windows apps just as well
+as an Intel and tell thin and lights out
+of the water if the pressure from AMD on
+desktop continues an arm continues its
+path towards mobile dominance Intel
+might just be up against the ropes for
+now though this machine's getting a
+little ahead of itself I mean with the
+keyboard and slim pen bundle our mid
+tier machine here comes to one thousand
+seven hundred and sixty eight dollars a
+similar respect surface pro 7 with an
+Intel Core i5
+- 1628 that's cheaper and it can run
+Photoshop so right now it seems like arm
+powered Windows machines are kind of
+like the plucky freshmen he's got some
+natural talent and a load of potential
+but he's not getting the Nobel Prize
+until he hits the books speaking of
+books the comic garage is a monthly
+comic book box service that allows you
+to choose your favorite characters and
+the comic garage will curate a
+personalized box around your selections
+you get 10 curated comics a month in
+their super box or 24 curated comics in
+their ultimate box and you can even
+purchase character only boxes if you
+prefer that so every month you'll get
+something to read as well as something
+to collect and you can get even more
+specific as well by choosing one of
+their one-time boxes at any time so
+whether it's spider-man x-men Batman X
+Batman Batman etc you can pick and
+choose what you want
+use code Linus to get six dollars off
+your first box today at the link in the
+video description get all those Batman
+comics we really miss the opportunity to
+make a joke about it costing an arm and
+a leg dang it well hey if you're looking
+for something else to watch check out
+part three of the hack Pro build it
+might just be the fastest Mac on the
+planet I need to go back to tech late
