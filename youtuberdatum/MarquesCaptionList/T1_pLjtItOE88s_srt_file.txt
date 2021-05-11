@@ -1,0 +1,240 @@
+[Music]
+it what's up guys MTV HD here so
+typically with every single new version
+of Android we'll get an early look at it
+in the form of an alpha or beta release
+then we'll dig into it find the coolest
+new features and then share it with the
+guests now this year with Android 11
+those earlier builds were honestly a
+little bit underwhelming like the Alpha
+builds were not super feature-rich and
+they weren't ready but now that we're
+getting towards that time of year where
+we were supposed to have Google i/o
+which was of course canceled but now
+that we're getting to that time the beta
+builds that are coming out especially
+this first one are a lot more close to
+final and there's some good stuff in
+here so we're gonna dive in and take a
+look now keep in mind Android as just as
+a whole is a lot more well baked more
+mature than it was a couple years ago so
+a couple years ago an a version update
+like this could be a whole visual
+overhaul this isn't a visual overhaul
+anymore this is a lot more tweaking a
+lot more fine-tuning but there is still
+some cool stuff and some good features
+in here so that's we're gonna take a
+look at and yeah so this is a top 5 new
+features in Android xi and number 5 is
+the updated pixel launcher so this has
+been my favorite launcher I guess on any
+Android phone for a couple years now
+anytime I get a new phone I just kind of
+try to make the homescreen feel kind of
+like a pixel but they have tweaked some
+stuff here so first of all they let me
+turn auto rotation on on the home screen
+which correct me if I'm wrong that
+wasn't enabled before so you can just
+turn your phone sideways like a tablet
+and just use it like that right away I
+don't think I ever would use my phone
+like this on the home screen I almost
+never turned it that way anyway so it's
+cool I don't think that was enabled
+before then there's now a new option for
+your bottom row of apps to be app
+suggestions so basically it moves
+everything up a row and then that whole
+new bottom row is suggested apps to open
+on your phone based on learned behaviors
+and you can pin a suggested app and
+place down there if you think it should
+be there permanently and there's also an
+option in settings to block an app from
+ever showing up there so just check the
+box if you don't want it to ever be
+suggested this to me is kind of neat I
+guess if those suggestions get really
+good but I'm not a huge fan of the idea
+of my homescreen
+being variable I feel like they should
+just stay locked in place so I have
+quick access to everything now inside
+the app drawer they let you have that
+top row as suggestions that's cool I'll
+leave it like that it's been like that
+for years but yeah I think I'm probably
+not gonna use that option then the app
+switcher is also a little bit different
+huge cards still but now you get an app
+screenshot button a share button and a
+select button to select text within the
+app and you now lose the extra pull down
+up to get into the app drawer and
+there's some small new animations did
+you catch that you can see the wallpaper
+shifts a bit when you pull the
+notification bar down and it also shifts
+when you pull up into the app drawer
+it's really subtle it's super subtle but
+that's nice
+alright so number four is the new media
+controls up at the top now this is an
+option that's actually not enabled by
+default and I suspect that's because
+it's a bit buggy and incomplete but when
+you do go into the developer settings
+and enable it it puts this little
+colorized media widget in the top of
+your quick settings pulldown I think
+this is sweet it's like an Android eyes
+version of the iPhones quick settings
+media toggle and since it's at the top
+it means you never have to scroll very
+far to pause whatever music or podcast
+you're listening to now like I said it
+is a bit buggy but you can have more
+than one open at once but it doesn't yet
+work with every single app like it
+doesn't work with YouTube yet and also
+sometimes the playback scrubber doesn't
+work but generally I'm a big fan of this
+feature you can also quickly toggle
+playback devices so if you have
+headphones or speakers paired stuff like
+that you can quickly get to that and the
+little mini player the color of it is
+always gonna match the album art of
+whatever you're listening to so again
+very subtle but that's nice
+alright number three three voice access
+or voice control full credits to dieter
+from the verge for surfacing this for me
+I saw it on his Twitter he tweeted a
+video of using it and it blew my mind
+I'll link his tweet below but basically
+it's an accessibility feature so not
+everyone's gonna use it but I feel like
+anything that improves accessibility on
+a phone this much could be used by
+anyone basically and and what gets this
+good it's worth it so here's how it
+works so the voice access feature itself
+is not new you can grab it from the
+place
+door it shows up in the menus of your
+phone and when you enable it in this new
+Android beta its controlling the phone
+with your voice and the best improvement
+here is instead of just saying the
+number corresponding to what you want to
+press you can actually also just say the
+name of the action and it's gotten
+really good at responding open real a
+pro scroll down scroll up go home open
+Chrome scroll up go back open Twitter
+tweet
+this is a test of voice commands on
+Android 11 delete all text go back go
+home it's pretty yet okay so number two
+the power button hold which is usually
+just to like turn off the phone or reset
+gets even more functionality now I'm not
+sure why they chose the power button
+hold for this stuff other than just
+giving quick access to things that
+weren't originally quick but here we are
+so now when you press and hold the power
+button instead of just getting shut down
+restart and screenshot you get all those
+things plus a shortcut to Google pay and
+whatever other cards and passes like
+boarding passes you have which is broken
+right now in this beta and then also a
+bunch of smart home toggles and I happen
+to have some compatible smart home stuff
+that I can control so I can turn on my
+smart lights on and off and they work
+pretty quickly it seems like and nest
+thermostat also worked quickly and
+easily and you can even preview nest
+cameras now again I don't know if
+putting them here in the power button
+long press menu is what I expected or or
+what most users will expect to find here
+but I'm cool with it
+side note if you aren't you can go into
+the system settings under power menu and
+take away the things that you don't care
+about having here and then number one
+the biggest new change in yet another
+Android update is a new notification
+shade classic Android updates so in
+Android 11 the notifications get
+separated into three categories there's
+conversations alerting notifications and
+silent notifications so conversations is
+for messaging basically so text messages
+Twitter dm's or whatever other apps end
+up supporting this I imagine slack and
+other messaging apps then alerting
+notifications is basically all the
+standard stuff that's where you'd have
+them pile up normally and then silent
+notifications are the ones that are
+persistent happening in the background
+more background stuff like whether or
+Google now cards if it also got these
+more jelly animations they're pretty
+sloppy actually at the moment in this
+beta but I think they can clean them up
+and they'll look nice and that's the
+real main change here
+there's also some other little things
+like you can do bubble notifications now
+so basically chat heads are being
+supported for messaging apps this is the
+thing you can turn on and off in the
+settings I was never really a huge fan
+of chat heads so I'm keeping it off and
+then there's also a new fancy screen on
+and off animation see if there's a lot
+of little things definitely little
+things and that is it for android 11 my
+favorite new feature of these is
+definitely the new media controls up in
+the top nice little compact widget up
+here because I'm always listening I feel
+like - something music or podcast but
+I'm curious let me know in the comments
+section well your favorite feature of
+these 5 is now at the end of the day the
+unanswered question is when will you get
+this update like when will you try this
+new stuff because I'm testing it right
+now on my pixel 4 and that's what you'd
+expect is a pixel to get it and there's
+a couple other pixel models that can
+download it and test it right now some
+people are literally daily a Miss beta
+but there's kind of no way to know when
+a Samsung phone HTC phone a Motorola
+phone and oneplus phone are all gonna
+get it when the carriers will allow it
+so I don't know if you want to guarantee
+that you get these latest features in
+your phone you have to have a pixel
+basically and that's the way it's been
+for a little while but other than that
+that's about all we know that's the top
+5 features in Android 11 if you have any
+questions feel free to drop them below
+we can chat about them but that's been
+it
+thanks for watching catch you guys the
+next one tastes

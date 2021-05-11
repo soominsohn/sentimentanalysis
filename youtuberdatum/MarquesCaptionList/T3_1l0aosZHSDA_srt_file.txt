@@ -1,0 +1,446 @@
+[Music]
+yo
+mark german only drops bombs
+he only drops bombs there's a reason we
+had him on the waveform podcast and
+there's a reason we had him on the
+channel to talk about the future
+of the iphone possibly not having ports
+there's only one person i trust
+at this level with this sort of
+reporting at this moment
+and it's mark german so on friday chill
+friday afternoon he dropped
+several bombs with a lot of information
+and this is all still technically rumors
+but about sort of the
+alleged products and things that apple
+is working on for the next
+year or so 2021. and i'm just going to
+warn you right off the
+a lot of it is too good to be true a lot
+of it sounds
+too good to be true so i'm just gonna
+just preface the whole thing with that
+you know it's a very reliable source but
+i wouldn't
+bet my happiness entirely on it but i'm
+just saying
+there's a lot of good stuff so i just
+figured i would go through this stuff
+one by one and sort of break it down on
+what the rumor is
+and then my reaction and maybe some
+extra details and hopes and dreams i
+might have so
+let's just buckle up and as philip
+defranco would say let's just
+jump right into it so okay let's start
+with the laptops we already have
+of course all the new apple silicon
+stuff happening over the course of the
+next year to
+those rumors of an alleged new 14-inch
+and 16-inch
+macbook pro in the works with apple
+silicon
+and uh there's a couple parts to this so
+first of all this would be our first
+look at
+a new upgraded apple silicon in a higher
+end mac than just the baseline they
+started at the baseline with the macbook
+air
+and the macbook pro that i love so
+dearly and have
+raved about and that many people have
+but this would be our first look at a
+higher end version
+in the machines that typically have a
+dedicated gpu see as good as these
+m1 macs have been they are really good
+at replacing the baseline models that
+didn't need gpus
+the 16-inch macbook pro currently with
+an intel chip
+still destroys the m1 max
+in the gpu department so if you need
+heavy graphics computing
+you still need to get a mac with a
+dedicated gpu
+so when these come out this will be our
+first look at whether they
+just build a massive integrated gpu in
+or they continue to support discrete
+gpus
+it'll be a first chance to see how they
+do that then number two they will have
+similar designs but a little more
+squared off potentially and then with
+new displays that are both
+brighter and higher contrast now when i
+read this
+i read micro led so we've been waiting
+to see micro led and a lot of their
+higher end displays
+for a little bit now i think the ipad
+pro comes to mind right away because
+they've had an oled iphone
+and they haven't switched to an oled
+ipad but micro led
+is about as close as it gets to oled
+without actually going oled with each
+individual pixel
+is its own light source with micro led
+you have a lot of
+tiny local dimming zones and that
+equivalates to
+you know much deeper blacks and much
+less
+glowing and blooming and things like
+that so it's
+almost oled and i think it makes sense
+to see this sort of stuff in the
+high-end versions with all the hdr push
+we've seen lately
+i would actually have to just say i've
+been considering
+moving to an hdr workflow on this
+channel
+for a while now the pro display xdr
+supports it
+youtube supports it these cameras
+support it it's just getting everything
+together in one pipeline that works
+that is a challenge but it makes sense
+and i'd be looking forward to
+some pretty sweet displays here but then
+number three for these laptops the rumor
+indicates the return
+of magsafe charging
+where it all started magsafe this would
+be a pleasant surprise for me
+i'm sure a lot of you remember the
+original magsafe which was like this
+little pill-shaped port which was just
+for charging but it was magnets
+and it was safe that's just what it was
+for so if you kick the cable out the
+side of the laptop when tripping over it
+it would just fall out the side and the
+laptop wouldn't crash with it
+now with the magsafe we have in the new
+iphones it's
+it's a magnet yes but it's not quite as
+safe as the old mag safe you could still
+rip the whole phone off the desk if you
+trip over the cable
+but i'm looking forward to seeing a new
+version of magsafe
+back in the laptops and the rumor says
+it should enable some sort of faster
+charging which sounds pretty sweet
+but i imagine they will also still have
+a bunch of usbc ports on the sides of
+the laptop so if you do still want to
+use one cable to charge everything which
+i'm kind of close to being able to do
+now you should still be able to do that
+but i think the magsafe
+way will be the cool way and the faster
+way and then last but not least with
+these rumored new macbook pros is no
+touch bar
+to which i say good riddance but it was
+kind of
+really interesting to see i tweeted
+about this and uh first of all it's kind
+of funny that
+all of these new rumors kind of feel
+like we're just going backwards to like
+the 2015 macbook pro old keyboards get
+rid of the touch bar
+bring magsafe back which is is great but
+on the touch bar it seems very
+polarizing so i'd say about
+75 of my replies were saying great
+good riddance get rid of it there was
+nothing good about the touch bar
+never used it hated it and then maybe
+20 of people were kind of indifferent
+like oh no my touch bar fine i won't
+miss it but all right
+and then five or so percent of people
+loved the touch bar and really wanted to
+keep it and are like sad to see it go
+which is interesting i don't know if the
+display or the uh discrepancy would be
+quite the same
+among all users but it's just funny in
+my replies maybe let me know in the
+comments which
+which group you're in i for me i didn't
+really
+like the touch bar that much it's fine
+but it didn't really ever live up to the
+potential
+that it had and so i'm sure to get rid
+of extra cost
+getting rid of the touch bar is a
+no-brainer but anyway that's the
+high-end laptops
+overall seems like a pretty sweet start
+then let's talk about the desktops and
+let's start with the imac so the rumor
+is
+the new imac design is right around the
+corner so
+the imac design i've said this for a
+while you can watch my review
+on the last intel imac the design
+it's fine but it is old it's got
+big bezels top sides bottom huge
+chin and it's just not quite in the
+aesthetic of the current
+apple design so the rumor is we'll have
+an imac come out that looks a lot like
+the pro display xdr which is to say
+boxier
+much thinner bezels and well a little
+more clean looking and so they will of
+course also have the new apple silicon
+and again
+high-end desktop stuff so that begs the
+question still about gpu support what
+that situation will look like and i am
+kind of thinking low key this may be
+one of the more important computers that
+they're working on with apple silicon
+we already know most mac users are using
+mac laptops
+but they have the mac mini the imac and
+the mac pro those are
+their entire desktop lineup so the imac
+ends up being where a lot of people fall
+who just want an all in one
+and uh i think they gotta get it right i
+think they know that but they really
+want to nail that
+as far as value and performance to sort
+of
+dominate the all-in-one category so this
+isn't even in the rumors but i'm kind of
+hoping for things like
+an sd card slot to still be there on the
+side a couple of ports on the side
+instead of the back the ports on the
+back of the monitor it's good to have
+them but
+the imac i i just got tired of reaching
+around
+back here so often i would have loved to
+see some stuff on the side but
+that's not in the rumors that's just me
+hoping for stuff
+we'll see what they do but then last but
+not least there is a new
+mac pro rumor in here among all of
+mark's reporting
+and see the mac pro that we already got
+was you know
+it's got the intel chip and everything
+but that was also already a very
+long time anticipated product the mac
+pro was very questionable about
+you know this just trash can design
+these thermals are they are they
+not like caring about the pro market
+anymore when they finally drop this mac
+pro we all in
+okay they're still up to it there's
+still some good stuff here but now
+apparently apple is working on an apple
+silicon
+mac pro that's less than half of the
+size
+of the current mac pro and is sort of
+nostalgic
+for the the power mac g4 cube so if
+anyone remembers what the power mac g4
+cube looked like
+that sort of size and shape in a new
+apple silicon mac pro now hearing that i
+have
+so many questions so many more
+speculative
+thoughts bouncing around my head but i
+think the main one
+is is this form factor supposed to be
+better than the current intel mac pro
+or just a cheaper version
+of an apple silicon desktop like
+somewhere between the mac mini and the
+intel mac pro
+is it supposed to be above the top of
+the range or somewhere in the middle
+that's the main question now as i
+speculate all this there's also mention
+of a new display
+that is a lower priced version of the
+pro display xdr so an external monitor
+that's not nearly as expensive as this
+i guess it would be a six thousand
+dollar monitor with a thousand dollar
+stand
+infamously um and that makes me
+think it will launch alongside this
+newer
+smaller mac pro and that they will both
+be
+cheaper than their currently existing
+counterparts
+does that make sense so apple gets back
+into the pro desktop market with a
+way too expensive for most people and
+way overkill for most people
+intel mac pro and pro display xdr but
+then can leverage their
+cachet can leverage their tech and build
+something
+awesome in a smaller box that they can
+still call a mac pro
+but that now has apple silicon that now
+has better thermals
+that now has hopefully great graphics
+and is cheaper than the current
+extremely expensive mac pro anyway that
+is definitely what the
+creative inside of me is most excited to
+see because i
+like i said when we first saw these new
+macs with apple silicon i
+immediately went to the top i was like
+what does the fully unlocked
+best version of this look like and it
+looks like
+that mac will be it we'll see oh and
+then uh some iphone stuff
+we all probably already know apple makes
+iphones they're
+a bit of an iphone and accessories
+company so allegedly this year
+was basically an s year for the iphone
+which is about what we expected meaning
+a bunch of
+minor updates nothing too crazy now the
+main change they're working on is an
+in-display fingerprint reader
+and knowing how many years we've had
+these around and how much better they've
+slowly gotten
+i'm not shocked by this i'm just kind of
+bracing myself
+for that to be an excuse to get rid of
+something else
+i don't know what that other thing will
+be but i've made an entire video about
+the port situation now there's no
+mention in here in this article
+of any high refresh rate display and i'm
+not sure it would even be
+worth mentioning like it's such a common
+accepted feature at this point that it's
+kind of weird that the iphone
+doesn't have one i really hope the
+iphone 13
+or 12s whatever it's called does have
+120hz display
+alongside the ipad and as many other
+things as they can but
+it's not mentioned so that's worth
+mentioning but i'll just say you should
+definitely watch that entire video i did
+with mark german
+on the idea of a portless iphone and how
+realistic it may be that the next iphone
+that comes out
+has no ports i'll link it below one
+other thing
+is mentioned that apple's working on
+a foldable iphone now this is this is
+not
+a next year or so thing this is a thing
+they've been in the background working
+on
+i'm sure i imagine there's prototypes
+floating around apple campus
+actually probably locked in a room
+downstairs somewhere but
+we probably won't see an iphone fold
+anytime soon it's just
+it's just curious that the alternate
+form factor universe has been expanding
+and growing and turning into something
+really interesting
+and i i i look forward to the day apple
+joins in
+and to a lot of people legitimizes
+that whole space because we've got
+foldable phones we've got rolling stuff
+we've got swiveling stuff
+and i think the day apple joins that we
+start to see a lot more but that's
+coming in the future
+apparently they also do plan to launch
+air tags sometime this year we already
+we just saw an equivalent from samsung
+that works with samsung galaxy phones
+i think that's a missed opportunity i
+think they could have made something
+that works with
+as many things as possible and just
+works best with galaxy phones but
+expect that i think sometime this year
+and also mark mentions
+a much faster much faster ipad pro
+with mini led which it's hard to imagine
+an ipad pro much faster it's already
+leaps and bounds ahead of a lot of other
+tablets
+but i think the big innovation will be
+mini led we've wanted that thing to go
+oled for so long mini led again like i
+said is as close to that
+as we can pretty much get right now nice
+i'm just gonna throw in one more thing
+for fun this isn't part of mark german's
+uh series of leak bombs but uh
+apparently apple is researching a new
+light absorbing black finish for
+macbooks
+which i gotta say i i really like the
+way the icon skin looks
+on the back of my macbook pro right now
+but also matte black
+laptops can we bring those back apple
+you used to do it you could do it again
+but anyway that is
+that is pretty much it like i said it's
+a lot to take in there's new laptop
+stuff
+there's new imac stuff there's new
+desktop stuff and there's new iphone
+stuff
+all in here i'm going to leave all the
+links below if you want to check that
+out and read the full articles shout out
+to mark german again
+for his reporting over the years but i'm
+curious what you're
+most interested in for me it's that mac
+mac pro i should say
+but for you let me know in the comments
+rap touch bar
+thanks for watching catch you guys in
+the next one
+peace

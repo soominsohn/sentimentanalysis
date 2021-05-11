@@ -1,0 +1,325 @@
+[Music]
+hey what's up
+mkbhd here first of all welcome to
+techtober
+and i've been wearing this red apple
+watch series 6
+every day since the impressions video
+now so been living with it i've worked
+out with it i've slept with it on
+pretty much everything so this is the
+full review oh by the way if you're
+wondering like hey
+what about the video about this other
+thing or where's your video on x
+or insert review here there's a lot
+going on
+right now in the tech world that's why
+we named them october and september
+so we're catching up to a lot of it
+expect a lot of videos in october but
+okay so
+summary with this watch is there's
+really not a whole ton of
+massively new stuff as you already knew
+like okay some slightly brighter always
+on display
+cool slightly faster charging cool
+and also a slightly new sensor with the
+blood oxygen but
+a lot of the stuff that makes the apple
+watch the apple watch and so good
+is of course in the software watchos
+that's going to make its way
+to other apple watches but i think one
+of the biggest mistakes
+we make in the tech world so often in
+these mature
+categories is comparing the new thing to
+last year's thing
+when most people buying the new thing
+aren't upgrading from last year's thing
+that's actually a pretty rare use case
+most people have three
+four year old plus versions that are
+aging by the time they upgrade to this
+one so yeah surprise
+if you already have an apple watch
+series 4 or 5
+you don't need to upgrade but if you
+don't have an apple watch yet
+well this is the most complete
+ecosystem bait yet so let's just start
+with
+the headlighting new feature which is
+actually the blood oxygen sensor
+uh it's not actually the first smart
+watch to add this but they did add it
+now to the apple watch
+and well it probably shouldn't be your
+reason to buy this watch now i mean for
+what it's worth i've been getting pretty
+decent
+accurate measurements as far as i can
+tell you get it pretty snug
+slide it down your wrist near your hand
+and sit still
+for a few seconds anything in the upper
+90s is normal
+and i've gotten like 98 to 100 every
+time
+i try it sitting down great but if for
+some reason i
+stood up or moved around a little bit or
+for whatever reason i didn't get 98 and
+i got
+88 for some reason which would be a
+concerning actual measurement
+i wouldn't really be freaking out at all
+because lots of people have gotten
+very inaccurate measurements or just had
+problems getting a good reliable measure
+at all but for a little background a
+dedicated
+blood oxygen sensor is normally worn
+on your fingertip just like that i
+actually learned this while i was
+working with david blaine on the
+ascension project
+uh he needed one to be really accurate
+to actually tell if he was hypoxic or
+not which would be dangerous
+but you clamp it to your finger and it
+just measures the blood oxygen
+saturation
+by shining a light through your
+fingertip and then
+reading it on the other side so it's
+going through your finger now the apple
+watch is attempting to get the same
+reading but obviously in a non-ideal
+place
+on the back of your wrist so it's
+shining into your wrist but obviously
+can't read from the other side so it's
+trying to read from the reflections
+and most blood oxygen sensors don't read
+this way for a reason it's just much
+more difficult to get an
+accurate reliable reading from this spot
+on your body
+now actually as dave 2d points out in
+his video you can actually take the
+apple watch off and put it on your
+fingertip
+to get much more consistent readings but
+yeah if you're doing all that and you
+care
+that much about accurate blood oxygen
+readings
+you should just grab a 25 pulse oximeter
+from amazon
+and it will be way more accurate than
+any smart watch so yeah this is much
+more just like a casual
+extra sensor to give you some new
+readings in the health app if you want
+to gamify it and track it
+uh so if you go for hikes and stuff then
+cool you get to see oh my blood oxygen's
+94 instead of 100
+but you shouldn't be taking it to the
+doctor um speaking of
+extra readings in the health app sleep
+mode so there's sleep tracking built
+into the apple watch now
+it is actually a watch os 7 feature
+again so it's not like it's exclusive to
+the series six but
+hey i tested it like i said i've been
+wearing it every day i've been sleeping
+in the apple watch
+because i guess that's the apple effect
+getting people to try things
+so when you're about to go to sleep you
+swipe up control center hit that little
+bedtime icon and the screen goes black
+and it starts sleep tracking and really
+what i found is it doesn't track
+that much hardcore information like
+basically it's whether it thinks you're
+asleep or not
+heart rate once in a while trends up and
+down
+things like that pretty casual but
+nothing really groundbreaking and people
+who already have been using
+third-party apple watch apps to track
+sleep already know way more about their
+sleep
+than this will tell you but like i said
+it's just one more thing that's plugging
+into the health app and giving you a
+pretty good basic look
+at what's going on here so okay it works
+and that's great and everything but you
+know what the best part is
+you know the best part of wearing an
+apple watch to sleep
+actually is it's the alarm 100
+it's the alarm it just taps you awake
+just with a little haptic motor no sound
+or anything
+and that's been massively underrated i
+really don't like wearing a thing like
+this to sleep
+but the fact that it just taps me awake
+and i never have an actual alarm
+sound has been uh pretty sweet but also
+apple i noticed
+it adds standing hours while i'm asleep
+so i wake up every day with like two to
+four
+standing hours which is kind of odd
+because
+i don't know about you but i sleep lying
+down but the charging question
+the charging question is interesting now
+because if you wear the watch
+all day and then you wear to sleep when
+do you charge the thing it does have
+slightly faster
+90 minute zero to 100 charging but when
+do you actually get it on the charger
+for me i found two times during the day
+and neither of them are a full charge
+but the first one is like
+right when i like go shower at night but
+after a workout or something i'll pop it
+on the charger and that'll juice it up
+enough to last through the night
+and then when i wake up in the morning
+so it taps me awake
+and i just take it off and put it on the
+charger and go through my morning
+routine so it's just sitting on the
+charger juicing up for the day
+so it never actually gets to 100 i'm
+just kind of always bouncing between
+20 and 85 percent which is actually
+better for battery health on the watch
+and yeah i never got it to die in a day
+again so battery life on the watch is
+still good it's still about what it's
+been for series four and five
+and i also do have the always on display
+going to me the real
+best feature of the apple watch series 6
+is just the new s6 chip inside like
+that's what's giving you
+the great efficiency to last all day
+that's what's giving you the brighter
+always on display
+uh if you disable the oezon display
+you'll probably get even better battery
+life
+and then it's enabling the faster
+charging that chip is giving you the
+great performance through watchos 7
+which now has faster snappier animations
+throughout the whole thing
+which is great oh and also the hand
+washing detection in watchos 7
+is kind of hilarious like it'll pick up
+that
+yes i am washing my hands through the
+microphone and the the movement it's
+sensing
+and then it'll start some countdown
+timer based on when it thinks you
+started and if you get to the end of the
+20 seconds
+great little soapy thumbs up thing but
+if you don't get to the end of the 20
+seconds it just kind of
+quietly disappears like reminding you to
+do it better next time the shame but
+yeah all this stuff
+pretty minor i think the biggest
+literally the biggest change most people
+notice with this new watch
+is the colors which by the way i'm going
+to be switching back to
+my black series 5 because it does look
+cool sometimes but i don't need a red
+watch every single day but also the
+other new thing they made alongside the
+new watch is
+the new solo loop bands and they are
+a great idea i love the simplicity of
+just stretching a band to put it on
+no velcro or magnets or buckles or
+anything you just
+put it on get your size right which can
+be a little finicky but
+get it snug and it's super clean the
+only weird thing is they seem to fit the
+watch a little bit worse than
+all the other bands like see how it
+doesn't go quite all the way
+to the edge of the watch and you can
+kind of see some of the metal inside
+instead of it sitting flush
+with the red of this watch kind of weird
+if you find that important
+i personally don't but it's worth noting
+so you can see it here
+but you know these are 50 to 100 watch
+bands order them if you dare so there
+you have it
+pretty short list again the thing to
+keep in mind is they're make they're not
+making this for people
+with an apple watch series 5 or even
+series 4.
+i think people with a series 3 or older
+will just have
+this as the new version to upgrade to
+around the holiday season
+conveniently but the truth is most
+people don't even need this newest
+version with all the
+bells and whistles and extra sensors
+there's also the new apple watch se
+which has the new s6
+chip but hey there's no
+electrocardiogram and there's no blood
+oxygen sensor
+and there's no always on display but it
+is a much lower price
+and that's fine for most people getting
+their first apple watch so if it ain't
+broke
+don't fix it and apple absolutely did
+not fix
+anything that wasn't broken they didn't
+change the shape or offer a circular
+version
+or anything like that they didn't add qi
+charging
+they didn't you know open up a watch
+face store for third-party watch faces
+they didn't change anything drastic
+that wasn't broken with the apple watch
+so it's series six
+for 2020 conveniently available for the
+holidays
+well played apple and that's pretty much
+it for the review
+like i said i'm going back to series 5.
+either way
+that's been it thanks for watching and
+techtober
+rolls on catch you guys very soon in the
+next one
+peace

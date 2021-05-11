@@ -1,0 +1,463 @@
+but then towards the end we settled on
+this design so we did something you're
+usually not allowed to do it's up guys
+mkbhd here so you may remember a couple
+videos ago I was talking about the ideal
+budget smartphone formula and how much
+different parts costs relative to the
+final cost of the phone and in that
+video I actually asked I called out if
+any companies want to get in touch with
+me and maybe give us the actual numbers
+of what some of these parts actually
+costs well it would be great well 1 plus
+as you probably already know by now is
+working on and has been teasing their
+upcoming mid-range or budget phone and
+they actually reached out and they said
+hey ok we are willing to talk about that
+kind of stuff and we can use project nor
+it as like an example to walk through
+that discussion so I said ok and what
+followed with some of the most
+interesting informative discussion I've
+had in the smartphone world in a long
+time so I'm speaking with Carl Pei one
+of the cofounders of oneplus one of the
+guys usually see on stage at their
+events presenting stuff and there's a
+full uncut version of this entire
+discussion on the way form podcast I'll
+link it below
+we got really in the weeds about product
+strategy and the not so linear nature
+about how products are planned and how
+they come to life in 2020 but if you
+want to hear all that you can but this
+here is me cherry-picking some of the
+really good stuff we get actual numbers
+and prices via real discussions and we
+got a design reveal of oneplus Nord as
+promised enjoy do that all right Carl
+thank you for joining me so I think
+we're all we're here because you get you
+guys are you're working on a new product
+line oneplus Nord I think all we really
+know about it as of right now as we're
+recording this is the name is Nord and
+then there's all sorts of speculation
+about what exactly it is so why don't we
+just go right into it and just just tell
+me what you can about what oneplus Nord
+is what you've been working on what we
+should know now so if you look at the
+the timing now and if you
+look at the industry as a whole most
+smartphone companies they really focus
+all their time and energy into creating
+a great flagship phone the mid-range
+category is it's it's kind of an
+afterthought so the the best and
+brightest go and make the flagship phone
+and you know the mid-range it is what it
+is for us we think we're ready now
+because the technology is ready with the
+seven six five G chipset from Qualcomm
+we finally feel like the the mid-range
+chipset are ready to deliver the
+experience that people have come to
+expect from a oneplus product over the
+past couple of years you know we've been
+really focused on creating a fast and
+smooth experience and prior to this this
+was done on the 800 series yeah but now
+as technology is improving we feel like
+it's finally time and the technology is
+finally ready so that now with the 700
+series were able to deliver that same
+experience so when you're scrolling
+through the oneplus Noord you won't
+actually be able to tell which platform
+you're on all the animations all the
+optimizations we've kind of taken from
+the 800 series and brought to the 700
+series I'm sure that when they use it
+for the first time they won't really be
+able to tell what the that is it's not a
+800 series chipset I think they'll be
+able to tell once they get into
+something really intensive like you know
+3d game on a higher graphic setting but
+for the regular day-to-day tasks I've
+been using it as my daily driver for
+quite some time now you can't really
+tell so that's what it is like we
+finally feel like there's a opening for
+us to take our flagship experience into
+a new price category and we waited a
+little bit of time until we were finally
+ready to deliver this so I'm always
+wondering I'm always wondering how much
+how much parts cost in a phone so I was
+talking about this sort of formula for a
+budget phone one you end up at a 350 400
+4 and $50 phone what sort of trade-offs
+like need to be made because they're
+simply too expensive so I have a couple
+questions maybe you can answer about
+that
+I'll try my best so generally about
+about how much does it cost to add NFC
+to a phone and I've seized one of those
+things we've seen left out of previous
+phones previous one plus loans for cost
+reasons now they're in many phones but
+still left out occasionally what is that
+little NFC tag cost
+yeah nowadays has become really common
+right so it's not something we thought
+of thought about a lot but it costs
+around four dollars to just add the
+enema see there and that's four bucks to
+you the the the manufacturer that's
+putting them in the phones or four bucks
+to the end consumer to you okay it's
+it's um yeah when we think about a cup
+the cost of a smart phone we talk in
+terms of bum bo M it means building
+materials so the four dollars gets into
+the building materials and then we have
+other costs to deliver the phone to the
+consumer we have channel cost marketing
+costs operational costs offices staff
+etc so this is just the cost of
+components what about IP certification
+because that's not that's not a
+component necessarily it's a couple of
+seals and a couple of things you add to
+the phone that eventually qualify it for
+a certification so an ip68 rating in a
+phone for example how much extra does
+that cost yeah so this is a really
+interesting topic and it's quite
+complicated so bear with me for a little
+bit there's no there's no official kind
+of body or third-party organization that
+certifies phones to be IP rated it's
+just a set of standards that are you
+know commonly agreed upon in the
+industry so take ip68 for instance for a
+phone to be able to claim that it's IP
+68 certified it needs to survive 1.5
+meters underwater sorry for North
+American it's not
+we were like talents or something for
+for 30 minutes 30 minutes okay 30
+minutes so you mentioned the yeah we
+need to add additional seals to make
+sure that every port is waterproof but
+that's actually only a very small part
+of the additional cost the most of the
+cost here comes from the
+from the machines that we have to buy to
+test the devices so that's the biggest
+cost driver it's a big fixed investment
+to buy all these machines that allow us
+to test the devices through kind of
+blowing air into the ports to see if the
+air thing comes out it's not tested
+under water so that's the biggest fixed
+investment the second the cost driver is
+actually manpower so every every foam
+that's IP certified needs to undergo
+testing towards the end of the assembly
+line so at the end of the assembly line
+we have to add a few more steps to the
+process and this makes the phone take
+longer time to manufacture and we'll
+also need more manpower more people to
+undergo these tests so that's the second
+biggest cost driver the the seals of
+themselves they don't really cost a lot
+so how much so how much do you save by
+not having all that obviously the
+machines divide out over you know the
+cost of units but I feel like if you
+just put the seals in and toss it under
+water and it seems to survive you're
+close even though you're not necessarily
+testing with official machines right so
+it really depends on the volume right so
+if you sell a lot of phones or you
+manufacture a lot of phones and you just
+divide the cost of machines by a lot of
+phones and hence driving the price down
+and also if your team is more
+experienced in building these assembly
+lines that have IP certification tests
+you can save time there as well to save
+costs for us it costs around fifteen
+dollars for each phone to do the IP
+certification so for the oneplus Nord we
+we chose to not do it and as you say we
+we can still build a phone that survives
+the day to day if you spilled some water
+on your phone if you if you drop it in
+the pool of water it still works so for
+for the oneplus Nord we just decided
+that this is not a place where we should
+put costs because we're looking at the
+overall user experience we're not
+designing for extreme use cases we're
+not designing to cover it kind of every
+corner of the user experience right so
+it may like previous
+Plus phones that weren't certified it
+may still have the seals and like you
+say it might still survive a spill or a
+rain or something like that but it
+doesn't necessarily go through the same
+extra steps in manufacturing and testing
+with those machines which saves a bit of
+money and therefore takes the price down
+a little bit so where the oneplus Nord
+at every stage of the product
+development process we make sure that
+the design can withstand 30 centimeters
+of water for 30 seconds and after after
+testing it in water we wait again so if
+the weight has increased there's
+actually water in the phone and only
+when there's no additional weight can it
+move on to the next development process
+there's another trade-off I guess I'm
+curious about which is battery and I
+think a lot of people don't really think
+about the different types of ways that
+you can build a battery experience
+usually we just think of how big is it
+what's the battery life and then that's
+the end but there is how fast it charges
+how fast it depletes how do you decide
+on a battery and a phone
+I think battery is is pretty standard
+but you messed you mentioned charging
+right and our phones have been known to
+have warp charging and that that has
+additional costs the hardware is not
+exactly the same because it's a high
+amperage charging the power conversion
+happens in the power brake instead of in
+the phone itself and that has a some
+additional cost yeah I mean shipping a
+phone with power brick pretty pretty
+important some may say oh pretty
+important yeah what about a what about
+the display so we've talked about I've
+talked about displays a lot I'm I'm
+always interested in a great screen
+what's the what's the difference between
+a great screen and a not-so-great screen
+when you're pricing out like something
+like a flagship versus a mid-range phone
+when it comes to display I think the the
+biggest choice you have to make is
+whether you're using a AMOLED display or
+a LCD display and an AMOLED display is
+up to two times more expensive than a
+LCD display but it it depends on a lot
+of other factors as well so for instance
+if you want a curved display that cost
+even more because when when you're
+manufacturing these curved displays
+there's more prone to error in the
+manufacturing process so the yield rate
+gets lower hence the more expensive
+product gotcha
+and as refresh rate seemed to come down
+in price a little bit every year like it
+was almost unusual to have a higher
+frustrate maybe four years ago and a
+phone now it seems like you can get a
+high refresh rate AMOLED display pretty
+readily when it comes to display it's a
+lot about volume so now that ninety
+Hertz displays have become really common
+that drives the volume up and then hence
+the price down but it chill
+still a trade-off because we spent quite
+a lot on the display for this phone to
+ensure the smoothness to ensure the
+smooth scrolling but we think it's worth
+it I got to ask I have to I'm sorry in
+advance but I have to ask how much does
+a headphone jack cost good question
+headphone jack doesn't cost that much in
+in in the Bill of Materials the the cost
+of that comes from the mechanical design
+of the phone the hardware design of the
+phone it takes additional space space
+you can otherwise use for other things
+for instance battery and nowadays true
+wireless earphones are getting pretty
+popular and they're coming down in price
+so we see a smaller and smaller in need
+for headphone jacks I'm actually curious
+how big of a difference do you think you
+actually gain in battery for example I
+think that's usually the sighted like
+biggest improvement once you get rid of
+that port how how much bigger do you
+actually get to make the battery in a
+phone by getting rid of the headphone
+jack
+it's a overall balance I think I would
+say I haven't really calculated how much
+you know that amount of space results in
+a milliamp Ridge for the battery but
+it's a balance of a lot of different
+things for instance we also want to make
+sure our phones are not too thick
+because one of the first things
+consumers react to is how it feels in
+the hand and when you have a phone that
+feels really slim or feels good in the
+hand so in our case we also you know
+since the very beginning we have these
+tapered edges on the back
+make it more grip level this is really
+important so it's an overall balance a
+larger battery or less space for the
+battery will also result in a thicker
+phone so I can just show you quickly
+some of the the prototypes we we
+explored before deciding on their final
+design so I have some of them here so
+how should I show them that's good so
+that's so this is like a when you say
+prototype this is like you make a sort
+of a mock-up of a potential design to
+fit the phone into yeah
+when I say prototype I mean design
+mock-ups so as I was saying before when
+the product team is kind of working on
+their product strategy the industrial
+design team is also working on different
+paths to take the design and so all the
+prototypes all the mock-ups are actually
+of they have the same camera kind of
+configuration you see a very unique
+style camera configuration but the
+finish is different here you see like
+three squares on the previous one it's a
+matte frosted glass and they're like are
+we yeah yeah which one of these two
+would you like the most I'm gonna I'm
+gonna go with that Dave to detail over
+there on the side I feel like I would
+I'll be into that so this one yeah
+teal yeah Dave to detail yeah but then
+towards the end we settled on this
+design so we did something you're
+usually not allowed to do which is we
+change design really late in the process
+and that caused the entire project to be
+delayed by around a month and the reason
+why we did this is because in the
+beginning we saw this new product line
+is more of a test or an experiment but
+as we were looking into the the data and
+the consumers we realized that this
+would be a really good opportunity that
+we would sell a lot more phones than we
+you know originally envisioned so then
+we had to
+really rethink our design strategy are
+we doing this as an experiment if it's
+an experiment then we can be much more
+daring with our industrial design we can
+try this camera setup that looks really
+unique l-shaped camera setup but if we
+want to sell a lot of phones we want to
+target a much broader user base we need
+to make sure that it's immediately
+recognizable as a 1 plus phone so we
+have the same you know camera setup
+vertical camera setup you see in other
+oneplus phones and we have the same kind
+of tapered edges on the on the back of
+the phone to really remind you of the
+oneplus design philosophy that reminds
+me of a question I've always had I am so
+curious about this so you you how long
+before it's revealed is the design
+locked because I'm always I'm always
+thinking like sometimes phones get
+leaked and then you know there's all
+this this this feedback online suddenly
+of a phone that you haven't announced
+yet and you have maybe if it's early
+enough the ability to react to it but
+like you said once you started
+manufacturing and tooling and everything
+it's it's almost impossible to change it
+without delaying it massively so so how
+long before you get on stage with that
+final product is the design finished
+ideally we should finish it 9 months
+before the launch in this case it's it's
+gonna be six months yeah okay because um
+after we you know decide on the concept
+and we kick off there's a lot of other
+work we need to do right it's a cop it's
+a complex piece-by-piece process it has
+to fit sort of together like a puzzle
+otherwise our gonna be delayed because
+basically even if you have to finalize
+that design six to nine months before
+you end up getting into those stages of
+testing designs you've already thought
+of maybe like right after you've just
+you know revealed the phone a year
+before so that's it almost requires like
+a future it requires a vision of what
+you want in a future long before you're
+actually going to share it so that is
+exactly really interesting to note
+that's why it's really helpful to have a
+product strategy so when you're building
+a roadmap you make sure that you always
+follow this strategy that you build
+awesome well look I'm I appreciate the
+time and and all the info and background
+on how these phones come together I feel
+like I've learned a lot I'm hoping
+everyone who's listening has also
+learned a lot about how this stuff works
+but uh anything any closing words any
+final parting teasers for Nord you want
+to drop on us before we get out of here
+I'm really just really excited to see
+what everybody thinks about the product
+when this video drops it's only a couple
+of days left to the launch so we're
+really excited and a little bit anxious
+here so here's hoping that everything
+goes well so that's been it again full
+episode is on the waveform podcast if
+you want to listen to all of it we go
+into much greater detail but I'm
+actually curious now for you does this
+affect the way you think about smart
+phones and those compromises at all like
+now that you know NFC costs four bucks
+now that you know an IP certification
+will be fifteen extra dollars on the
+bill of materials or that it might cost
+twice as much for a good AMOLED display
+versus LCD how does this change the way
+you think about smart phones we can have
+a discussion in the comments section
+below
+either way thanks for watching catch you
+guys the next one peace

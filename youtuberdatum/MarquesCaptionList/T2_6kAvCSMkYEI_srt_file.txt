@@ -1,0 +1,314 @@
+hey what's up
+mkbhd here so let's talk max for a
+minute
+so next to me here is the brand new
+27-inch imac you may have seen that
+announcement and this guy is essentially
+a spec bump a refresh
+of a lot of really important pieces
+inside of
+the same design imac we've always known
+and first of all i've already said like
+in previous videos that i love that
+apple is doing more
+consistent updates to products at least
+lately because in my ideal world
+the tech just keeps getting updated over
+and over regardless of whatever cycle
+we're on
+whenever you buy a new piece of tech
+it's just the latest version available
+kind of like what tesla does but
+computers don't all work that way so
+this is about as good as we'll get thank
+you for keeping the imac
+updated apple that being said
+because of the inevitable imac refresh
+the updated design we're expecting and
+the apple silicon transition for max
+looming on the horizon it's not such a
+straightforward answer to just
+recommend getting this or not but let me
+just show you what's new with this imac
+because it's actually a really nice
+update all things considered
+so it's mostly the 27-inch imac getting
+the good stuff
+and first of all it's updated to the
+latest 10th gen intel chips
+and radeon graphics so this one i have
+here is actually spec pretty nicely
+with the highest end 10 core i9 and you
+can get it with up to 128 gigs of ram
+that is thankfully still user
+replaceable by this little door here on
+the back of the 27 inch
+and you have the new radeon 5000 series
+gpus
+minus spec as you can see and i've only
+had it for a limited time about two days
+but i have obviously had no performance
+issues
+on this brand new machine and benchmarks
+show that it is
+a solid performance upgrade there is a
+reason for this new chip but i think the
+biggest change is actually
+that the hard drives are now gone from
+this lineup
+those fusion drives are also now gone it
+is all
+ssds all the way through the line up to
+eight terabytes which is sick now
+honestly this is kind of long overdue
+hard drives instead of ssds in
+premium machines in 2020 should
+basically be a niche thing at this point
+the prices come down so much for fast
+ssds
+which these are that it's a no-brainer
+so i'm glad to see ssds
+the one weird thing is if you go spec
+out a 21.5 inch imac right now you can
+still
+find a one terabyte fusion drive i think
+that is the last hard drive shipping
+in an apple product right now at least
+default
+kill that apple but you know what makes
+me really happy to be able to say
+they've improved the quality
+of the webcams this is now the look of
+the new 1080p webcam
+in the imac 27-inch
+looks much better again it's not like
+some amazing thing but it's not just the
+resolution
+1080p it's a physically better sensor
+and
+of course you can see the image quality
+here there's also
+the microphone quality which you're
+hearing which now is these new studio
+quality mics which
+again is a bit of an exaggeration but
+there is one additional microphone
+around the back of the mac
+for better echo and noise cancellation i
+guess it makes sense that they could
+upgrade the physical size of the webcam
+inside the imac because there's more
+room
+inside this bigger machine um
+i'm still going to keep asking for a
+better webcam in their laptops but
+again when you put it in this this all
+in one it makes it that much better
+of a media machine in these times where
+we're doing a lot more
+video conferencing and virtual work
+they've also improved
+the speakers at the bottom of the imac
+here so there's now a dedicated audio
+controller on the t2 chip
+and personally while i can't really hear
+much of a max volume difference i mean
+it's already been pretty loud
+i can attest for an improvement in the
+fidelity and just overall quality
+at most of the existing volume levels
+which is always great because a lot of
+people
+who use imacs use these built-in
+speakers but the feature i was most
+interested in
+when we saw this announcement the other
+day is the new nano texture
+matte glass which conveniently enough
+this mac behind me
+actually has it's hard to tell because
+there's almost no reflections but
+i think this is an option first of all
+that i love and that i think a lot of
+people buying imacs
+will also love so a lot of you probably
+remember the nano texture option first
+appearing in the 5
+000 pro display xdr from last year
+it was a thousand dollar option but
+generally it dramatically reduced glare
+and now these things are an order of
+magnitude easier to work with in this
+well-lit studio environment so having
+this same finish
+without having to change the color or
+anything about the bezels
+is great it massively cuts down on
+reflections as you can tell
+and now you can use the imac in rooms
+with
+windows behind you or lamps across the
+room or just any other types of
+uncontrollable light that you just don't
+have to worry about anymore this is
+implemented super well my only question
+is
+it's a 500 option here on the imac it
+was a it still has a thousand dollar
+option on the pro display xdr
+why is this not available on the imac
+pro if you know
+pros will use it because it's on the pro
+display and you know regular people love
+it because matte displays are everywhere
+and you put it on the imac
+why not put it on the machine both pros
+and some regular people
+yet get so i wouldn't be surprised if we
+saw this
+eventually get added to imac pro so
+anyway all that great stuff being said
+you should still think very carefully
+about whether you should buy whatever
+you should spend
+starting at 17.99 whether you should
+spend that much money on a new machine
+right now at this point in 2020 because
+there are some things looming on the
+horizon
+which are the inevitable imac redesign
+and the apple silicon transition see the
+imac
+is long overdue for redesign and i'm not
+just saying that because people like to
+just change for the sake of change
+they've been using essentially this same
+design
+for about eight years now since 2012 and
+it's just
+dated now like look at the size of these
+bezels
+where else in anywhere in apple's lineup
+do you see bezels this big
+the chin being this big even the port
+layout around the back
+this this is generally a machine that
+could use a refresh and so the rumor is
+apple's been working on this
+a sort of imac redesign that looks
+something like the pro display xdr
+or the ipad pro with generally more
+squared off edges
+thinner bezels and all that same great
+performance
+that would feel a lot more worth the
+money
+whenever that happens but even if let's
+say you are fine with this design
+there is also now the already announced
+transition of all macs to apple silicon
+that they announced at wwdc and that's
+when we saw apple get on stage and talk
+about the planned
+two-year transition period to start
+moving all of their macs from intel's
+x86 architecture to apple silicon
+and there are some seriously impressive
+performance and efficiency
+and thermal promises that come from all
+the potential of moving to apple silicon
+and we're all hoping this transition
+goes as smoothly as possible
+but importantly if you are a shopper
+considering getting an imac
+there are a lot of unanswered questions
+just in general
+about what will happen to intel max
+once this transition period is over and
+how long will it take before intel max
+slowly start to get treated like second
+class
+max and start to get less updates and
+just generally start to fade into the
+past
+so in the case of this new imac update
+and every single intel mac update
+between now and that transition
+consider two things one how immediately
+do you actually need to get a new
+computer
+and two how long do you plan on keeping
+that mac like sometimes it can be kind
+of hard to know but if you know
+generally you're a pretty quick updater
+in like three or four years you know
+you'll probably upgrade again
+or if you need a computer now or let's
+say you just
+like this design then get it because
+this is a pretty great mac
+in general a lot of things that are
+great about it like i talked about in
+the first half of this video but because
+this is such a
+solid easy to recommend all-in-one
+there's a lot of buyers of imax
+that have their computer for that they
+want it to be good for seven
+eight nine ten years which is an
+incredibly long time to use a computer
+but people keep their computers for a
+very long time when they buy imax and
+not a lot of people watching this
+channel
+fall into that demographic but those
+people
+should probably wait another year
+or two for the inevitable transition
+to apple silicon or that imac redesign
+or maybe they both happen at the same
+time but
+that will make it feel much more worth
+the money
+then again a lot of those people
+probably don't care about apple silicon
+or designs of imax so maybe i'm just
+preaching to no one here there's
+something called
+the osborne effect which i'm sure a lot
+of apple users have considered which is
+a social phenomenon of customers
+canceling or deferring orders for a
+current
+soon to be obsolete product as an
+unexpected drawback
+of a company's announcing a future
+product prematurely
+you can imagine applying that to this
+current situation which is people
+deciding not to buy this pretty great
+imac that would probably be fine for
+them
+because of the intel 2 apple silicon
+transition expected in about a year
+maybe that'll be a better one and i
+think apple's thought a lot about this
+and
+at the end of the day this imac was
+still going to come out anyway because
+apple's relationship with intel is
+is a long time coming and these products
+have just been
+road mapped for years now so it was
+going to happen anyway but
+i think if you're a potential customer
+just take that extra beat to think about
+whether you need a computer
+now or if you can wait a year or two for
+what will probably be a bit more future
+proof
+anyway that's my two cents
+that's been the video thanks for
+watching catch you guys in the next one
+peace
+you
