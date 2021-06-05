@@ -29,12 +29,29 @@
 3). 데이터 분석 단계: 긍/부정 분석 -> TextBlob API, Emotion 분석 -> NRC Emotion Lexicon, 분석 데이터 병합 -> Python pandas library,  분석 결과 시각화 -> Python matplot library Barchart
 
 
-## How?
+## Codes
+1. 데이터 수집  
+1-1). 동영상 리스트 수집: codes/1. extractVideoList.ipynb  
+1-2). 자막과 댓글 데이터 추출: codes/2. extractCaptionandComment.ipynb  
 
+2. 데이터 전처리와 분석
+2-1). 자막데이터 전처리와 긍/부정분석, emotion 분석: codes/3-1. sentiment and emotion analysis_caption.ipynb
+2-3). 댓글데이터 전처리와 긍/부정분석, emotion 분석: codes/3-2. sentiment and emotion analysis_comment.ipynb  
 
+3. 결과 분석  
+3-1). 자막, 댓글 데이터 분석 결과 병합: codes/3-3. merge sentiment and emotion analysis result.ipynb  
+3-2). 3-1의 분석결과 병합 데이터에 대하여 시각화: codes/4. visualize the results.ipynb  
+3-3). 분석에 사용한 데이터 양 통계: codes/5. statistics.ipynb
+
+## Results  
+1. youtuberdatum
+유튜버의 동영상아이디, 추출한 자막, 댓글 데이터 모음  
+
+2. analysis_result  
+긍/부정 분석 결과와 emotion 분석 결과에 대한 통계파일, 이미지 파일 모음.
 
 ## 기대효과 및 의의  
 
 1. 저희는 판데믹이라는 특수한 상황아래 기존 설문조사만으로 진행되었던 집단 정서 연구가 빅데이터로써 확인 될 수 있음을 증명했다. 이를 통해 동시 다발적으로 생성되는 대중들의 감성, 피로도를 분석하여 국가 정책 수립 시 하나의 지표로 사용할 수 있을 것으로 기대한다.  
-2. 
+
 3. 빅데이터 분석을 통한 집단 정서 파악으로 사회적 거리두기와 같은 국가 정책의 방향성을 제안할 수 있다. 
